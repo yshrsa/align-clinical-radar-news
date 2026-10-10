@@ -153,6 +153,12 @@ def relevant(item: dict[str, Any], source: dict[str, Any], terms: list[str]) -> 
 def merge_items(existing: list[dict[str, Any]], fetched: list[dict[str, Any]], max_items: int) -> tuple[list[dict[str, Any]], int]:
     rows = {str(item["id"]): item for item in existing if item.get("id")}
     new_count = sum(1 for item in fetched if item["id"] not in rows)
+    for item in fetched:
+        previous = rows.get(item["id"])
+        if previous and previous.get("title") == item.get("title") and previous.get("snippet_en") == item.get("snippet_en"):
+            for field in ("summary_ja", "key_takeaway_ja", "summary_model", "summary_generated_at_utc"):
+                if previous.get(field):
+                    item[field] = previous[field]
     rows.update({item["id"]: item for item in fetched})
     merged = sorted(rows.values(), key=lambda item: (item.get("published_date") or "", item.get("retrieved_at_utc") or ""), reverse=True)
     return merged[:max_items], new_count

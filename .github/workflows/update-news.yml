@@ -25,7 +25,21 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python -m unittest discover -s tests -v
-      - name: Collect, summarize and publish
+      - name: Collect public industry news
+        continue-on-error: true
+        run: python -m src.collect_industry_news
+      - name: Summarize industry news in Japanese
+        continue-on-error: true
+        env:
+          ALIGN_RADAR_AI_URL: ${{ vars.ALIGN_RADAR_AI_URL }}
+          ALIGN_RADAR_INGEST_SECRET: ${{ secrets.ALIGN_RADAR_INGEST_SECRET }}
+        run: |
+          if [[ -n "$ALIGN_RADAR_AI_URL" && -n "$ALIGN_RADAR_INGEST_SECRET" ]]; then
+            python -m src.summarize_industry_news --limit 4
+          else
+            echo "Cloudflare Qwen endpoint is not configured; preserving source excerpts without generated summaries."
+          fi
+      - name: Collect, summarize and publish evidence
         env:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           ALIGN_RADAR_AI_URL: ${{ vars.ALIGN_RADAR_AI_URL }}
@@ -37,9 +51,6 @@ jobs:
             echo "Cloudflare Qwen endpoint is not configured; collecting without paid fallback."
             python -m src.run_pipeline --skip-summarize
           fi
-      - name: Collect public industry news
-        continue-on-error: true
-        run: python -m src.collect_industry_news
       - name: Sync publishable records to Notion
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}

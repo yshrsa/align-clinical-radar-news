@@ -17,6 +17,7 @@ from src.summarize_ja import guard_summary, normalize_missing_abstracts
 from src.common import NOT_REPORTED, SUMMARY_FIELDS
 from src.sync_d1 import changed_documents, evidence_document
 from src.collect_industry_news import merge_items, parse_align_newsroom, parse_rss, prepare_item, relevant
+from src.summarize_industry_news import MISSING as NEWS_MISSING, guard_summary as guard_news_summary, prompt_for as news_prompt
 
 
 class PipelineTests(unittest.TestCase):
@@ -44,6 +45,13 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual([item["id"] for item in merged], ["new", "old"])
         self.assertEqual(added, 1)
 
+    def test_industry_merge_preserves_summary_only_for_unchanged_source_text(self) -> None:
+        old = [{"id": "same", "title": "T", "snippet_en": "S", "summary_ja": "要約", "key_takeaway_ja": "要点"}]
+        unchanged, _ = merge_items(old, [{"id": "same", "title": "T", "snippet_en": "S"}], 10)
+        changed, _ = merge_items(old, [{"id": "same", "title": "T", "snippet_en": "New"}], 10)
+        self.assertEqual(unchanged[0]["summary_ja"], "要約")
+        self.assertNotIn("summary_ja", changed[0])
+
     def test_align_official_news_is_always_focal_related(self) -> None:
         pack = {
             "entities": {"focal_company": {"name": "Align Technology"}, "assets": []},
@@ -56,6 +64,13 @@ class PipelineTests(unittest.TestCase):
         )
         self.assertTrue(item["focal_related"])
         self.assertEqual(item["matched_companies"], ["Align Technology"])
+
+    def test_news_summary_guard_and_prompt_forbid_unsupported_claims(self) -> None:
+        guarded = guard_news_summary({"summary_ja": "", "key_takeaway_ja": "要点"})
+        self.assertEqual(guarded["summary_ja"], NEWS_MISSING)
+        prompt = news_prompt({"source_name": "Source", "title": "Launch", "snippet_en": "Company announcement"})
+        self.assertIn("推測、外部知識、数値の補完は禁止", prompt)
+        self.assertIn("Company announcement", prompt)
 
     def test_d1_evidence_hash_changes_when_summary_changes(self) -> None:
         row = {"pmid": "1", "title": "Trial", "abstract": "English abstract", "content_sha256": "source"}

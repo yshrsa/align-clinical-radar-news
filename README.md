@@ -45,7 +45,8 @@ D1同期が失敗しても静的JSONの公開は継続し、チャット検索�
 Industry NewsはAlign公式Newsroom、Orthodontic Products、Dental Tribune、MedTech Dive、
 FDA MedWatch / Press Releasesの公開情報を収集します。各記事に原文記事、媒体サイト、
 RSSまたは収集元URLを表示し、出典を画面から追跡できます。記事本文は転載せず、
-公開フィードが提供するタイトルと抜粋だけを掲載します。
+公開フィードが提供するタイトルと抜粋だけを掲載します。日本語要約と運用上の要点は
+その抜粋だけを根拠にQwenで生成し、推測や数値補完を禁止しています。
 
 ## 構成計画
 
