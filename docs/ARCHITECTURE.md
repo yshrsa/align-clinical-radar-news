@@ -16,10 +16,18 @@ PubMed E-utilities
   -> 静的JSON / GitHub Pages
   -> D1文献テーブル（初回全件、以後は同期ハッシュ差分のみupsert）
 
+公開業界ソース
+  -> Align公式Newsroom（公開HTML）
+  -> Orthodontic Products / Dental Tribune / MedTech Dive（公開RSS）
+  -> FDA MedWatch / Press Releases（公開RSS）
+  -> 決定論的な領域語フィルタ・URL重複排除
+  -> Industry News静的JSON / GitHub Pages
+
 GitHub Actions（毎日 06:15 JST）
   -> Cloudflare Workerの要約専用endpoint
   -> Workers AI Qwen 3.8 27B（日次予算をD1で事前予約）
   -> 品質ゲート通過後だけGitHub Pagesを更新
+  -> 業界ニュースを差分マージ（記事・媒体・取得元URLを保持）
 
 Cloudflare Access
   -> Pages Function（認証メールを同一Originで引き渡し）

@@ -12,6 +12,9 @@ import requests
 from .common import DATA_DIR, SUMMARY_FIELDS, read_json
 
 def evidence_document(row: dict[str, Any]) -> dict[str, Any]:
+    authors = row.get("authors") or []
+    if isinstance(authors, str):
+        authors = [value.strip() for value in authors.split(",") if value.strip()]
     payload = {
         "pmid": str(row.get("pmid") or ""),
         "title": row.get("title") or "",
@@ -26,7 +29,7 @@ def evidence_document(row: dict[str, Any]) -> dict[str, Any]:
         "endpoint_results_ja": row.get("endpoint_results_ja") or "",
         "sample_size_ja": row.get("sample_size_ja") or "",
         "journal": row.get("journal") or "",
-        "authors": row.get("authors") or [],
+        "authors": authors,
         "publication_date": row.get("pub_date") or "",
         "doi": row.get("doi") or "",
         "url": row.get("url") or "",

@@ -2,6 +2,7 @@
 
 - News: https://yshrsa.github.io/align-clinical-radar-news/
 - AI Chat: https://align-clinical-radar-chat.pages.dev/
+- Industry News: https://yshrsa.github.io/align-clinical-radar-news/industry.html
 
 Align Technology JapanのClinical Manager / Treatment Planning Operationsを題材に、
 クリアアライナー領域の公開PubMed文献を「臨床品質と運用判断」へつなぐ独立Radarです。
@@ -40,6 +41,11 @@ OpenAI APIや有料フォールバックは使用しません。
 全件の文献メタデータはD1の検索専用テーブルにも保存します。初回同期は全件、以後は
 文献・分類・日英要約を含む同期ハッシュが変わったレコードだけを毎日06:15 JSTにupsertします。
 D1同期が失敗しても静的JSONの公開は継続し、チャット検索も公開JSONへ自動退避します。
+
+Industry NewsはAlign公式Newsroom、Orthodontic Products、Dental Tribune、MedTech Dive、
+FDA MedWatch / Press Releasesの公開情報を収集します。各記事に原文記事、媒体サイト、
+RSSまたは収集元URLを表示し、出典を画面から追跡できます。記事本文は転載せず、
+公開フィードが提供するタイトルと抜粋だけを掲載します。
 
 ## 構成計画
 

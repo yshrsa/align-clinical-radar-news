@@ -37,6 +37,9 @@ jobs:
             echo "Cloudflare Qwen endpoint is not configured; collecting without paid fallback."
             python -m src.run_pipeline --skip-summarize
           fi
+      - name: Collect public industry news
+        continue-on-error: true
+        run: python -m src.collect_industry_news
       - name: Sync publishable records to Notion
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}

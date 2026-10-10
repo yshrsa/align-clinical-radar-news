@@ -16,9 +16,47 @@ from src.publish import freshness, public_config, validate_document
 from src.summarize_ja import guard_summary, normalize_missing_abstracts
 from src.common import NOT_REPORTED, SUMMARY_FIELDS
 from src.sync_d1 import changed_documents, evidence_document
+from src.collect_industry_news import merge_items, parse_align_newsroom, parse_rss, prepare_item, relevant
 
 
 class PipelineTests(unittest.TestCase):
+    def test_industry_rss_preserves_article_and_source_metadata(self) -> None:
+        source = {"id": "x", "name": "Source", "source_url": "https://source.test/", "feed_url": "https://source.test/feed", "category": "業界"}
+        xml = b"""<rss><channel><item><title>Invisalign update</title><link>https://source.test/a</link><description>Clear aligner news</description><pubDate>Fri, 09 Oct 2026 11:26:48 +0000</pubDate><category>Aligners</category></item></channel></rss>"""
+        item = parse_rss(xml, source)[0]
+        self.assertEqual(item["url"], "https://source.test/a")
+        self.assertEqual(item["published_date"], "2026-10-09")
+        self.assertEqual(item["source_categories"], ["Aligners"])
+
+    def test_align_newsroom_parser_uses_official_article_url(self) -> None:
+        source = {"source_url": "https://www.aligntech.com/newsroom"}
+        html = '<div class="news-item"><h4>10/01/2026</h4><h4 class="light-text"><a href="https://investor.aligntech.com/release">Align release</a></h4></div>'
+        item = parse_align_newsroom(html, source)[0]
+        self.assertEqual(item["published_date"], "2026-10-01")
+        self.assertEqual(item["url"], "https://investor.aligntech.com/release")
+
+    def test_industry_relevance_and_merge_are_deterministic(self) -> None:
+        self.assertTrue(relevant({"title": "Clear aligner launch"}, {}, ["clear aligner"]))
+        self.assertFalse(relevant({"title": "Cardiac catheter"}, {}, ["clear aligner"]))
+        old = [{"id": "old", "published_date": "2026-10-01"}]
+        new = [{"id": "new", "published_date": "2026-10-02"}]
+        merged, added = merge_items(old, new, 10)
+        self.assertEqual([item["id"] for item in merged], ["new", "old"])
+        self.assertEqual(added, 1)
+
+    def test_align_official_news_is_always_focal_related(self) -> None:
+        pack = {
+            "entities": {"focal_company": {"name": "Align Technology"}, "assets": []},
+            "scope": {"topics": []}, "sources": {"japan_relevance_terms": []},
+        }
+        item = prepare_item(
+            {"title": "Quarterly results", "url": "https://example.test/release"},
+            {"id": "align-official", "name": "Align", "source_url": "https://example.test", "feed_url": "https://example.test", "category": "Align公式"},
+            pack, "2026-10-10T00:00:00Z",
+        )
+        self.assertTrue(item["focal_related"])
+        self.assertEqual(item["matched_companies"], ["Align Technology"])
+
     def test_d1_evidence_hash_changes_when_summary_changes(self) -> None:
         row = {"pmid": "1", "title": "Trial", "abstract": "English abstract", "content_sha256": "source"}
         first = evidence_document(row)
@@ -26,6 +64,10 @@ class PipelineTests(unittest.TestCase):
         second = evidence_document(row)
         self.assertEqual(first["summary_en"], "English abstract")
         self.assertNotEqual(first["evidence_sha256"], second["evidence_sha256"])
+
+    def test_d1_evidence_normalizes_pubmed_author_string(self) -> None:
+        document = evidence_document({"pmid": "1", "title": "Trial", "authors": "A One, B Two"})
+        self.assertEqual(document["authors"], ["A One", "B Two"])
 
     def test_d1_delta_excludes_unchanged_documents(self) -> None:
         document = evidence_document({"pmid": "1", "title": "Trial"})

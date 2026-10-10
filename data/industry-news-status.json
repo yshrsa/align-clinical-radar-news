@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "checked_at_utc": "2026-10-10T14:01:33Z",
+  "overall_status": "healthy",
+  "counts": {
+    "sources": 6,
+    "healthy_sources": 6,
+    "items": 13,
+    "new": 0
+  },
+  "sources": [
+    {
+      "id": "align-official",
+      "name": "Align Technology Newsroom",
+      "source_url": "https://www.aligntech.com/newsroom",
+      "feed_url": "https://www.aligntech.com/newsroom",
+      "status": "ok",
+      "fetched": 3,
+      "accepted": 3
+    },
+    {
+      "id": "orthodontic-products",
+      "name": "Orthodontic Products",
+      "source_url": "https://orthodonticproductsonline.com/",
+      "feed_url": "https://orthodonticproductsonline.com/feed/",
+      "status": "ok",
+      "fetched": 10,
+      "accepted": 10
+    },
+    {
+      "id": "dental-tribune",
+      "name": "Dental Tribune International",
+      "source_url": "https://www.dental-tribune.com/article-topics/orthodontics/",
+      "feed_url": "https://www.dental-tribune.com/feed/",
+      "status": "ok",
+      "fetched": 1,
+      "accepted": 0
+    },
+    {
+      "id": "medtech-dive",
+      "name": "MedTech Dive",
+      "source_url": "https://www.medtechdive.com/",
+      "feed_url": "https://www.medtechdive.com/feeds/news/",
+      "status": "ok",
+      "fetched": 10,
+      "accepted": 0
+    },
+    {
+      "id": "fda-medwatch",
+      "name": "FDA MedWatch",
+      "source_url": "https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program",
+      "feed_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml",
+      "status": "ok",
+      "fetched": 20,
+      "accepted": 0
+    },
+    {
+      "id": "fda-press",
+      "name": "FDA Press Releases",
+      "source_url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+      "feed_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+      "status": "ok",
+      "fetched": 20,
+      "accepted": 0
+    }
+  ]
+}

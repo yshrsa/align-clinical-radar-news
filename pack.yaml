@@ -57,6 +57,68 @@ sources:
       OR "Tooth Movement Techniques"[MeSH Terms] OR treatment planning[Title/Abstract])
     max_per_run: 150
   japan_relevance_terms: ["Japan", "Japanese", "日本", "Japanese population", "Japanese patients"]
+  industry_news:
+    max_items: 100
+    relevance_terms:
+      - "clear aligner"
+      - "invisalign"
+      - "orthodont"
+      - "digital dentistry"
+      - "intraoral scan"
+      - "dental scanner"
+      - "treatment planning"
+      - "dental monitoring"
+      - "retainer"
+      - "malocclusion"
+      - "tele-dentistry"
+      - "3d print"
+      - "align technology"
+      - "clincheck"
+      - "itero"
+      - "exocad"
+      - "clearcorrect"
+      - "suresmile"
+      - "spark aligner"
+      - "angel aligner"
+    feeds:
+      - id: align-official
+        name: "Align Technology Newsroom"
+        kind: html-align-newsroom
+        source_url: "https://www.aligntech.com/newsroom"
+        feed_url: "https://www.aligntech.com/newsroom"
+        category: "Align公式"
+        include_all: true
+      - id: orthodontic-products
+        name: "Orthodontic Products"
+        kind: rss
+        source_url: "https://orthodonticproductsonline.com/"
+        feed_url: "https://orthodonticproductsonline.com/feed/"
+        category: "矯正歯科業界"
+        include_all: true
+      - id: dental-tribune
+        name: "Dental Tribune International"
+        kind: rss
+        source_url: "https://www.dental-tribune.com/article-topics/orthodontics/"
+        feed_url: "https://www.dental-tribune.com/feed/"
+        category: "歯科業界"
+      - id: medtech-dive
+        name: "MedTech Dive"
+        kind: rss
+        source_url: "https://www.medtechdive.com/"
+        feed_url: "https://www.medtechdive.com/feeds/news/"
+        category: "MedTech業界"
+      - id: fda-medwatch
+        name: "FDA MedWatch"
+        kind: rss
+        source_url: "https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program"
+        feed_url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml"
+        category: "規制・安全性"
+      - id: fda-press
+        name: "FDA Press Releases"
+        kind: rss
+        source_url: "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+        feed_url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"
+        category: "規制・安全性"
 
 delivery:
   rss_title: "Align Clinical Operations Radar"
