@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-10T13:15:10Z",
+  "generated_at_utc": "2026-10-10T13:21:50Z",
   "documents": [
     {
       "pmid": "42850342",
@@ -26,7 +26,16 @@
       "japan_relevant": false,
       "content_sha256": "764ce23ad2e2a1eefc7c504057ae4f0c041213622df181629209590de8a6522a",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "クリアアライナー矯正治療中の小児・思春期・若年成人・成人における唾液パラメータの調査状況をマッピングし、唾液採取・分析方法を記述し、文献の方法的ギャップを特定することを目的としたスコーピングレビュー。PRISMA-ScR準拠で、MEDLINE/PubMed、Scopus、Web of Science、ProQuestを検索し、11カ国から22研究（880名）を含む。唾液アウトカムは微生物学的パラメータ、生化学・免疫学的マーカー、物理化学的特性、材料関連化学溶出物の4領域に分類された。",
+      "key_takeaway_ja": "研究間のfollow-upスケジュール、事前指示、唾液タイプ、採取手順、サンプル処理、保存条件、分析プラットフォームに大幅なばらつきがあり、研究間の比較可能性が制限されている。標準化された唾液採取・処理・保存・分析報告、年齢層別サンプリング、アライナー材料と臨床文脈の透明な報告が将来の研究に求められる。",
+      "why_matters_ja": "安全性：クリアアライナー治療中の唾液パラメータ（BPA、モノマー、炎症性マーカー、酸化ストレスなど）の調査状況を体系的に整理しており、材料安全性のモニタリング観点で参考となる。ワークフロー：唾液採取・分析方法の標準化が不足していることが示されており、臨床研究プロトコル設計時の方法論的指針として活用可能。",
+      "study_type_ja": "スコーピングレビュー",
+      "endpoints_ja": "唾液パラメータ（微生物学的パラメータ、生化学・免疫学的マーカー、物理化学的特性、材料関連化学溶出物）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "880名（クリアアライナー群494名、対照群386名）、22研究、11カ国",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-10T13:23:03Z"
     },
     {
       "pmid": "42842148",
@@ -54,7 +63,16 @@
       "japan_relevant": false,
       "content_sha256": "27ebad621eb398053b25c004891ea7e042c0ed7ec280e90e4985cfa58e8d3841",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "デジタル矯正治療における予測歯移動と実際歯移動の不一致（biology-digital mismatch）を批判的に検討したナラティブレビュー。PubMed、Scopus、Google Scholarで構造化文献検索を行い、デジタル計画の予測可能性を制限する生物学的・生力学的要因を分析した。現在のデジタルシステムは線形かつ標準化された歯移動を仮定する幾何学的・アルゴリズムベースのモデルで動作するが、実際の歯移動は歯槽骨のリモデリング、骨代謝、機械伝達経路、患者固有の変動性など非線形な生物学的過程に支配される。臨床証拠として、トルク、抜歯、圧入、回転はチッピングや拡大よりも予測可能性が低いことが示されている。",
+      "key_takeaway_ja": "デジタル矯正計画の予測可能性の限界は、システムが線形・標準化された歯移動を仮定する一方、実際の歯移動が非線形な生物学的過程に支配されるという根本的なミスマッチに起因する。トルク、抜歯、圧入、回転はチッピングや拡大よりも予測困難である。",
+      "why_matters_ja": "planned-vs-achieved: 予測歯移動と実際歯移動の不一致が明確に指摘され、特にトルク・抜歯・圧入・回転で予測可能性が低いことが臨床証拠として示されている。planning quality: 現在の幾何学的・アルゴリズムベースモデルの限界（線形仮定、力減衰、トラッキング喪失）が計画品質のボトルネックとして議論されている。refinement: 将来の改善には生物学的プロファイリング、適応的生力学、AI駆動システムの統合が必要と提言されている。教育: 患者の期待管理（manage patient expectations）が将来の課題として言及されている。",
+      "study_type_ja": "ナラティブレビュー（批判的ナラティブレビュー）",
+      "endpoints_ja": "各歯移動タイプ（トルク、抜歯、圧入、回転、チッピング、拡大）の予測可能性の比較",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-10T13:23:31Z"
     },
     {
       "pmid": "42842071",
@@ -88,7 +106,16 @@
       "japan_relevant": false,
       "content_sha256": "cd0a3e3e4a4b9d367efb9e3c2561037e35f96e4c84cd40bc893a2e9acd7561e4",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "熱成形型と直接印刷型のクリアアライナーにおけるパワーリッジのトルク効率を比較した管理下インビトロ生体力学的研究。上顎標準モデルを用い、切歯のトルク矯正を必要とする4群（Zendura Flex熱成形型：パワーリッジ有/無、直接印刷型：TA-28樹脂、DCA樹脂）をOMSS（Orthodontic Measurement and Simulation System）で25°Cおよび37°C条件下にて評価した。",
+      "key_takeaway_ja": "クリアアライナーのトルク発現は主に材料特性と熱力学的挙動によって支配される。設計要素（パワーリッジ）のみでは材料性能の限界を完全に補償できない。",
+      "why_matters_ja": "planned-vs-achieved: プログラムされたトルクに対する実際のトルク発現率（38-39%、62%、32-42%、10-17%）を材料別に定量化しており、治療計画時のトルク補正量の過小評価リスクを材料選択の観点から示唆する。planning quality: 材料特性がトルク発現の主要因であるという知見は、トルク矯正を伴う症例におけるアライナー材料選定と計画精度の関連に直接関連する。",
+      "study_type_ja": "管理下インビトロ生体力学的比較研究（Comparative Study）",
+      "endpoints_ja": "トルク発現率（プログラムトルクに対する割合）、根尖部変位、モーメント発生、力-モーメントシステム、力的大小",
+      "endpoint_results_ja": "ZF-C（熱成形型・パワーリッジ無）: 38-39%（温度依存性有意差なし）。DCA（直接印刷型）: 25°Cで62%、37°Cで47%。ZF-PR（熱成形型・パワーリッジ有）: 32-42%（温度関連の中等度変動）。TA-28（直接印刷型）: 10-17%（温度効果有意差なし）。モーメント発生と変位パターンはトルク発現と相関、力的大小は相関なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-10T13:23:59Z"
     },
     {
       "pmid": "42834390",
@@ -119,7 +146,16 @@
       "japan_relevant": false,
       "content_sha256": "43bd22932e305606331fb496a08b9ec0b47637918114e0327e71b301acd73b9c",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "直接3Dプリント型アライナー材料（Tera Harz TC-85DAC、Freeprint Aligner、Freeprint Aligner with digital polishing、Dental LT Clear V2）と熱成形PETG材料（Biolon）の吸水率、水溶性、色安定性をin vitro条件下で比較した研究。37°Cで7日間の水浸漬による吸水・溶解、12時間の各種浸漬液（ターメリック、コーヒー、紅茶、オレンジジュース、蒸留水）による色変化（ΔE*）を評価した。",
+      "key_takeaway_ja": "熱成形PETG材料（Biolon）が吸水率・水溶性・色安定性のいずれでも最も有利なプロファイルを示した。3Dプリントレジンの中ではTera Harz TC-85DACが最も有利な組み合わせを示し、臨床応用の可能性を支持した。",
+      "why_matters_ja": "アライナー材料の吸水率・水溶性・色安定性は臨床性能に不可欠な特性であり、材料選定が治療の臨床的アウトカム（透明性維持、材料安定性）に直接影響する。3Dプリント材料の臨床適用可能性を評価する根拠となる。",
+      "study_type_ja": "in vitro 材料試験",
+      "endpoints_ja": "吸水率（water sorption）、水溶性（water solubility）、色安定性（ΔE*）",
+      "endpoint_results_ja": "吸水率: Biolon 平均10.70 µg/mm³、Tera Harz TC-85DAC 平均17.28 µg/mm³、Dental LT Clear V2 平均29.53 µg/mm³。水溶性: Biolon 中央値0.00 µg/mm³、Tera Harz TC-85DAC 中央値2.50 µg/mm³、Freeprint Aligner with digital polishing 中央値17.38 µg/mm³。色安定性（全浸漬液の中央値ΔE*の平均）: Biolon 4.21、Dental LT Clear V2 27.35。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-10T13:24:23Z"
     },
     {
       "pmid": "42821041",
@@ -148,7 +184,16 @@
       "japan_relevant": false,
       "content_sha256": "edfe4f80e2b0cfd55760b4733d2d61bfef3ac35daae32133ef3c9a68a38a1d08",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "一般市民の矯正装置および治療提供者への選好に関するエビデンスをマッピングするスコーピングレビュー。5つの電子データベースから2025年12月まで検索し、17カ国・56研究（横断的アンケート48、定性研究7、混合手法1）・16,271名の一般市民を対象に包含した。専門矯正歯科医が最も選好される治療提供者であり、DTC治療は少数派に支持された。成人は審美的装置を好む一方、小児・思春期は金属ブラケットをより審美的と認識した。実用的な装置特性（効果、快適性、治療結果）は、特に情報のある患者において外観を上回った。",
+      "key_takeaway_ja": "DTCやアライナーは審美性・利便性への需要に応えるものの、矯正歯科医および固定装置への選好は依然として強く、感知される品質と小児・思春期における金属ブラケットの社会的受容性が駆動因子である。誤解を解消し、より情報に基づいた意思決定を導くための公衆および診療室内での教育の改善が推奨される。",
+      "why_matters_ja": "教育：抄録は「Better public and in-chair education is recommended to address misperceptions and guide better-informed decision-making」と明記しており、患者教育の質が治療選択に直接影響することを示す。安全性：「overestimation of DTC safety and effectiveness」が一般市民の共通の誤解として挙げられており、DTCアライナー治療の安全性に関する認識ギャップが存在することを示唆する。ワークフロー：治療経路（専門矯正歯科医 vs DTC）の選好構造が明らかになり、治療計画の入口設計や患者エンゲージメント戦略に示唆を与える。",
+      "study_type_ja": "スコーピングレビュー",
+      "endpoints_ja": "一般市民の矯正装置への選好、治療提供者への選好、支払意思額、感知される品質・専門性、感知される安全性・有効性、審美性認識",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "16,271名の一般市民（17カ国、56研究から包含）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-10T13:24:52Z"
     },
     {
       "pmid": "42814043",
@@ -173,7 +218,16 @@
       "japan_relevant": false,
       "content_sha256": "ba1fc445d2ea61daa3affcd6621f4d2412a6ea1976503df0c3e4df90cd805ed6",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "本論文は、クリアアライナーによる歯移動の予測可能性を向上させるための臨床戦略をPart 1で述べられた生体力学的三要素（アンカレッジ、応力連続性、アライナー-歯接触）から実践的な戦略へ転換するPart 2である。患者中心戦略（適切な症例選択、アライナーに有利な治療計画、難易度に基づく患者管理）、アライナー媒介戦略（最適な材料選択、応力集中の低減、アライナー設計の最適化）、臨床医主導戦略（過剰治療、アタッチメント・補助装置による生体力学的増強、予測可能な移動を優先した段階的シーケンス、動的モニタリング・トラブルシューティングプロトコル）の3つの相互関連する戦略領域を提示している。",
+      "key_takeaway_ja": "3つの戦略領域（患者中心、アライナー媒介、臨床医主導）は孤立して用いるのではなく、統合的に運用することでクリアアライナーによる予測可能な歯移動が達成される。",
+      "why_matters_ja": "計画品質：アライナーに有利な治療計画（aligner-favored treatment planning）と難易度に基づく患者管理が計画段階の品質向上に寄与する。planned-vs-achieved：本論文の核心は計画された歯移動と達成された歯移動の乖離（予測可能性の低さ）を臨床戦略で縮小することにある。ワークフロー：動的モニタリング・トラブルシューティングプロトコルや予測可能な移動を優先した段階的シーケンス（staging sequences）は臨床ワークフローの改善に直接関連する。教育：Part 1の概念的生体力学をPart 2で実践的戦略へ転換する構成は、臨床医への教育・知識伝達に有用。",
+      "study_type_ja": "叙述的レビュー（概念論文、Part 2）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-10T13:25:14Z"
     },
     {
       "pmid": "42820506",
@@ -203,7 +257,16 @@
       "japan_relevant": false,
       "content_sha256": "af4328adfea9555df55cb2adf4888d091b6cbb44825a870d57cf5795b0d79275",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "ブラジルの矯正歯科医のウェブサイト上に公開されているクリアアライナー関連情報の品質・信頼性・意思決定支援能力をDISCERN質問票を用いて評価した横断研究。2024年7月にGoogleでポルトガル語キーワード検索を行い、非スポンサーのウェブサイト130件中113件が包含基準を満たした。2名の校正済み矯正歯科医がブラジルポルトガル語版DISCERN尺度で独立評価し、評価者間信頼性（ICC）および記述統計・Spearman相関を算出した。",
+      "key_takeaway_ja": "ブラジル矯正歯科医のウェブサイト上のクリアアライナー情報の品質は極めて低く、54.3%が「非常に不良」、30.7%が「不良」と評価された。治療リスク（Q11: 98.2%）、治療しない場合の帰結（Q12: 100%）、不確実性の領域（Q8: 95.6%）が最も低得点であった。",
+      "why_matters_ja": "患者教育の観点：DISCERNは意思決定支援能力を評価する尺度であり、治療リスク・代替療法・出典の不足はインフォームド・コンセントと患者の自己決定を妨げる。安全性の観点：治療リスク（Q11）と治療しない場合の帰結（Q12）がほぼ全サイトで不良評価であり、患者へのリスク情報提供が著しく不十分であることが示された。",
+      "study_type_ja": "横断研究（cross-sectional study）",
+      "endpoints_ja": "DISCERN総合得点（平均・SD・範囲）、評価者間信頼性（ICC）、ウェブサイト品質評価カテゴリ別割合（非常に不良/不良/可/良好/優秀）、低得点項目（Q4, Q5, Q8, Q11, Q12）の不良評価割合",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "113ウェブサイト",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-10T13:25:38Z"
     },
     {
       "pmid": "42840499",
@@ -230,7 +293,16 @@
       "japan_relevant": false,
       "content_sha256": "9b0ffe200010bcc3b5d06a54d6eb00dc2b565dbd8e2e4b8d4509c87cd73a9ed6",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "対話型AIチャットボットが正畸情報や臨床ガイダンスを提供する場合の正確性・信頼性、完全性、読みやすさ、専門医との一致、誤解を招く情報について、PRISMA 2020およびCochraneガイドラインに従い体系的に評価したレビュー。16の解析的横断研究が包含された。チャットボットは日常的な正畸質問に対して一貫性のある回答を生成したが、治療計画、個別化推奨、文脈的リスク枠組み、情報完全性において重要な限界が認められた。クリアアライナー、気道への影響、安定性、手術に関する不完全または虚偽の主張が報告された研究もあった。読みやすさは概ね良好であったが、臨床的適切性を保証するものではなかった。バイアスリスクは低〜中程度、証拠の確実性は非常に低かった。",
+      "key_takeaway_ja": "AIチャットボットは専門家の監督下での日常的な正畸教育を支援し得るが、現在の証拠は自律的使用を支持していない。",
+      "why_matters_ja": "安全性：クリアアライナー、気道への影響、安定性、手術に関する不完全または虚偽の主張が報告されており、患者への誤情報リスクが示唆される。ワークフロー：AIチャットボットは専門家の監督下での教育支援には有用だが、自律的使用は支持されておらず、治療計画や個別化推奨における限界が指摘されている。",
+      "study_type_ja": "体系的レビュー（包含研究：16の解析的横断研究）",
+      "endpoints_ja": "正確性・信頼性、完全性、読みやすさ、専門医との一致、誤解を招く情報",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-10T13:26:22Z"
     },
     {
       "pmid": "42782313",
@@ -2147,7 +2219,16 @@
       "japan_relevant": false,
       "content_sha256": "a97b5c273f59d351309a8ca8898198b581188ba99c1a6374069a15ec01a18848",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-10T13:21:50Z"
     },
     {
       "pmid": "42745258",
@@ -4364,7 +4445,16 @@
       "japan_relevant": false,
       "content_sha256": "c576fcf670fc3f5299726a7c04267de40297ffe79c3dab66b5304cf2127b3c4d",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-10T13:21:50Z"
     },
     {
       "pmid": "42494352",
