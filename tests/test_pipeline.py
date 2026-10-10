@@ -8,6 +8,7 @@ from unittest.mock import patch
 import json
 
 import src.publish as publish_module
+import src.summarize_ja as summarize_module
 from src.collect_pubmed import classify, extract_records
 from datetime import datetime, timezone
 
@@ -87,6 +88,27 @@ class PipelineTests(unittest.TestCase):
         config = public_config(pack)
         self.assertEqual(config["assets"][0]["label"], "ClinCheck")
         self.assertEqual(config["topics"][0]["id"], "refinement")
+
+    def test_daily_cloud_budget_exhaustion_stops_without_marking_failure(self) -> None:
+        with TemporaryDirectory() as temp:
+            data_dir = Path(temp)
+            corpus_path = data_dir / "corpus.json"
+            usage_path = data_dir / "ai-usage.json"
+            corpus_path.write_text(json.dumps({
+                "documents": [{
+                    "pmid": "1", "title": "pending", "journal": "J", "abstract": "N=10",
+                    "publication_types": [], "content_sha256": "abc",
+                }]
+            }), encoding="utf-8")
+            with (
+                patch.object(summarize_module, "CORPUS_PATH", corpus_path),
+                patch.object(summarize_module, "USAGE_PATH", usage_path),
+                patch.object(summarize_module, "call_qwen", side_effect=summarize_module.DailyBudgetExhausted()),
+            ):
+                result = summarize_module.summarize(limit=1, backend="cloudflare")
+            self.assertEqual(result["completed"], 0)
+            self.assertEqual(result["failed"], 0)
+            self.assertEqual(result["stopped_reason"], "daily_free_summary_budget_exhausted")
 
     def test_no_publishable_documents_preserves_previous_feed(self) -> None:
         with TemporaryDirectory() as temp:

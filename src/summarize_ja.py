@@ -43,6 +43,10 @@ Abstract: {abstract}
 """
 
 
+class DailyBudgetExhausted(RuntimeError):
+    """The free daily Cloudflare AI summary budget has been consumed."""
+
+
 def extract_json(text: str) -> dict[str, Any]:
     cleaned = text.strip()
     if cleaned.startswith("```"):
@@ -138,7 +142,7 @@ def call_qwen(article: dict[str, Any]) -> tuple[dict[str, Any], float]:
             )
             if response.status_code == 429:
                 if response.headers.get("Content-Type", "").startswith("application/json") and response.json().get("budget_exhausted"):
-                    raise RuntimeError("daily free summary budget exhausted")
+                    raise DailyBudgetExhausted("daily free summary budget exhausted")
                 retry_after = response.headers.get("Retry-After")
                 time.sleep(float(retry_after) if retry_after and retry_after.isdigit() else delay)
                 delay = min(delay * 2, 30)
@@ -198,6 +202,7 @@ def summarize(limit: int = 0, backend: str = "cloudflare", pmids: set[str] | Non
         pending = pending[:limit]
     usage = current_usage()
     completed = 0
+    stopped_reason: str | None = None
     failures: list[dict[str, str]] = []
     for row in pending:
         if backend == "cloudflare" and float(usage["estimated_neurons"]) >= SUMMARY_DAILY_NEURON_BUDGET:
@@ -223,6 +228,9 @@ def summarize(limit: int = 0, backend: str = "cloudflare", pmids: set[str] | Non
             atomic_write_json(CORPUS_PATH, corpus)
             if backend == "cloudflare":
                 atomic_write_json(USAGE_PATH, usage)
+        except DailyBudgetExhausted:
+            stopped_reason = "daily_free_summary_budget_exhausted"
+            break
         except Exception as exc:  # failure stays pending; no placeholder is persisted
             failures.append({"pmid": row.get("pmid", ""), "error": f"{type(exc).__name__}: {exc}"})
     return {
@@ -231,6 +239,7 @@ def summarize(limit: int = 0, backend: str = "cloudflare", pmids: set[str] | Non
         "missing_abstracts_normalized": normalized,
         "completed": completed,
         "failed": len(failures),
+        "stopped_reason": stopped_reason,
         "remaining": sum(1 for row in corpus.get("documents", []) if not all(row.get(field) for field in SUMMARY_FIELDS)),
         "usage": usage,
         "failures": failures,

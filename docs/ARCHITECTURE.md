@@ -14,6 +14,16 @@ PubMed E-utilities
   -> 7項目日本語要約（抄録外の推測を禁止）
   -> 品質ゲート（完全性・数値根拠・重複・鮮度）
   -> 静的JSON / GitHub Pages
+
+GitHub Actions（毎日 06:15 JST）
+  -> Cloudflare Workerの要約専用endpoint
+  -> Workers AI Qwen 3.8 27B（日次予算をD1で事前予約）
+  -> 品質ゲート通過後だけGitHub Pagesを更新
+
+Cloudflare Access
+  -> Pages Function（認証メールを同一Originで引き渡し）
+  -> Worker（利用者別レート制限・D1履歴）
+  -> 公開フィード検索＋根拠番号付きQwen回答
 ```
 
 ## 面接での説明軸
@@ -31,4 +41,5 @@ PubMed E-utilities
 - これは臨床判断支援ではなく、公開文献の情報整理プロトタイプ。
 - ClinCheckの社内品質指標や患者データには接続しない。
 - 企業・製品との関連はタイトルと抄録の文字列一致であり、資金提供・COIを意味しない。
-- AI Chatは、BI Chatのセキュリティ変更が整理された後に独立複製する。
+- Newsは公開情報のみをGitHub Pagesで配信する。AI ChatはCloudflare Accessの許可利用者だけが利用できる。
+- OpenAI API、Vectorize、有料フォールバックは使用しない。
