@@ -588,7 +588,16 @@
       "japan_relevant": false,
       "content_sha256": "53a7df1d238e6e31d612279820198efb58ae0f070fe3890cd0d5a96acf77a12d",
       "fetched_at_utc": "2026-10-10T08:48:35Z",
-      "updated_at_utc": "2026-10-10T08:48:35Z"
+      "updated_at_utc": "2026-10-10T08:48:35Z",
+      "summary_ja": "本レビューは、clear aligners（CA）による歯性・骨性deep bite矯正の有効性と精度を評価した。829件中18研究が採用され、bite openingは0.4 mm〜3.8 mm、deep bite correctionの精度は33%〜48.88%と報告された。CAは軽〜中等度の歯性deep biteに有効だが、骨性症例ではFFAとの優劣は不確実で、計画矯正の達成不足によりovercorrectionやrefinementが必要になりうる。",
+      "key_takeaway_ja": "CAは軽〜中等度の歯性deep biteに有効だが、骨性症例ではFFAとの優劣は不確実で、planned correctionの達成不足によりovercorrection/refinementが必要になりうる。",
+      "why_matters_ja": "planned-vs-achievedとrefinementの観点で、CAによるdeep biteの計画矯正は実際の達成値が計画に届きやすく、overcorrectionやrefinementが必要とされるため、計画品質とリファインメント設計が重要。",
+      "study_type_ja": "Systematic review",
+      "endpoints_ja": "主要・副次は明示なし。CAによるdeep bite correctionの有効性（bite opening）と精度（accuracy）",
+      "endpoint_results_ja": "bite opening: 0.4 mm to 3.8 mm; accuracy: 33% to 48.88%",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "ollama/qwen3.8:27b",
+      "summary_generated_at_utc": "2026-10-10T13:03:01Z"
     },
     {
       "pmid": "38281057",

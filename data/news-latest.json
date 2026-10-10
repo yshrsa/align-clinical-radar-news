@@ -1,5 +1,47 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-10T08:46:22Z",
-  "items": []
+  "generated_at_utc": "2026-10-10T13:03:16Z",
+  "items": [
+    {
+      "pmid": "40394411",
+      "title": "Effectiveness and accuracy of clear aligners in treatment of deep bite: a systematic review.",
+      "abstract": "OBJECTIVES: This systematic review evaluated the effectiveness and accuracy of clear aligners (CA) for dental and skeletal deep bite correction.\nMETHODS: Searches in PubMed, Embase, Cochrane, and grey literature were conducted from inception to May 2024. Studies included all age groups with dental and/or skeletal deep bite treated with CA, with or without control groups, using prospective or retrospective designs. Risk of bias was assessed through Risk Of Bias In Non-randomised Studies-of Interventions (\"ROBIN-I\").\nRESULTS: Out of 829 studies screened, 18 were included. Eight studies assessed CA's effectiveness, eight evaluated CA accuracy, and two examined both. The effectiveness in bite opening ranged from 0.4 mm to 3.8 mm, while the accuracy in deep bite correction varied between 33% and 48.88% across all studies. According to GRADE, the evidence for both CA accuracy and effectiveness in deep bite treatment was rated as low quality due to high risk of bias, indirectness, and imprecision, despite consistent findings across studies.\nCONCLUSION: CA can effectively correct mild to moderate dentoalveolar deep bites; however, its efficacy in skeletal cases compared to full-fixed appliance (FFA) remains uncertain. Planned correction of deep bites with CA often falls short of the actual achieved correction, making overcorrection or refinements necessary for achieving the desired treatment outcomes. Due to the limited quality and methodological variability among the studies, recommending CA as a superior modality for deep bite correction remains premature.\nCLINICAL RELEVANCE: CA may be effective for dentoalveolar deep bites but often needs adjustments for accuracy and is less effective than FFA for skeletal cases.\nREGISTRATION: The review protocol was registered in PROSPERO (#CRD42022334078).",
+      "journal": "Clinical oral investigations",
+      "authors": "Husain Fatemah, Riccardi Joseph, Alletto Lia, Stellrecht Elizabeth, Bejehmir Arash Poursattar, Al-Jewair Thikriat",
+      "pub_date": "2025-05-21",
+      "doi": "10.1007/s00784-025-06381-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40394411/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Overbite",
+        "Treatment Outcome",
+        "Orthodontic Appliance Design",
+        "Orthodontic Appliances, Removable"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability",
+        "refinement"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "53a7df1d238e6e31d612279820198efb58ae0f070fe3890cd0d5a96acf77a12d",
+      "fetched_at_utc": "2026-10-10T08:48:35Z",
+      "updated_at_utc": "2026-10-10T08:48:35Z",
+      "summary_ja": "本レビューは、clear aligners（CA）による歯性・骨性deep bite矯正の有効性と精度を評価した。829件中18研究が採用され、bite openingは0.4 mm〜3.8 mm、deep bite correctionの精度は33%〜48.88%と報告された。CAは軽〜中等度の歯性deep biteに有効だが、骨性症例ではFFAとの優劣は不確実で、計画矯正の達成不足によりovercorrectionやrefinementが必要になりうる。",
+      "key_takeaway_ja": "CAは軽〜中等度の歯性deep biteに有効だが、骨性症例ではFFAとの優劣は不確実で、planned correctionの達成不足によりovercorrection/refinementが必要になりうる。",
+      "why_matters_ja": "planned-vs-achievedとrefinementの観点で、CAによるdeep biteの計画矯正は実際の達成値が計画に届きやすく、overcorrectionやrefinementが必要とされるため、計画品質とリファインメント設計が重要。",
+      "study_type_ja": "Systematic review",
+      "endpoints_ja": "主要・副次は明示なし。CAによるdeep bite correctionの有効性（bite opening）と精度（accuracy）",
+      "endpoint_results_ja": "bite opening: 0.4 mm to 3.8 mm; accuracy: 33% to 48.88%",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "ollama/qwen3.8:27b",
+      "summary_generated_at_utc": "2026-10-10T13:03:01Z"
+    }
+  ]
 }
