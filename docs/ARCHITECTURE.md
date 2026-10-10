@@ -14,6 +14,7 @@ PubMed E-utilities
   -> 7項目日本語要約（抄録外の推測を禁止）
   -> 品質ゲート（完全性・数値根拠・重複・鮮度）
   -> 静的JSON / GitHub Pages
+  -> D1文献テーブル（初回全件、以後は同期ハッシュ差分のみupsert）
 
 GitHub Actions（毎日 06:15 JST）
   -> Cloudflare Workerの要約専用endpoint
@@ -22,8 +23,9 @@ GitHub Actions（毎日 06:15 JST）
 
 Cloudflare Access
   -> Pages Function（認証メールを同一Originで引き渡し）
-  -> Worker（利用者別レート制限・D1履歴）
-  -> 公開フィード検索＋根拠番号付きQwen回答
+  -> Worker（利用者別レート制限・D1文献検索・D1履歴）
+  -> D1障害時はNotion（任意）/ 公開JSONへ退避
+  -> 根拠番号付きQwen回答
 ```
 
 ## 面接での説明軸

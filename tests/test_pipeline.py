@@ -15,9 +15,23 @@ from datetime import datetime, timezone
 from src.publish import freshness, public_config, validate_document
 from src.summarize_ja import guard_summary, normalize_missing_abstracts
 from src.common import NOT_REPORTED, SUMMARY_FIELDS
+from src.sync_d1 import changed_documents, evidence_document
 
 
 class PipelineTests(unittest.TestCase):
+    def test_d1_evidence_hash_changes_when_summary_changes(self) -> None:
+        row = {"pmid": "1", "title": "Trial", "abstract": "English abstract", "content_sha256": "source"}
+        first = evidence_document(row)
+        row["summary_ja"] = "日本語要約"
+        second = evidence_document(row)
+        self.assertEqual(first["summary_en"], "English abstract")
+        self.assertNotEqual(first["evidence_sha256"], second["evidence_sha256"])
+
+    def test_d1_delta_excludes_unchanged_documents(self) -> None:
+        document = evidence_document({"pmid": "1", "title": "Trial"})
+        self.assertEqual(changed_documents([document], {"1": document["evidence_sha256"]}), [])
+        self.assertEqual(changed_documents([document], {}), [document])
+
     def test_pubmed_publication_type_is_extracted_from_xml(self) -> None:
         xml = """<PubmedArticleSet><PubmedArticle><MedlineCitation><PMID>123</PMID><Article>
         <ArticleTitle>Trial</ArticleTitle><Abstract><AbstractText>N=100 patients.</AbstractText></Abstract>

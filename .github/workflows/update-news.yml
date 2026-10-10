@@ -47,6 +47,17 @@ jobs:
           else
             echo "Notion secrets are not configured; skipping corpus sync."
           fi
+      - name: Sync full corpus metadata to D1
+        continue-on-error: true
+        env:
+          ALIGN_RADAR_AI_URL: ${{ vars.ALIGN_RADAR_AI_URL }}
+          ALIGN_RADAR_INGEST_SECRET: ${{ secrets.ALIGN_RADAR_INGEST_SECRET }}
+        run: |
+          if [[ -n "$ALIGN_RADAR_AI_URL" && -n "$ALIGN_RADAR_INGEST_SECRET" ]]; then
+            python -m src.sync_d1
+          else
+            echo "D1 evidence endpoint is not configured; public JSON remains available."
+          fi
       - name: Commit data snapshot
         run: |
           git config user.name "github-actions[bot]"
