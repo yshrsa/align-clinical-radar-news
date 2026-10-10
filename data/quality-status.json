@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0",
-  "checked_at_utc": "2026-10-10T13:26:23Z",
+  "checked_at_utc": "2026-10-10T13:45:17Z",
   "overall_status": "degraded",
   "freshness": {
     "status": "current",
-    "age_hours": 0.1
+    "age_hours": 0.0
   },
   "counts": {
     "documents": 155,
