@@ -1,5 +1,8 @@
 # Align Clinical Operations Radar
 
+- News: https://yshrsa.github.io/align-clinical-radar-news/
+- AI Chat: https://align-clinical-radar-chat.pages.dev/
+
 Align Technology JapanのClinical Manager / Treatment Planning Operationsを題材に、
 クリアアライナー領域の公開PubMed文献を「臨床品質と運用判断」へつなぐ独立Radarです。
 既存のStructural Heart RadarとBI Evidence Radarは変更しません。
@@ -31,8 +34,8 @@ python -m src.publish
 ```
 
 初期データはローカルOllama（既定`qwen3.8:27b`）で無課金生成できます。定期更新時は
-将来の専用Cloudflare Workerへ接続します。現時点では外部公開・有料API・
-Cloudflare/GitHub設定変更を行いません。
+専用Cloudflare Workerへ接続し、品質ゲート通過済みデータだけをGitHub Pagesへ公開します。
+OpenAI APIや有料フォールバックは使用しません。
 
 ## 構成計画
 

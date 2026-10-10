@@ -62,4 +62,4 @@ delivery:
   rss_title: "Align Clinical Operations Radar"
   max_items: 150
   stale_after_hours: 48
-  chat_url: ""
+  chat_url: "https://align-clinical-radar-chat.pages.dev/"
