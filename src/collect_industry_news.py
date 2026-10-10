@@ -47,6 +47,23 @@ def published_date(value: str) -> str:
             return ""
 
 
+def published_at_utc(value: str) -> str:
+    if not value:
+        return ""
+    try:
+        parsed = parsedate_to_datetime(value)
+    except (TypeError, ValueError, OverflowError):
+        if "T" not in value and not re.search(r"\d{1,2}:\d{2}", value):
+            return ""
+        try:
+            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        except ValueError:
+            return ""
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+
 def request_with_backoff(url: str) -> requests.Response:
     delay = 1.0
     last_error: Exception | None = None
@@ -91,7 +108,7 @@ def parse_rss(content: bytes, source: dict[str, Any]) -> list[dict[str, Any]]:
         date = child_text(entry, "pubDate", "{http://purl.org/dc/elements/1.1/}date")
         categories = [clean_text(node.text or "", 80) for node in entry.findall("category") if clean_text(node.text or "", 80)]
         if title and url:
-            items.append({"title": title, "url": url, "published_date": published_date(date), "snippet_en": clean_text(description), "source_categories": categories[:8]})
+            items.append({"title": title, "url": url, "published_date": published_date(date), "published_at_utc": published_at_utc(date), "snippet_en": clean_text(description), "source_categories": categories[:8]})
     return items
 
 
@@ -105,6 +122,7 @@ def parse_align_newsroom(content: str, source: dict[str, Any]) -> list[dict[str,
             "title": clean_text(match.group("title"), 300),
             "url": urljoin(source["source_url"], html.unescape(match.group("url"))),
             "published_date": published_date(match.group("date")) or datetime.strptime(clean_text(match.group("date")), "%m/%d/%Y").date().isoformat(),
+            "published_at_utc": "",
             "snippet_en": "",
             "source_categories": ["Press Release"],
         }
@@ -127,6 +145,7 @@ def prepare_item(raw: dict[str, Any], source: dict[str, Any], pack: dict[str, An
         "title": raw["title"],
         "url": raw["url"],
         "published_date": raw.get("published_date") or "",
+        "published_at_utc": raw.get("published_at_utc") or "",
         "snippet_en": raw.get("snippet_en") or "",
         "source_id": source["id"],
         "source_name": source["name"],

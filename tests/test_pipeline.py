@@ -28,6 +28,7 @@ class PipelineTests(unittest.TestCase):
         item = parse_rss(xml, source)[0]
         self.assertEqual(item["url"], "https://source.test/a")
         self.assertEqual(item["published_date"], "2026-10-09")
+        self.assertEqual(item["published_at_utc"], "2026-10-09T11:26:48Z")
         self.assertEqual(item["source_categories"], ["Aligners"])
 
     def test_align_newsroom_parser_uses_official_article_url(self) -> None:

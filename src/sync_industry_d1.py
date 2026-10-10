@@ -19,6 +19,7 @@ def industry_news_document(row: dict[str, Any]) -> dict[str, Any]:
         "title": row.get("title") or "",
         "url": row.get("url") or "",
         "published_date": row.get("published_date") or "",
+        "published_at_utc": row.get("published_at_utc") or "",
         "source_id": row.get("source_id") or "",
         "source_name": row.get("source_name") or "",
         "source_url": row.get("source_url") or "",
