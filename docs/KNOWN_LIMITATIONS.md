@@ -10,7 +10,7 @@
 - NewsはGitHub Pages、AI ChatはCloudflare Pages、APIは専用Workerへ公開済み。
 - AI ChatはCloudflare Accessの既存`Allowed users`ポリシーで保護している。
 - D1履歴、同一Origin Gateway、利用者別レート制限、日次AI予算を有効化済み。
-- 現段階の画面は、155件収集・1件要約・154件要約待ちを`degraded`として表示する。
+- 現段階の画面は、155件収集・11件要約・144件要約待ちを`degraded`として表示する。
 - Notionは任意連携のまま未設定で、Chatは品質ゲート通過済み公開フィードを検索する。
 
 GitHub Actionsは1日最大12件を候補にし、Cloudflareの無料要約予算に達した時点で
