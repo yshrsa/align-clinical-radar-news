@@ -16,6 +16,7 @@ from src.publish import freshness, public_config, validate_document
 from src.summarize_ja import guard_summary, normalize_missing_abstracts
 from src.common import NOT_REPORTED, SUMMARY_FIELDS
 from src.sync_d1 import changed_documents, evidence_document
+from src.sync_industry_d1 import changed_documents as changed_industry_documents, industry_news_document
 from src.collect_industry_news import merge_items, parse_align_newsroom, parse_rss, prepare_item, relevant
 from src.summarize_industry_news import MISSING as NEWS_MISSING, guard_summary as guard_news_summary, prompt_for as news_prompt
 
@@ -51,6 +52,27 @@ class PipelineTests(unittest.TestCase):
         changed, _ = merge_items(old, [{"id": "same", "title": "T", "snippet_en": "New"}], 10)
         self.assertEqual(unchanged[0]["summary_ja"], "要約")
         self.assertNotIn("summary_ja", changed[0])
+
+    def test_industry_merge_tracks_first_and_last_seen(self) -> None:
+        old = [{"id": "same", "title": "T", "snippet_en": "S", "retrieved_at_utc": "2026-10-09T00:00:00Z"}]
+        merged, _ = merge_items(old, [{"id": "same", "title": "T", "snippet_en": "S", "retrieved_at_utc": "2026-10-10T00:00:00Z"}], 10)
+        self.assertEqual(merged[0]["first_seen_at_utc"], "2026-10-09T00:00:00Z")
+        self.assertEqual(merged[0]["last_seen_at_utc"], "2026-10-10T00:00:00Z")
+
+    def test_industry_d1_delta_ignores_observation_timestamp_only_changes(self) -> None:
+        row = {"id": "a", "title": "T", "url": "https://example.test/a", "retrieved_at_utc": "2026-10-09T00:00:00Z"}
+        first = industry_news_document(row)
+        row["retrieved_at_utc"] = "2026-10-10T00:00:00Z"
+        second = industry_news_document(row)
+        self.assertEqual(first["article_sha256"], second["article_sha256"])
+        self.assertEqual(changed_industry_documents([second], {"a": first["article_sha256"]}), [])
+
+    def test_industry_d1_hash_changes_when_summary_changes(self) -> None:
+        row = {"id": "a", "title": "T", "url": "https://example.test/a", "retrieved_at_utc": "2026-10-09T00:00:00Z"}
+        first = industry_news_document(row)
+        row["summary_ja"] = "日本語要約"
+        second = industry_news_document(row)
+        self.assertNotEqual(first["article_sha256"], second["article_sha256"])
 
     def test_align_official_news_is_always_focal_related(self) -> None:
         pack = {

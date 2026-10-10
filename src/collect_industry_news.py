@@ -155,11 +155,16 @@ def merge_items(existing: list[dict[str, Any]], fetched: list[dict[str, Any]], m
     new_count = sum(1 for item in fetched if item["id"] not in rows)
     for item in fetched:
         previous = rows.get(item["id"])
+        item["first_seen_at_utc"] = (previous or {}).get("first_seen_at_utc") or (previous or {}).get("retrieved_at_utc") or item.get("retrieved_at_utc") or ""
+        item["last_seen_at_utc"] = item.get("retrieved_at_utc") or ""
         if previous and previous.get("title") == item.get("title") and previous.get("snippet_en") == item.get("snippet_en"):
             for field in ("summary_ja", "key_takeaway_ja", "summary_model", "summary_generated_at_utc"):
                 if previous.get(field):
                     item[field] = previous[field]
     rows.update({item["id"]: item for item in fetched})
+    for item in rows.values():
+        item["first_seen_at_utc"] = item.get("first_seen_at_utc") or item.get("retrieved_at_utc") or ""
+        item["last_seen_at_utc"] = item.get("last_seen_at_utc") or item.get("retrieved_at_utc") or ""
     merged = sorted(rows.values(), key=lambda item: (item.get("published_date") or "", item.get("retrieved_at_utc") or ""), reverse=True)
     return merged[:max_items], new_count
 

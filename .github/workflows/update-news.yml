@@ -39,6 +39,17 @@ jobs:
           else
             echo "Cloudflare Qwen endpoint is not configured; preserving source excerpts without generated summaries."
           fi
+      - name: Archive industry news metadata in D1
+        continue-on-error: true
+        env:
+          ALIGN_RADAR_AI_URL: ${{ vars.ALIGN_RADAR_AI_URL }}
+          ALIGN_RADAR_INGEST_SECRET: ${{ secrets.ALIGN_RADAR_INGEST_SECRET }}
+        run: |
+          if [[ -n "$ALIGN_RADAR_AI_URL" && -n "$ALIGN_RADAR_INGEST_SECRET" ]]; then
+            python -m src.sync_industry_d1
+          else
+            echo "D1 industry news endpoint is not configured; public JSON remains available."
+          fi
       - name: Collect, summarize and publish evidence
         env:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
