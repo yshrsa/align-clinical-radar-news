@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "checked_at_utc": "2026-10-10T08:49:38Z",
+  "overall_status": "degraded",
+  "freshness": {
+    "status": "current",
+    "age_hours": 0.0
+  },
+  "counts": {
+    "documents": 25,
+    "summarized": 0,
+    "pending": 25,
+    "publishable": 0,
+    "validation_problems": 0
+  },
+  "blocking_reasons": [
+    "no_publishable_documents"
+  ],
+  "problems": []
+}

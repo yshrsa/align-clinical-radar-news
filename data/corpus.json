@@ -1,0 +1,749 @@
+{
+  "schema_version": "1.0",
+  "generated_at_utc": "2026-10-10T08:48:35Z",
+  "documents": [
+    {
+      "pmid": "42850342",
+      "title": "Salivary parameters in individuals undergoing orthodontic treatment with clear aligners: a scoping review.",
+      "abstract": "AIMS: This scoping review aimed to map the salivary parameters investigated in children, adolescents, young adults, and adults undergoing orthodontic treatment with clear aligners, describe saliva collection and analytical assessment methods, and identify methodological gaps in the literature.\nMETHODS: The review was reported according to PRISMA-ScR and had its protocol registered in the Open Science Framework. Searches were conducted in MEDLINE/PubMed, Scopus, Web of Science, and ProQuest, without restrictions on year or language. The initial search was performed on June 12, 2024, and updated on September 9, 2025. Two independent reviewers screened records in Rayyan, assessed full texts, and extracted data using a standardized form. Eligible studies were primary clinical investigations assessing salivary parameters in individuals undergoing clear aligner therapy. Data were synthesized descriptively, without a formal risk-of-bias appraisal.\nRESULTS: From 3225 records, 1917 references were screened, 28 full texts were assessed, and 22 studies from 11 countries were included. The included reports comprised 880 participants across all groups (494 clear aligner and 386 comparator participants), although potential overlap between reports cannot be excluded. Most studies were prospective observational investigations, and pediatric participants were underrepresented. Invisalign™ was the most frequently investigated aligner system, although several studies used other thermoformed appliances or did not specify the brand. The included studies varied substantially in follow-up schedules, pre-sampling instructions, saliva type, collection procedures, sample processing, storage conditions, and analytical platforms. Salivary outcomes were mapped into four domains: microbiological parameters, biochemical and immunological markers, physicochemical properties, and material-related chemical eluents. Microbiological outcomes were the most frequently mapped domain, followed by inflammatory, oxidative stress, hormonal, enzymatic, physicochemical, BPA, monomer, and metabolite-related outcomes.\nCONCLUSION: This scoping review provides a descriptive map of salivary parameters investigated during clear aligner therapy and the methods used for their collection and assessment. Methodological variability limits comparability across studies. Future research should prioritize standardized saliva collection, processing, storage, analytical reporting, age-stratified sampling, and transparent reporting of aligner materials and clinical context.",
+      "journal": "Evidence-based dentistry",
+      "authors": "de Sousa Jéssica Tavares do Nascimento, Souza Beatriz Tebalde Albuquerque de, Alves Lívia Araujo, Tedesco Tamara Kerber, Diniz Michele Baffi",
+      "pub_date": "2026-10-08",
+      "doi": "10.1038/s41432-026-01274-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850342/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "764ce23ad2e2a1eefc7c504057ae4f0c041213622df181629209590de8a6522a",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42842148",
+      "title": "Why does digitally predicted tooth movement fail? the biology-digital mismatch in orthodontics: a critical narrative review.",
+      "abstract": "Digital orthodontics has advanced through intraoral scanning, CAD/CAM, virtual planning, and clear aligners; however, discrepancies remain between predicted and actual tooth movements. This narrative review critically examined the biological and biomechanical factors underlying the limited predictability of digitally planned orthodontic treatment. A structured literature search of PubMed, Scopus, and Google Scholar was conducted and peer-reviewed articles were critically analyzed. Current digital systems primarily operate on geometric and algorithm-based models that assume linear and standardized tooth movements, whereas actual orthodontic tooth movements are governed by nonlinear biological processes, including periodontal ligament remodeling, bone turnover, mechanotransduction pathways, and substantial patient-specific variability. Clinical evidence shows a lower predictability for torque, extrusion, intrusion, and rotation than for tipping and expansion. The limitations of biomechanical models, force decay, and tracking loss are discussed along with AI applications in treatment planning. Future progress will require the integration of biological profiling, adaptive biomechanics, and AI-driven systems to enhance precision and manage patient expectations.",
+      "journal": "The Saudi dental journal",
+      "authors": "Alsulaiman Ahmed A",
+      "pub_date": "2026-10-07",
+      "doi": "10.1007/s44445-026-00252-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842148/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability",
+        "safety-patient-outcomes",
+        "scanning-digital-workflow",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "27ebad621eb398053b25c004891ea7e042c0ed7ec280e90e4985cfa58e8d3841",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42842071",
+      "title": "Torque expression in directly printed and thermoformed clear aligners: a controlled in vitro biomechanical comparison of power ridge effects.",
+      "abstract": "BACKGROUND: Torque control of anterior teeth remains a major challenge in clear aligner therapy. Power ridges have been introduced to improve buccolingual root control; however, their biomechanical performance in directly printed aligners remains insufficiently investigated. The aim of this study was to compare the torque efficiency of power ridges in thermoformed and directly printed aligners.\nMETHODOLOGY: A controlled in-vitro study was conducted using a standardised maxillary model requiring incisor torque correction. Four aligner groups were evaluated: Zendura Flex thermoformed aligners (Bay Materials LLC, USA) with (ZF-PR) and without (ZF-C) power ridges, and two directly printed aligners with power ridges fabricated from TA-28 (Graphy Inc., Seoul, South Korea) and DCA (LuxCreo Inc., Bellevue, WA, USA) resin materials. Power ridges were digitally positioned on the labial gingival third of the maxillary central incisors. Biomechanical testing was performed using the Orthodontic Measurement and Simulation System (OMSS) to assess torque expression, root displacement, and force-moment systems under controlled temperatures (25 °C and 37 °C).\nRESULTS: Torque expression demonstrated a clear material-dependent pattern. ZF-C, used as the baseline, showed moderate and consistent torque expression (38-39% of the programmed torque) across temperatures, with no significant temperature-dependent differences. DCA exhibited the highest torque expression, reaching 62% at 25 °C and 47% at 37 °C. ZF-PR showed intermediate performance (32-42%) with moderate temperature-related variation. TA-28 demonstrated the lowest torque expression (10-17%) with no significant temperature effect. Secondary outcomes supported these findings, with moment generation and displacement patterns correlating with torque expression, whereas force magnitude did not.\nCONCLUSIONS: Torque expression in clear aligner systems is primarily governed by material properties and thermomechanical behaviour. Design features alone cannot fully compensate for limitations in material performance. Effective torque delivery depends on the generation and transmission of an appropriate force-moment system rather than on force magnitude alone.",
+      "journal": "Progress in orthodontics",
+      "authors": "Khadre Aliaa A, Elkorashie Mohamed, Elzahar Mostafa Magdy, Bourauel Christoph, Fouda Ahmed Mahmoud",
+      "pub_date": "2026-10-07",
+      "doi": "10.1186/s40510-026-00647-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842071/",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Torque",
+        "Biomechanical Phenomena",
+        "Humans",
+        "Orthodontic Appliance Design",
+        "Incisor",
+        "Tooth Movement Techniques",
+        "In Vitro Techniques",
+        "Orthodontic Appliances, Removable",
+        "Maxilla",
+        "Models, Dental"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "cd0a3e3e4a4b9d367efb9e3c2561037e35f96e4c84cd40bc893a2e9acd7561e4",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42834390",
+      "title": "Hygroscopic behaviour and colour stability of 3D-printed and thermoformed aligner materials: an in vitro study.",
+      "abstract": "BACKGROUND: Directly 3D-printed aligner materials have recently emerged as an alternative to established thermoformed clear aligners. The aim of this in vitro study was to investigate the colour stability, water sorption, and water solubility of directly 3D-printed aligner materials in comparison with an established thermoformed reference, as these properties are essential for clinical performance but currently insufficiently investigated for directly 3D-printed aligners.\nMETHODS: Tera Harz TC-85DAC, Freeprint Aligner, Freeprint Aligner with digital polishing, Dental LT Clear V2 and one thermoformed polyethylene terephthalate glycol material (Biolon) were examined. Water sorption and solubility were determined after seven days in distilled water at 37 °C. Colour stability was assessed after 12 h of immersion at 37 °C in turmeric, coffee, black tea, orange juice and distilled water. Total colour differences (ΔE*) were calculated spectrophotometrically using the Commission Internationale de l'Éclairage L*a*b* system and converted into National Bureau of Standards units. Data were analysed by one-way ANOVA with Games-Howell post hoc test and by Kruskal-Wallis test with Dunn's test and Bonferroni correction (p < 0.05).\nRESULTS: Biolon exhibited the lowest water sorption (mean 10.70 µg/mm³) and negligible solubility (median 0.00 µg/mm³). Among the printed resins, Tera Harz TC-85DAC showed the lowest water sorption (mean 17.28 µg/mm³) and solubility (median 2.50 µg/mm³), whereas Dental LT Clear V2 displayed the highest sorption (mean 29.53 µg/mm³) and Freeprint Aligner with digital polishing the highest solubility (median 17.38 µg/mm³). Turmeric caused the most pronounced discolouration, followed by coffee and black tea, while orange juice and water produced minimal changes. The thermoformed material remained most colour-stable (mean of the median ΔE* values across all immersion media = 4.21), whereas Dental LT Clear V2 showed the greatest discolouration (mean of the median ΔE* values = 27.35). Among the printed resins, Tera Harz TC-85DAC displayed the lowest staining susceptibility.\nCONCLUSIONS: The tested aligner materials differed markedly in water sorption, solubility, and colour stability. The thermoformed polyethylene terephthalate glycol material consistently showed the most favourable profile. Among the printed resins, Tera Harz TC-85DAC exhibited the most favourable combination of the investigated properties, supporting its potential for clinical application.",
+      "journal": "BMC oral health",
+      "authors": "Kolb Jule, Wille Sebastian, Aktas Oral Cenk, Şen Sinan, Puchert Kathrin",
+      "pub_date": "2026-10-02",
+      "doi": "10.1186/s12903-026-09977-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834390/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Color",
+        "Printing, Three-Dimensional",
+        "Solubility",
+        "In Vitro Techniques",
+        "Wettability",
+        "Materials Testing",
+        "Water",
+        "Tea"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "43bd22932e305606331fb496a08b9ec0b47637918114e0327e71b301acd73b9c",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42821041",
+      "title": "Determinants of public preference for orthodontic appliances and treatment providers: a scoping review.",
+      "abstract": "BACKGROUND: Laypeople can choose from a variety of orthodontic care pathways. It is in the clinician's best interest to understand their preferences in order to tailor consumer engagement. This scoping review maps the evidence concerning laypeople's preferences for orthodontic providers and appliances.\nMETHODS: The review follows Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews guidelines. Two reviewers conducted a systematic search and an independent screening process across five electronic databases until December 2025.\nRESULTS: A total of 56 studies (48 cross-sectional questionnaires; seven qualitative; one mixed methods) comprising 16,271 laypeople across 17 countries were included. Forty-two studies examined perspectives for orthodontic appliances, and 20 studies investigated providers. Specialist orthodontists were consistently the most preferred treatment providers, primarily associated with perceived higher quality and expertise. Direct-to-consumer (DTC) treatment appealed to a minority and was associated with lower cost, self-perceived easier-to-treat malocclusion and convenience. Adults preferred and were willing to pay more for aesthetic appliances, whereas children and adolescents perceived metallic braces as more aesthetic. Pragmatic appliance features such as effectiveness, comfort, and treatment outcomes often outweighed appearance, especially among informed or experienced patients. Common public misperceptions included confusion between general dentists and orthodontists, and overestimation of DTC safety and effectiveness.\nCONCLUSION: While DTC and aligners appeal to the public demand for aesthetics and convenience, preference for orthodontists and fixed appliances remains strong, driven by perceived quality and the social acceptability of metal braces in children and adolescents. Better public and in-chair education is recommended to address misperceptions and guide better-informed decision-making.",
+      "journal": "Progress in orthodontics",
+      "authors": "Jiang Lyn, Chan Alex Simon, Meade Maurice J, Freer Elissa, Mohammed Hisham",
+      "pub_date": "2026-10-01",
+      "doi": "10.1186/s40510-026-00644-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821041/",
+      "publication_types": [
+        "Journal Article",
+        "Scoping Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Consumer Behavior",
+        "Orthodontic Appliances",
+        "Orthodontists",
+        "Patient Preference"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "edfe4f80e2b0cfd55760b4733d2d61bfef3ac35daae32133ef3c9a68a38a1d08",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42814043",
+      "title": "Enhancing the predictability of tooth movements with clear aligners-Part 2: Clinical strategies.",
+      "abstract": "Despite rapid advances in clear aligner therapy, the low predictability of aligner tooth movements remains a clinical challenge. This article (part 2) translates the conceptual biomechanical triad of anchorage, stress continuity, and aligner-tooth contact, along with the related determinant factors, described in part 1 into practical strategies to enhance the predictability of tooth movements with clear aligners. This paper features 3 interrelated strategic domains: patient-centered, aligner-mediated, and practitioner-directed strategies. Patient-centered strategies emphasize appropriate aligner case selection, aligner-favored treatment planning, and difficulty-based patient management. Aligner-mediated strategies focus on choosing optimal aligner materials, reducing aligner stress concentration, and optimizing aligner designs. Furthermore, practitioner-directed strategies highlight the practitioner's active role in managing the fundamental prerequisites of tooth movements (ie, force, space, and time). This is achieved through deliberate overtreatment with aligners, biomechanical augmentation with attachments and auxiliaries, judicious staging sequences that prioritize predictable movements, and dynamic monitoring and troubleshooting protocols. Collectively, in clinical practice, the 3 strategic domains should not be isolated but rather be integrated to achieve predictable tooth movements with clear aligners.",
+      "journal": "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+      "authors": "Long Hu, Park Jae Hyun",
+      "pub_date": "2026-09-30",
+      "doi": "10.1016/j.ajodo.2026.08.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814043/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "ba1fc445d2ea61daa3affcd6621f4d2412a6ea1976503df0c3e4df90cd805ed6",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42820506",
+      "title": "Quality and reliability of clear aligner information on Brazilian orthodontists' websites: a DISCERN-based evaluation.",
+      "abstract": "OBJECTIVE: This study aimed to evaluate, using the DISCERN questionnaire, the quality, reliability, and decision-support capacity of aligner-related information published on orthodontists' websites.\nMETHODS: A cross-sectional study was conducted in July 2024. Google (www.google.com.br) was searched using Portuguese-language keywords (\"tratamento ortodôntico\", \"alinhadores\", and \"ortodontia\") in incognito mode from a Brazilian IP address. The first 130 non-sponsored websites were screened; 113 met the inclusion criteria. Two calibrated orthodontists independently evaluated each website using the validated Brazilian Portuguese version of the DISCERN instrument. Inter-rater reliability was assessed using the Intraclass Correlation Coefficient (ICC). Descriptive statistics and Spearman rank-order correlations were calculated using SPSS v.25.\nRESULTS: The mean overall DISCERN score was 26.3 (SD = 5.8; range 15-52) out of a maximum of 75. The ICC was 0.87 (95% CI = 0.82-0.91), indicating good-to-excellent inter-rater reliability. Among the 113 websites, 54.3% were rated as very poor, 30.7% as poor, 11.5% as fair, 3.5% as good, and none as excellent. The lowest-scoring items were Q4 (sources of information, 99.1% very poor or poor), Q5 (publication date, 87.6%), Q8 (areas of uncertainty, 95.6%), Q11 (treatment risks, 98.2%), and Q12 (consequences of no treatment, 100%).\nCONCLUSIONS: The quality of clear aligner information on Brazilian orthodontists' websites is critically poor. Orthodontists should provide evidence-based, transparent, and balanced content - including treatment risks, alternatives, and references - to support informed patient decision-making.",
+      "journal": "Dental press journal of orthodontics",
+      "authors": "Bark Mohamad Jamal, Gasparello Gil Guilherme, Machado Rosilene Andrea, Jede Tayla Granemann, Pithon Matheus Melo, Kloss Isabela Alex, Tanaka Orlando Motohiro",
+      "pub_date": "2026-09-28",
+      "doi": "10.1590/2177-6709.31.3.e262657.oar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42820506/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Brazil",
+        "Humans",
+        "Internet",
+        "Reproducibility of Results",
+        "Cross-Sectional Studies",
+        "Orthodontists",
+        "Surveys and Questionnaires"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "af4328adfea9555df55cb2adf4888d091b6cbb44825a870d57cf5795b0d79275",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42840499",
+      "title": "Conversational artificial intelligence compared with orthodontic reference standards for orthodontic information: A systematic review of accuracy, readability, safety, and certainty of evidence.",
+      "abstract": "BACKGROUND: Conversational artificial intelligence (AI) is increasingly used to obtain orthodontic information, but its reliability, completeness, readability, agreement with specialist judgment, and safety remain uncertain.\nOBJECTIVE: To systematically evaluate AI chatbots for delivering orthodontic information and clinical guidance, focusing on accuracy/reliability, completeness, readability, specialist agreement, and misleading information.\nMETHODS: This systematic review followed PRISMA 2020 and Cochrane guidance. Embase, PubMed, Scopus, Web of Science, ClinicalTrials.gov, Open Science Framework, and Google Scholar were searched. Eligible studies assessed AI-generated orthodontic responses against specialists, reference answers, or structured assessment tools. Risk of bias was evaluated using the Joanna Briggs Institute checklist. Meta-analysis was not performed because of substantial heterogeneity in chatbot systems, prompts, comparators, scoring instruments, and outcome definitions. Certainty of evidence was assessed using GRADE.\nRESULTS: Sixteen analytical cross-sectional studies were included. Chatbots generated coherent and accessible answers to routine orthodontic questions, especially foundational concepts and patient frequently asked questions. However, performance varied by model version, prompt design, and clinical complexity. Important limitations were identified in treatment planning, individualized recommendations, contextual risk framing, and information completeness. Some studies reported incomplete or false claims regarding clear aligners, airway effects, stability, and surgery. Readability was generally favorable but did not ensure clinical adequacy. Risk of bias ranged from low to moderate, and certainty of evidence was very low.\nCONCLUSIONS: AI chatbots may support routine orthodontic education under professional supervision, but current evidence does not support autonomous use. Standardized prompts, validated scoring tools, calibrated evaluators, and real-world outcome studies are needed.",
+      "journal": "Journal of oral biology and craniofacial research",
+      "authors": "Matos Karla Nogueira, Ferreira Giovanna Fontgalland, de Faria Almeida Marcos, de Faria Almeida Leonardo Matos, Prates Renato Araujo, Dos Santos Dantas Guimarães Hugo Henrique",
+      "pub_date": "2026-09-27",
+      "doi": "10.1016/j.jobcr.2026.101552",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840499/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "automation-ai",
+        "predictability",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "9b0ffe200010bcc3b5d06a54d6eb00dc2b565dbd8e2e4b8d4509c87cd73a9ed6",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42846369",
+      "title": "Biomechanical analysis of maxillary incisor intrusion with clear aligners under different periodontal conditions: a finite element analysis.",
+      "abstract": "OBJECTIVES: To investigate the biomechanical effects and determine the optimal increment for maxillary incisor intrusion using clear aligners across three periodontal conditions via finite element analysis (FEA).\nMATERIALS AND METHODS: Nine FE models were created in a 3 × 3 design simulating three periodontal states (M1: normal bone level; M2: one-third alveolar bone loss; M3: one-half alveolar bone loss) combined with three intrusion increments (0.10, 0.15, and 0.20 mm). Anterior tooth displacement, root von Mises stress, and periodontal ligament (PDL) maximum compressive stress were analyzed.\nRESULTS: Tooth displacement and mechanical stresses escalated with greater bone loss and larger increments. Central incisors experienced more pronounced tipping, whereas lateral incisors achieved greater vertical intrusion. Consequently, lateral incisors endured higher stresses; their PDL stress was approximately double that of central incisors. While central incisor intrusion efficiency increased proportionally with increment, lateral incisors in M2 and M3 states demonstrated higher efficiency at the 0.15-mm increment (peaking at 92.0%) than at 0.20 mm. In the M3 state, increasing the increment from 0.10 to 0.20 mm sharply amplified lateral incisor root stress (2.96-8.18 MPa) and PDL stress (0.056-0.114 MPa).\nCONCLUSION: Clear aligners produce maxillary incisor intrusion with concurrent tipping. Lateral incisors show higher intrusion efficiency but endure greater mechanical stress than central incisors. Alveolar bone loss exacerbates both tipping tendency and stress. For patients with alveolar bone loss exceeding one-third, the intrusion increment is recommended to be limited to 0.15 mm.",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "authors": "Li Qiuying, Zhang Yidan, Xu Bowen, Bai Linna, Yang Kai",
+      "pub_date": "2026-09-23",
+      "doi": "10.3389/fbioe.2026.1921947",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846369/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "cf4b1c9c2381da9c857f1db638ed534d0226e98fa8c6e1626ada9472520f1042",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42806319",
+      "title": "Effect of power arm length and attachment configuration on maxillary molar mesialization with clear aligners: a finite element analysis.",
+      "abstract": "BACKGROUND: Maxillary molar mesialization with clear aligners is challenging because achieving controlled root movement without excessive mesial tipping remains difficult. Although power arms can modify the force system, the combined effects of power-arm length and attachment configuration on molar displacement and tipping remain insufficiently characterized. This study evaluated the effects of 6-, 8-, and 10-mm power arms combined with two attachment configurations during maxillary first molar mesialization using three-dimensional finite element analysis.\nMETHODS: The attachment configurations were selected to represent two clinically distinct approaches to integrating a vertical attachment with a power arm: a palatal vertical attachment combined with a buccal cut-out and a buccal vertical attachment with direct power-arm integration. Six three-dimensional finite element models were constructed by combining three power arm lengths (6, 8, and 10 mm) with two attachment configurations: a palatal vertical attachment with a buccal cut-out, and a buccal vertical attachment without a cut-out. A mesial force of 200 g was applied from a temporary anchorage device (TAD) to the power arm. Displacements were measured along the X (bucco-palatal), Y (mesio-distal), and Z (occluso-gingival) axes. Peak von Mises stress values in the periodontal ligament and aligner deformation were evaluated.\nRESULTS: In all models, maxillary first molar displacement occurred predominantly in the mesial and gingival directions. Mesial crown displacement ranged from 0.068 to 0.074 mm, while distal displacement at the root apex ranged from 0.011 to 0.012 mm. Mesial tipping angles ranged from 0.155° to 0.170°, with higher tipping observed in models with shorter power arms. Increasing power arm length was consistently associated with reduced mesial tipping and lower periodontal ligament stress, but with reduced mesial crown displacement. Shorter power arms generated higher periodontal ligament stress, whereas longer power arms were associated with greater aligner deformation.\nCONCLUSIONS: Power arm length and attachment configuration were associated with differences in initial tooth displacement patterns, periodontal ligament stress distribution, and aligner deformation during maxillary first molar mesialization with clear aligners. Longer power arms were associated with reduced mesial tipping and lower periodontal ligament stress, but also with reduced mesial crown displacement. The buccal vertical attachment configuration consistently produced lower mesial rotation than the palatal vertical attachment with buccal cut-out configuration at each corresponding power-arm length; this difference should be interpreted as a configuration-dependent finding within the initial biomechanical response.",
+      "journal": "BMC oral health",
+      "authors": "Cavusoglu Ahmet, Erdem Buket",
+      "pub_date": "2026-09-22",
+      "doi": "10.1186/s12903-026-09893-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806319/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Finite Element Analysis",
+        "Humans",
+        "Molar",
+        "Maxilla",
+        "Tooth Movement Techniques",
+        "Imaging, Three-Dimensional",
+        "Orthodontic Appliance Design",
+        "Tooth Root",
+        "Dental Stress Analysis",
+        "Mesial Movement of Teeth",
+        "Stress, Mechanical",
+        "Orthodontic Anchorage Procedures",
+        "Biomechanical Phenomena"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "cf403cad068826fa0d1d54d76fb055bff9db5edded372cc3574fe95783780ce0",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42835856",
+      "title": "The impact of clear aligners therapy on dental caries: a systematic review.",
+      "abstract": "BACKGROUND: Dental caries is one of the most prevalent chronic conditions worldwide, significantly affecting public health and individual quality of life. Orthodontic treatments, particularly fixed appliances, may increase caries risk due to plaque retention and changes in the oral microbiota. Clear aligners, such as Invisalign®, represent a removable alternative that may facilitate oral hygiene and oral health. however, their impact on caries development remains a question to be investigate to understand the real opportunity in treating patients reducing the risk of caries.\nOBJECTIVE: To systematically evaluate the effect of clear aligner therapy on dental caries risk and cariological outcomes compared with fixed or traditional removable orthodontic appliances.\nMETHODS: A systematic literature search was conducted up to June 2025 in PubMed/MEDLINE and Web of Science. Original clinical studies comparing clear aligners with fixed or traditional removable appliances were included according to predefined PICOS criteria. Outcomes of interest included DMFT scores, caries incidence, white spot lesions, enamel demineralization, and cariogenic bacterial profiles. Study selection and data extraction were performed independently by two reviewers, with disagreements resolved by a third reviewer. Risk of bias was assessed using ROBINS-I.\nRESULTS: Three studies met the inclusion criteria (two case-control studies and one prospective cohort study). Two case-control studies reported a significantly greater increase in DMFT scores in patients treated with fixed appliances compared with clear aligners, while no significant differences in proximal caries incidence were observed. The cohort study found no significant differences in salivary levels of Streptococcus mutans and Lactobacilli between treatment modalities. Overall, no evidence of an increased caries risk associated with clear aligners was identified; however, the certainty of evidence was low.\nCONCLUSION: Clear aligner therapy does not appear to be associated with a higher risk of dental caries compared with fixed or traditional removable appliances. Nevertheless, the limited number of studies and their methodological limitations highlight the need for well-designed prospective investigations with standardized caries outcomes.",
+      "journal": "Frontiers in dental medicine",
+      "authors": "Caruso Silvia, Viarchi Arianna, Ciavarella Domenico, Tepedino Michele, Caruso Sara, Gatto Roberto, Truppa Claudia T, Mattei Antonella",
+      "pub_date": "2026-09-21",
+      "doi": "10.3389/fdmed.2026.1920698",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835856/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "retention-relapse",
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "899c16763c57646208d506502b3ed623668c706975ecd26bf229f81dbb47a9cb",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42782998",
+      "title": "Clinical Outcomes of Sequential Distalization with Clear Aligners: A Systematic Review and Meta-Analysis.",
+      "abstract": "Background/Objectives: Sequential distalization with clear aligners is increasingly used as a non-extraction approach for correcting Class II and selected Class III malocclusions. However, evidence remains heterogeneous regarding treatment protocols, anchorage strategies, and clinical outcomes. This systematic review and meta-analysis evaluated the clinical outcomes of sequential distalization with clear aligners, including achieved posterior tooth movement, predictability, biomechanical effects, and other clinically relevant outcomes. Methods: This systematic review was conducted according to PRISMA 2020 guidelines, and the protocol was prospectively registered in the Open Science Framework. PubMed, Embase, Scopus, Web of Science Core Collection, and the Cochrane Library were searched from inception through 1 July 2026. Eligible clinical studies evaluating sequential distalization with clear aligners were included. Random-effects meta-analyses were performed for sufficiently comparable outcomes, and certainty of evidence was assessed using GRADE. Results: Twenty-eight studies met the inclusion criteria. Pooled mean achieved distalization was 1.72 mm (95% CI, 1.02-2.42) for the maxillary first molar and 1.76 mm (95% CI, 1.12-2.40) for the maxillary second molar. Pooled distal tipping was 5.33° (95% CI, 1.37-9.30) for first molars and 5.77° (95% CI, -6.84-18.38) for second molars. First-molar intrusion was 0.58 mm (95% CI, 0.05-1.10). Movement predictability varied substantially across studies. Certainty of evidence was very low across clinically important domains. Conclusions: Sequential distalization with clear aligners may achieve moderate maxillary molar distalization but is accompanied by variable movement expression and biomechanical effects. Heterogeneous protocols and limited study quality restrict the certainty and generalizability of current estimates.",
+      "journal": "Dentistry journal",
+      "authors": "Baxmann Martin, Zsoldos Márton, Kárpáti Krisztina",
+      "pub_date": "2026-09-20",
+      "doi": "10.3390/dj14090611",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782998/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "aabcc69efdca26ed25a709b5d630905df2e359b245c3f25b3cf8103a3c8738b1",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42797190",
+      "title": "Effects of Printing Layer Thickness and Thermocycling on the Mechanical, Morphological, Optical, and Dimensional Properties of Directly Printed Clear Aligners.",
+      "abstract": "Directly printed clear aligners may streamline orthodontic workflows but must withstand intraoral aging. This in vitro study evaluated the effects of layer thickness (50, 100, and 150 µm) and thermocycling on mechanical, morphological, optical, and dimensional properties of Graphy Tera Harz TA-28 material. Specimens underwent standardized centrifugation and nitrogen post-curing, followed by tensile and flexural testing, Vickers microhardness, normalized light transmittance, dimensional analysis, and field-emission scanning electron microscopy (FESEM). Thermocycling comprised 250 cycles between 5 and 55 °C. Layer thickness significantly affected strain at break, flexural force, bending strength, bending modulus, microhardness, and normalized light transmittance. The 50 µm group showed the highest strain at break and greater flexural performance than the 100 and 150 µm groups. Thermocycling reduced Young's modulus and flexural outcomes. Significant layer thickness × thermocycling interactions occurred for stress at peak, deflection at peak, microhardness, normalized light transmittance, trueness (p = 0.008), and precision (p = 0.034). FESEM showed visible layer boundaries and surface heterogeneity with thicker layers, particularly in thermocycled 150 µm specimens. Overall, 50 µm provided favorable mechanical and dimensional performance after thermocycling, but produced the greatest reduction in light transmittance. Selection requires balancing mechanical and dimensional performance against optical stability after aging.",
+      "journal": "Polymers",
+      "authors": "Rostum Isra Dilshad, Ali Omar Sabah Mohammed Jamil",
+      "pub_date": "2026-09-18",
+      "doi": "10.3390/polym18182281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797190/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "de7701bfc2e843f68fde3512d5a5c35f9d5ccfeba667214a1babbedb3c3af191",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42791953",
+      "title": "In Vitro Comparison of Initial and 7-Day System-Level Resultant Forces in Clear Aligners with Different Layer Structures.",
+      "abstract": "Time-dependent force reduction may affect the biomechanical performance of thermoformed clear aligners. This proof-of-concept in vitro study compared initial and 7-day system-level 3D resultant forces of DURAN, ZENDURA FLX, and MESHEET under attachment-free and attachment-integrated conditions. Thirty independently fabricated aligners (n = 5 per condition) were tested on a rigid resin model with FDI tooth 11 positioned at 5° of labioversion. Forces were recorded at 1 Hz for 168 h under dry room conditions and summarized at 12 h intervals. Temporal series and group-level normalized decay were evaluated descriptively; no longitudinal inferential analysis was performed. Separate 3 × 2 two-way ANOVAs assessed absolute resultant force at 0 and 168 h. Higher endpoint forces were observed under the attachment-integrated condition in this experimental setup at 0 h [F(1,24) = 24.510, p < 0.001, partial η2 = 0.505] and 168 h [F(1,24) = 7.175, p = 0.013, partial η2 = 0.230]. However, because testing followed a fixed, nonrandomized sequence, the observed difference cannot be attributed exclusively to attachment condition. Material and interaction effects were not significant at either endpoint. Under the attachment-integrated condition, normalized decay was 51.4%, 48.2%, and 44.5%, while 168 h mean forces were 1.415, 1.664, and 1.558 N, respectively. These findings do not establish decay-rate differences, material superiority, equivalence, or clinical efficacy.",
+      "journal": "Bioengineering (Basel, Switzerland)",
+      "authors": "Seo Jeong-Hee, Park Eun-Yeong, Lee Jeong-Hyeon, Kim Won-Gi, Lee Sung-Jae, Kim Bongju",
+      "pub_date": "2026-09-18",
+      "doi": "10.3390/bioengineering13091081",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791953/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "d31c232ca4460761d87d36f7812a80266116f41fafc9090602cffb0ef937b40a",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42782988",
+      "title": "Predictability of Sequential Distalization of the Upper Arch Using Invisalign®: A 3D Superimposition Study.",
+      "abstract": "Background: Sequential distalization of the upper arch with clear aligners is widely used to correct Class II malocclusion, but its predictability across molars, canines, and incisors is unclear. This study compared virtual planning with intraoral outcomes and identified the associated side effects. Methods: A retrospective study analyzed 80 maxillary quadrants from 40 patients with dental Class II malocclusion treated with Invisalign® (Smart Track® material) using a sequential V-pattern distalization protocol with Class II elastics and vertical rectangular/optimized attachments. Predicted movements were extracted from ClinCheck Pro®. Scans at baseline and after the first approved aligner stage were superimposed on the palatal rugae using Geomagic Control X®. Extrusion/intrusion, buccolingual movement, mesiodistal translation, rotation, angulation, and torque were measured for molars, canines, and incisors. Results: Molar distalization reached 1.80 of the 2.60 mm planned (69.2%), and canines 1.12 of 2.45 mm (45.7%) and incisor intrusion reached only 0.03 of the 1.45 mm planned (2.1%). Buccolingual molar movement was most predictable (97.4%), and molar rotation showed moderate-to-good predictability (88.4%); incisor rotation, angulation and torque accuracy were 62.2%, 53.8% and 23.2%, respectively. Molar angulation and torque were markedly overexpressed, with unplanned intrusion of 0.80 mm; canine angulation/torque were similarly overexpressed. Incisor intrusion/torque movements were least predictable. Conclusions: Predictability of sequential upper-arch distalization varied widely across tooth groups and movement types. Linear distalization was moderately to poorly predictable and rotational movements were well reproduced, but angulation/torque control were the least predictable, especially for molars and canines, with unintended molar intrusion and buccal torque. Incisor torque, intrusion, and retrusion were most underexpressed. Vertical rectangular attachments improved molar tipping control, while absent attachments and Power Ridges worsened incisor torque/translation. Clinicians should anticipate overcorrection and refinement stages to avoid false expectations based on the initial ClinCheck outcome.",
+      "journal": "Dentistry journal",
+      "authors": "López-Mateos Cristina Menéndez, López-Mateos Mª Luisa Menéndez, Alarcón José Antonio, Menéndez-Núñez Mario, Martin Conchita",
+      "pub_date": "2026-09-16",
+      "doi": "10.3390/dj14090601",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782988/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "clincheck",
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "predictability",
+        "refinement",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "b92d4cd58ff2cd211898a2db16e6c3ccef6eeb9b7f07c458502e73b34852efdc",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42782967",
+      "title": "Quantitative Comparison of Bone and Dental Morphology Between Invisalign® Integrated CBCT Images and Conventional CBCT Images.",
+      "abstract": "Background/Objectives: A recent feature in the Invisalign® system allowed integration of cone-beam computed tomography (CBCT) with intraoral scans, thereby enabling visualization of the tooth roots and surrounding alveolar bone. Here, we aimed to compare differences between anatomical measurements obtained from integrated CBCT using Invisalign® software and conventional CBCT images. Methods: In this cross-sectional study, we included 45 adult patients (mean age 29.53 ± 7.66 years). Alveolar bone width was measured at the crestal, mid-root, and apical levels and the root length, maxillary and mandibular outer and inner transverse widths, and symphyseal width were assessed. Intra-examiner reliability was assessed using intraclass correlation coefficients. Paired t-tests were used to compare the two methods, and Bland-Altman analysis was used to evaluate agreement. Results: Intra-examiner reliability demonstrated excellent agreement for all measurements (intraclass correlation coefficients > 0.90). Integrated CBCT models showed greater alveolar bone width, symphyseal width, and interbuccal transverse measurements than conventional CBCT, whereas the root length and interlingual transverse widths were underestimated. Most of the differences between the two methods were statistically significant (p < 0.05), although 5 of the 12 crestal measurements did not reach statistical significance (p > 0.05). For most measurements, the mean absolute differences were below 0.7 mm, except for root length, which showed larger discrepancies. Bland-Altman analysis revealed good agreement between the methods, with most observations lying within the 95% limits of agreement and no evident proportional bias. Conclusions: Most measured variables showed significant differences between integrated and conventional CBCT (p < 0.05), ranging from 0.7 mm to 1.3 mm; however, at the crestal level, 5/12 measurements showed no statistically significant difference between methods (p > 0.05).",
+      "journal": "Dentistry journal",
+      "authors": "Albilali Hind W, Alamri Abdulaziz S, Shahin Suliman Y, Almasoud Naif N, Alsulaiman Osama A, Almazrou Dalal M, Alsulaiman Ahmed A",
+      "pub_date": "2026-09-09",
+      "doi": "10.3390/dj14090580",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782967/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "scanning-digital-workflow"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "63751a779b86e8779c84e0011f09a28edceab2169dae489a3afa517bf0d98678",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42795040",
+      "title": "Clear Aligners as a Prescribed Source of Unmeasured Intra-Oral Micro- and Nanoplastic Exposure: Release Mechanisms, Human Evidence, Salivary Biomonitoring and the EU Regulatory Context.",
+      "abstract": "Clear orthodontic aligners are removable polymer devices worn about 22 h a day for 12 to 24 months, increasingly by children. A growing in vitro literature shows that thermoformed and 3D-printed aligners shed micro- and nanoplastics and co-release elemental or organic constituents under oral, gastric and mechanical conditions, yet aligner-derived particle burden and systemic dose in wearers have not been measured. This review sets aligner-derived release against the wider human micro- and nanoplastic record and evaluates saliva as a biomonitoring matrix. Directly printed devices release more and larger microplastics under mechanical stress, whereas thermoformed materials show acid-related degradation, with Sb/Sn release and nanometre-scale particles reported in a single, not yet replicated in vitro study. Particles below 5 microns, especially below 1 micron, are plausible translocation candidates, but translocation of aligner-derived particles has not been demonstrated. In vitro work reports macrophage and oxidative responses, whereas detections in blood, placenta and atheroma are not source-specific and remain associative. The EU amalgam phase-out does not regulate aligners but highlights a substitution question, because device and chemicals law addresses intentionally added microplastics, not wear-generated secondary particles. ICP-MS for antimony and tin, with Raman, micro-FTIR and electron microscopy, forms a plausible analytical toolbox. We propose harmonised release testing and validated salivary biomonitoring, prioritising children, to characterise source-proximal exposure before use expands.",
+      "journal": "Materials (Basel, Switzerland)",
+      "authors": "Mikulewicz Marcin, Chojnacka Katarzyna",
+      "pub_date": "2026-09-08",
+      "doi": "10.3390/ma19183816",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42795040/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "54dccc8bc10d9087200e28c15324e0843c26d382d2b349f7aa987f52fb5c3a58",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42782963",
+      "title": "Forces and Moments Generated by Thermoforming Aligners and Direct-Printed Aligners: A Systematic Review.",
+      "abstract": "Objectives: This systematic review aims to compare the forces and moments generated by thermoforming aligners and direct-printed aligners in guiding tooth movement in orthodontic patients, evaluating their impact on orthodontic outcomes. Methods: A systematic search was conducted in PubMed, Web of Science, and Scopus databases, covering studies on thermoforming and direct-printed aligners from inception to October 2024. Eligible studies included randomized controlled trials, quasi-experimental studies, and observational studies assessing forces and moments generated by these aligners on teeth. In vitro studies pertinent to the topic were also considered. Data extraction focused on study characteristics, aligner details, force and moment measurements, and clinical outcomes. Quality assessment utilized the ROBINS- I for Risk of Bias. The review has been registered on PROSPERO CRD42024620341. Results: A total of nine studies met the inclusion criteria. Findings indicate that thermoforming aligners, while effective in initial force application, exhibit significant force decay over time due to material stress relaxation. In contrast, direct-printed aligners maintain more consistent force levels, potentially resulting in more predictable and sustained tooth movement. Both aligner types vary in their ability to control force direction and magnitude, with direct-printed aligners showing advantages in customization and force retention. Conclusions: The biomechanical properties of thermoforming and direct-printed aligners offer distinct advantages and limitations. Direct-printed aligners may enhance clinical predictability and reduce treatment time through consistent force application, though further research is necessary to validate these benefits in clinical settings. This review underscores the importance of material selection and fabrication method in optimizing orthodontic outcomes.",
+      "journal": "Dentistry journal",
+      "authors": "Mohanty Pritam, Priyadarshini Saundarya, Mohanty Debapreeti, Tumedei Margherita, Del Fabbro Massimo, Tirunelveli Mani Parameswaran, Chaudhary Partha Pratim, Krishnan Balaji",
+      "pub_date": "2026-09-08",
+      "doi": "10.3390/dj14090577",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782963/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability",
+        "retention-relapse"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "891eae876f1bc2198c080c785767bebe43ecb7ab2ac517df892b2883a000500b",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42782921",
+      "title": "Management of Skeletal Class II Malocclusion in a Growing Patient Using Clear Aligners and Class II Elastics: A Case Report.",
+      "abstract": "Objective: Class II malocclusion with mandibular retrusion in growing patients is traditionally managed with functional appliances. Recent advances in clear aligner therapy have introduced new biomechanical approaches combining aligners with intermaxillary elastics. This case report describes the correction of a skeletal Class II malocclusion using clear aligners combined with Class II elastics during the pubertal growth spurt. Methods: An 11-year-old female patient with skeletal Class II due to mandibular retrusion, increased overjet, deep bite, and dental Class II relationship was treated with clear aligners, transverse expansion, bite ramps, attachments, and full-time Class II elastics. Results: After 24 months of treatment, favorable dentoskeletal and occlusal outcomes were achieved, including improvement of the sagittal relationship (ANB reduction from 7° to 4°), mandibular advancement (SNB increase from 76° to 79°), and correction of overjet and overbite. Conclusions: The combination of clear aligners and Class II elastics may represent a valid treatment option for growing patients with mandibular Class II malocclusion, providing effective sagittal correction and good control of dental movements when applied during the appropriate growth phase.",
+      "journal": "Dentistry journal",
+      "authors": "Gazzani Francesca, Pavoni Chiara, De Razza Francesca Chiara, Lugli Letizia, Cozza Paola, Lione Roberta",
+      "pub_date": "2026-08-25",
+      "doi": "10.3390/dj14090534",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782921/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "f180d1db5a5f3bd3042ab24f46c51eefabd3d856a0708247aa1eebcb6f4b90ae",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "42801521",
+      "title": "Comparison Between Skeletally-Anchored and Conventional Maxillary Protraction in Growing Class ΙΙΙ Patients: A Systematic Review and Meta-Analysis.",
+      "abstract": "OBJECTIVE: The aim of this systematic review was to evaluate the skeletal and dental effects of skeletally-anchored (SA) maxillary protraction compared with conventional facemask (FM) therapy in growing patients with Class III malocclusion, while controlling for the confounding effect of rapid maxillary expansion (RME).\nMATERIALS AND METHODS: A systematic literature search (MEDLINE, Cochrane Library, Virtual Health Library, Web of Science, Google Scholar), which involved two screening stages, was performed until January 2026 and identified prospective clinical trials comparing SA with conventional tooth-borne FM therapy. Only studies in which expansion protocols were applied uniformly across groups were included. Risk of bias was assessed with RoB 2 and ROBINS-I tools, and random effects meta-analyses were conducted for cephalometric outcomes. The certainty of the evidence was evaluated according to the grading of recommendations, assessment, development, and evaluation (GRADE) approach.\nRESULTS: Five prospective trials (3 RCTs, 2 CCTs; n = 194 participants) met the inclusion criteria. Random-effects meta-analyses showed a modest but significant greater increase in SNA for SA (MD 0.65°; 95% CI 0.18-1.13, I2 = 0.0%) and consistently fewer dental side effects with SA: upper-molar mesialization (-1.14 mm; -2.12 to -0.17, I2 = 10.3%), molar extrusion (-0.74 mm; -1.07 to -0.40, I2 = 0.0%), and maxillary incisor proclination (-2.47°; -4.14 to -0.80, I2 = 0.0%). The mandibular plane rotation did not differ significantly (-0.38°; -1.67 to 0.91, I2 = 45.6%). Risk of bias was assessed as \"some concerns\" in RCTs and \"serious\" in non-randomized studies. The certainty of evidence ranged from very low to moderate according to GRADE.\nCONCLUSIONS: Within the limitations of the available short-term evidence, and given the low-to-moderate certainty of the pooled estimates, SA was associated with fewer dental side effects and a statistically significant, though not clinically relevant, gain in skeletal efficacy. Future long-term, age-stratified randomized trials are needed to confirm the long-term stability of these findings.",
+      "journal": "Clinical and experimental dental research",
+      "authors": "Papadopoulou Christianna Iris, Paschaei Nusha, Brunello Giulia, Jungbauer Rebecca, Becker Kathrin",
+      "pub_date": "2026-01-01",
+      "doi": "10.1002/cre2.70466",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42801521/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Palatal Expansion Technique",
+        "Malocclusion, Angle Class III",
+        "Extraoral Traction Appliances",
+        "Cephalometry",
+        "Orthodontic Anchorage Procedures",
+        "Maxilla",
+        "Child"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "2634d13374ebac3c425c47c140f7cf3e87e897790ff7d7c3c164bd3bf6a73611",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z"
+    },
+    {
+      "pmid": "40394411",
+      "title": "Effectiveness and accuracy of clear aligners in treatment of deep bite: a systematic review.",
+      "abstract": "OBJECTIVES: This systematic review evaluated the effectiveness and accuracy of clear aligners (CA) for dental and skeletal deep bite correction.\nMETHODS: Searches in PubMed, Embase, Cochrane, and grey literature were conducted from inception to May 2024. Studies included all age groups with dental and/or skeletal deep bite treated with CA, with or without control groups, using prospective or retrospective designs. Risk of bias was assessed through Risk Of Bias In Non-randomised Studies-of Interventions (\"ROBIN-I\").\nRESULTS: Out of 829 studies screened, 18 were included. Eight studies assessed CA's effectiveness, eight evaluated CA accuracy, and two examined both. The effectiveness in bite opening ranged from 0.4 mm to 3.8 mm, while the accuracy in deep bite correction varied between 33% and 48.88% across all studies. According to GRADE, the evidence for both CA accuracy and effectiveness in deep bite treatment was rated as low quality due to high risk of bias, indirectness, and imprecision, despite consistent findings across studies.\nCONCLUSION: CA can effectively correct mild to moderate dentoalveolar deep bites; however, its efficacy in skeletal cases compared to full-fixed appliance (FFA) remains uncertain. Planned correction of deep bites with CA often falls short of the actual achieved correction, making overcorrection or refinements necessary for achieving the desired treatment outcomes. Due to the limited quality and methodological variability among the studies, recommending CA as a superior modality for deep bite correction remains premature.\nCLINICAL RELEVANCE: CA may be effective for dentoalveolar deep bites but often needs adjustments for accuracy and is less effective than FFA for skeletal cases.\nREGISTRATION: The review protocol was registered in PROSPERO (#CRD42022334078).",
+      "journal": "Clinical oral investigations",
+      "authors": "Husain Fatemah, Riccardi Joseph, Alletto Lia, Stellrecht Elizabeth, Bejehmir Arash Poursattar, Al-Jewair Thikriat",
+      "pub_date": "2025-05-21",
+      "doi": "10.1007/s00784-025-06381-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40394411/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Overbite",
+        "Treatment Outcome",
+        "Orthodontic Appliance Design",
+        "Orthodontic Appliances, Removable"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability",
+        "refinement"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "53a7df1d238e6e31d612279820198efb58ae0f070fe3890cd0d5a96acf77a12d",
+      "fetched_at_utc": "2026-10-10T08:48:35Z",
+      "updated_at_utc": "2026-10-10T08:48:35Z"
+    },
+    {
+      "pmid": "38281057",
+      "title": "An evaluation of the Invisalign® Aligner Technique and consideration of the force system: a systematic review.",
+      "abstract": "OBJECTIVE: Since its introduction 25 years ago, the Invisalign® system has undergone multiple digital and biomechanical evolutions and its effectiveness is often compared to traditional systems without considering the many differences which characterize them. The main aim of this systematic review is to look at the literature dealing with studies on teeth movements using the Invisalign® system and the management of these movements through digital planning and artificial intelligence.\nMATERIALS AND METHODS: The following electronic databases were searched: MEDLINE, Embase, the Cochrane Oral Health Group's Trials Register, and CENTRAL. Unpublished studies were searched on ClinicalTrials.gov, the National Research Register, and Pro-Quest Dissertation Abstracts and Thesis database.\nRESULTS: Twenty-four studies (15 retrospective, 5 prospective, 2 pilot, and 2 case-control) were included. The results of the analysis carried out on the available literature show that the Invisalign® system is recognized to be a valid alternative to conventional orthodontic treatment in no-extraction cases. The results are influenced by the methods for assessing the effectiveness of this technique and by the comparison bias of the traditional system with the innovative digital system.\nCONCLUSIONS: Since the introduction of SmartForce and SmartTrack material, the efficacy of the treatment has improved. There is still a shortage of high-quality evidence concerning the treatment modality. In order to make the treatment with the aligners more efficient, a correct management of the ClinCheck® software and a proper use of the biomechanics are necessary. The aligned force-driven system should be taken into account when developing the digital planning.",
+      "journal": "Systematic reviews",
+      "authors": "Caruso Silvia, De Felice Maria Elena, Valenti Chiara, Pagano Stefano, Caruso Sara, Gatto Roberto, Lombardo Guido",
+      "pub_date": "2024-01-27",
+      "doi": "10.1186/s13643-023-02437-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38281057/",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Artificial Intelligence",
+        "Prospective Studies",
+        "Retrospective Studies",
+        "Orthodontic Appliances, Removable",
+        "Software"
+      ],
+      "matched_assets": [
+        "clincheck",
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "automation-ai",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "946044d0e4603688d9d467b1571dac9f23474cba18dca7d6a4c614bb750cb73c",
+      "fetched_at_utc": "2026-10-10T08:48:35Z",
+      "updated_at_utc": "2026-10-10T08:48:35Z"
+    },
+    {
+      "pmid": "36989750",
+      "title": "Is maxillary arch expansion with Invisalign® efficient and predictable? A systematic review.",
+      "abstract": "BACKGROUND: The main objective of this review is to assess the effectiveness and predictability of the transverse expansion movement performed by Invisalign®. The secondary objectives are to determine whether the expansion is of a dentoalveolar or skeletal nature, and to locate the areas of expansion on the dental arch.\nMETHODS: Two investigators used the PubMed database to search for articles related to the subject. After using a research equation, specific inclusion and exclusion criteria were applied and the final selection of articles was done after being read in full. The ROBINS-I tool for non-randomized studies was applied to assess risk of bias in the results of each included study.\nRESULTS: After reading the articles in full, 12 articles were included. Regarding effectiveness, most studies showed an increase in all measured interdental distances, with a maximum expansion at the premolar level. As for predictability, significant differences were found between post-treatment models and Clincheck® models, making it generally weak. Concerning the nature and areas of expansion, increase of arch width was due to buccal tipping of the crowns following a decreasing gradient from anterior to posterior.\nCONCLUSIONS: Invisalign® treatment is effective in achieving a maxillary transverse expansion. However, this expansion is mainly dentoalveolar, with a facial crown tipping of the posterior teeth. Clincheck® software tends to overestimate the expansion movement when compared to the clinical outcome, therefore the predictability of movement is low.",
+      "journal": "International orthodontics",
+      "authors": "Bouchant Mathilde, Saade Aline, El Helou Marwan",
+      "pub_date": "2023-03-27",
+      "doi": "10.1016/j.ortho.2023.100750",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36989750/",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Malocclusion",
+        "Tooth Movement Techniques",
+        "Orthodontic Appliances, Removable",
+        "Palatal Expansion Technique",
+        "Software"
+      ],
+      "matched_assets": [
+        "clincheck",
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "predictability",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "6d17d9d3e747a84e3c0350a4be0f7a1a6f2ef1279a6badc4e022edd508d37e8f",
+      "fetched_at_utc": "2026-10-10T08:48:35Z",
+      "updated_at_utc": "2026-10-10T08:48:35Z"
+    },
+    {
+      "pmid": "34993617",
+      "title": "Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews.",
+      "abstract": "OBJECTIVE: To evaluate the available evidence regarding clinical effectiveness of clear aligner treatment (CAT).\nMATERIALS AND METHODS: A comprehensive literature search was conducted for systematic reviews investigating effectiveness of CAT published up to July 15, 2021. This was accomplished using different electronic databases. No language restriction was applied. Screening, quality assessment, and data extraction were performed by two authors independently. Information was categorized and narratively synthesized for the key findings from moderate and high-quality reviews.\nRESULTS: A total of 361 potentially eligible reviews were identified. After excluding the non-relevant/low-quality reviews, 18 systematic reviews were included. CAT was found to be effective for mild to moderate malocclusions, and was associated with inferior outcomes when treating severe cases or with achieving specific tooth movements. There were conflicting results regarding treatment duration; however, CAT may be associated with shorter treatment in mild to moderate cases. Relapse was greater with CAT, while periodontal health was better. The risk of root resorption tended to be lower with CAT. Regarding pain, the results were unclear, although CAT was found to be more comfortable and associated with a reduced impact on eating and chewing.\nCONCLUSIONS: The level of evidence regarding CAT is moderate; hence, further high-quality randomized clinical trials are required. Evidence supports use of aligners as an alternate to fixed appliances in patients with mild-to-moderate malocclusion but not in severe cases. Advancement in technology could enhance the accuracy of CAT in delivering planned outcomes.\nCLINICAL RELEVANCE: CAT can be used effectively for selected cases with mild to moderate malocclusion.\nREGISTRATION: PROSPERO registration number: CRD42021246855.",
+      "journal": "Clinical oral investigations",
+      "authors": "Yassir Yassir A, Nabbat Sarah A, McIntyre Grant T, Bearn David R",
+      "pub_date": "2022-01-06",
+      "doi": "10.1007/s00784-021-04361-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34993617/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Malocclusion",
+        "Orthodontic Appliances, Fixed",
+        "Orthodontic Appliances, Removable",
+        "Systematic Reviews as Topic",
+        "Treatment Outcome"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability",
+        "retention-relapse",
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "f533209b9c9c949345ab90b73d7eee3b872bcae176ae792fc1db11c7f80be14e",
+      "fetched_at_utc": "2026-10-10T08:48:35Z",
+      "updated_at_utc": "2026-10-10T08:48:35Z"
+    },
+    {
+      "pmid": "29957318",
+      "title": "Accuracy of clear aligners: A retrospective study of patients who needed refinement.",
+      "abstract": "INTRODUCTION: The purpose of this study was to determine the accuracy of specific tooth movements with Invisalign (Align Technology, Santa Clara, Calif).\nMETHODS: The study sample included 20 Class I adult patients treated with Invisalign; they completed their first series of aligners and had to have a \"refinement\" series. Initial and predicted models were obtained from the initial ClinCheck (Align Technology). The starting point of the refinement ClinCheck was used to create the achieved models. Predicted and achieved models were superimposed over the initial ones on posterior teeth using the 3-dimensional Image Analysis open-source software Slicer CMF. Three hundred ninety-eight teeth were measured for vertical, horizontal, and rotational movements, and transverse widths were measured. The amount of predicted tooth movement was compared with the achieved amount for each movement.\nRESULTS: Horizontal movements of all incisors seemed to be accurate, with small (0.20-0.25 mm) or insignificant differences between predicted and achieved amounts. Vertical movements and particularly intrusions of maxillary central incisors were found to be less accurate, with a median difference of 1.5 mm (P <0.001). All achieved rotations were significantly smaller than those predicted, with the maxillary canines exhibiting the greatest difference of 3.05° (P <0.001).\nCONCLUSIONS: The most inaccurate movements identified in this study were intrusion of the incisors and rotation of the canines.",
+      "journal": "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+      "authors": "Charalampakis Orfeas, Iliadi Anna, Ueno Hiroshi, Oliver Donald R, Kim Ki Beom",
+      "pub_date": "2018-01-01",
+      "doi": "10.1016/j.ajodo.2017.11.028",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29957318/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Malocclusion, Angle Class I",
+        "Middle Aged",
+        "Orthodontic Appliance Design",
+        "Orthodontic Appliances",
+        "Retrospective Studies",
+        "Tooth Movement Techniques",
+        "Young Adult"
+      ],
+      "matched_assets": [
+        "clincheck",
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "predictability",
+        "refinement",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "dde2203909fba87eef84655d14cee774640450c577646fb5e4b9b126cc35f5a7",
+      "fetched_at_utc": "2026-10-10T08:48:35Z",
+      "updated_at_utc": "2026-10-10T08:48:35Z"
+    }
+  ]
+}

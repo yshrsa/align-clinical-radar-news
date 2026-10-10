@@ -1,0 +1,82 @@
+{
+  "display_name": "Align Clinical Operations Radar",
+  "focal_label": "Align関連",
+  "assets": [
+    {
+      "id": "invisalign",
+      "label": "Invisalign",
+      "company": "Align Technology"
+    },
+    {
+      "id": "clincheck",
+      "label": "ClinCheck",
+      "company": "Align Technology"
+    },
+    {
+      "id": "itero",
+      "label": "iTero",
+      "company": "Align Technology"
+    },
+    {
+      "id": "exocad",
+      "label": "exocad",
+      "company": "Align Technology"
+    },
+    {
+      "id": "vivera",
+      "label": "Vivera",
+      "company": "Align Technology"
+    },
+    {
+      "id": "clearcorrect",
+      "label": "ClearCorrect",
+      "company": "Straumann Group"
+    },
+    {
+      "id": "suresmile",
+      "label": "SureSmile",
+      "company": "Dentsply Sirona"
+    },
+    {
+      "id": "spark",
+      "label": "Spark",
+      "company": "Ormco"
+    },
+    {
+      "id": "angel-aligner",
+      "label": "Angel Aligner",
+      "company": "Angel Aligner"
+    }
+  ],
+  "topics": [
+    {
+      "id": "predictability",
+      "label": "計画と実績の差"
+    },
+    {
+      "id": "refinement",
+      "label": "Refinement・手戻り"
+    },
+    {
+      "id": "treatment-planning",
+      "label": "治療計画・ClinCheck"
+    },
+    {
+      "id": "scanning-digital-workflow",
+      "label": "スキャン・デジタル工程"
+    },
+    {
+      "id": "safety-patient-outcomes",
+      "label": "安全性・患者アウトカム"
+    },
+    {
+      "id": "automation-ai",
+      "label": "AI・自動化"
+    },
+    {
+      "id": "retention-relapse",
+      "label": "保定・後戻り"
+    }
+  ],
+  "chat_url": ""
+}

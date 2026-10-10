@@ -1,0 +1,65 @@
+pack: align-clinical-operations
+version: 0.1.0
+display_name: "Align Clinical Operations Radar"
+
+scope:
+  topics:
+    - id: predictability
+      label: "計画と実績の差"
+      synonyms: ["predictability", "accuracy", "planned versus achieved", "planned vs achieved", "tooth movement accuracy"]
+    - id: refinement
+      label: "Refinement・手戻り"
+      synonyms: ["refinement", "additional aligner", "midcourse correction", "finishing aligner", "rework"]
+    - id: treatment-planning
+      label: "治療計画・ClinCheck"
+      synonyms: ["treatment planning", "digital planning", "ClinCheck", "biomechanical planning"]
+    - id: scanning-digital-workflow
+      label: "スキャン・デジタル工程"
+      synonyms: ["intraoral scan", "intraoral scanner", "digital workflow", "iTero", "three-dimensional scan", "3D scan"]
+    - id: safety-patient-outcomes
+      label: "安全性・患者アウトカム"
+      synonyms: ["adverse event", "root resorption", "periodontal", "pain", "quality of life", "patient satisfaction", "compliance"]
+    - id: automation-ai
+      label: "AI・自動化"
+      synonyms: ["artificial intelligence", "machine learning", "automated treatment plan", "automation", "deep learning"]
+    - id: retention-relapse
+      label: "保定・後戻り"
+      synonyms: ["retention", "retainer", "relapse", "post-treatment stability"]
+
+entities:
+  focal_company:
+    name: "Align Technology"
+    label: "Align関連"
+    aliases: ["Align Technology", "Align Tech"]
+  competitors:
+    - { name: "Straumann Group", weight: 3 }
+    - { name: "Dentsply Sirona", weight: 3 }
+    - { name: "Ormco", weight: 2 }
+    - { name: "Angel Aligner", weight: 2 }
+  assets:
+    - { name: "invisalign", label: "Invisalign", brand: ["Invisalign", "SmartTrack", "SmartForce"], company: "Align Technology" }
+    - { name: "clincheck", label: "ClinCheck", brand: ["ClinCheck", "ClinCheck Pro", "ClinCheck Live Plan"], company: "Align Technology" }
+    - { name: "itero", label: "iTero", brand: ["iTero", "iTero Lumina"], company: "Align Technology" }
+    - { name: "exocad", label: "exocad", brand: ["exocad"], company: "Align Technology" }
+    - { name: "vivera", label: "Vivera", brand: ["Vivera"], company: "Align Technology" }
+    - { name: "clearcorrect", label: "ClearCorrect", brand: ["ClearCorrect", "ClearQuartz"], company: "Straumann Group" }
+    - { name: "suresmile", label: "SureSmile", brand: ["SureSmile"], company: "Dentsply Sirona" }
+    - { name: "spark", label: "Spark", brand: ["Spark Clear Aligners", "Spark aligner"], company: "Ormco" }
+    - { name: "angel-aligner", label: "Angel Aligner", brand: ["Angel Aligner"], company: "Angel Aligner" }
+
+sources:
+  pubmed:
+    query: >
+      (clear aligner*[Title/Abstract] OR Invisalign[Title/Abstract] OR ClinCheck[Title/Abstract]
+      OR iTero[Title/Abstract] OR ClearCorrect[Title/Abstract] OR SureSmile[Title/Abstract]
+      OR Spark aligner*[Title/Abstract] OR "Orthodontic Appliances, Removable"[MeSH Terms])
+      AND (orthodont*[Title/Abstract] OR malocclusion[Title/Abstract]
+      OR "Tooth Movement Techniques"[MeSH Terms] OR treatment planning[Title/Abstract])
+    max_per_run: 150
+  japan_relevance_terms: ["Japan", "Japanese", "日本", "Japanese population", "Japanese patients"]
+
+delivery:
+  rss_title: "Align Clinical Operations Radar"
+  max_items: 150
+  stale_after_hours: 48
+  chat_url: ""
