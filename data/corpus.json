@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-10T15:01:20Z",
+  "generated_at_utc": "2026-10-11T00:15:35Z",
   "documents": [
     {
       "pmid": "42850342",
@@ -332,7 +332,16 @@
       "japan_relevant": false,
       "content_sha256": "c4b706cb399228aa2b791cf0346fd979e609e5e5d8309d07031bdf08f8bf2525",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "直接3Dプリント型マウスピース（Group A）、Invisalign（Group B）、ClearCorrect（Group C）、固定式矯正装置（Group D）の4群に52例を無作為割り付けし、唾液中ビスフェノールA（BPA）濃度、PARスコア減少率、総治療期間を比較した4群並行型ランダム化臨床試験。BPA濃度およびPARスコア減少率には群間差は認められなかった（p > 0.05）。総治療期間は固定式矯正装置群（10.16 ± 2.28ヶ月）がマウスピース群より有意に長かった（p < 0.001）。",
+      "key_takeaway_ja": "直接3Dプリント型・間接型マウスピースおよび固定式矯正装置間でBPA放出量や治療効果（PARスコア減少率）に有意差は認められず、総治療期間はマウスピース群が固定式矯正装置群より有意に短かった。",
+      "why_matters_ja": "安全性の観点：BPA放出量についてマウスピース各システムと固定式装置間で有意差がなかったことは、マウスピース材料の安全性に関する臨床的エビデンスとして位置づけられる。治療効果の観点：PARスコア減少率に群間差がなかったことは、Invisalignを含むマウスピース治療が固定式装置と同等の整列精度を達成できることを示唆する。ワークフロー効率の観点：Invisalign群の総治療期間（5.36 ± 1.63ヶ月）が固定式装置群（10.16 ± 2.28ヶ月）より有意に短かったことは、治療効率の面でマウスピース治療の優位性を示す。",
+      "study_type_ja": "ランダム化臨床試験（4群並行型）",
+      "endpoints_ja": "唾液中BPA濃度、PARスコア減少率、総治療期間",
+      "endpoint_results_ja": "唾液中BPA濃度：各時点において群間に統計的に有意な差は認められなかった（p > 0.05）。PARスコア減少率：群間に有意差は認められなかった（p > 0.05）。総治療期間：Group A 6.59 ± 1.42ヶ月、Group B 5.36 ± 1.63ヶ月、Group C 5.72 ± 1.88ヶ月、Group D 10.16 ± 2.28ヶ月。Group Dが他の群より有意に長かった（p < 0.001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:16:03Z"
     },
     {
       "pmid": "42846369",
@@ -356,7 +365,16 @@
       "japan_relevant": false,
       "content_sha256": "cf4b1c9c2381da9c857f1db638ed534d0226e98fa8c6e1626ada9472520f1042",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "上顎前歯のクリアアライナーによる圧入において、3つの歯周状態（M1: 正常骨レベル、M2: 1/3歯槽骨吸収、M3: 1/2歯槽骨吸収）と3つの圧入量（0.10、0.15、0.20 mm）の3×3デザインで9つの有限要素モデルを作成し、前歯の歯移動、歯根von Mises応力、歯槽骨膜（PDL）最大圧縮応力を解析した計算力学研究。",
+      "key_takeaway_ja": "歯槽骨吸収が1/3を超える患者では、圧入量を0.15 mmに制限することが推奨される。側切歯は中切歯より圧入効率が高いが、より大きな機械的応力を承受する。",
+      "why_matters_ja": "治療計画品質の観点：側切歯の圧入効率はM2・M3状態で0.15 mm圧入時に92.0%でピークに達し、0.20 mmでは低下するため、planned-vs-achievedの予測に直接関連。安全性の観点：M3状態で圧入量を0.10→0.20 mmに増加させると側切歯の歯根応力（2.96-8.18 MPa）とPDL応力（0.056-0.114 MPa）が急激に増大し、歯周条件に応じた圧入量のrefinementが治療安全性に寄与する。",
+      "study_type_ja": "有限要素解析（計算力学シミュレーション）",
+      "endpoints_ja": "前歯の歯移動量、歯根von Mises応力、PDL最大圧縮応力、圧入効率",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:17:30Z"
     },
     {
       "pmid": "42806319",
@@ -394,7 +412,16 @@
       "japan_relevant": false,
       "content_sha256": "cf403cad068826fa0d1d54d76fb055bff9db5edded372cc3574fe95783780ce0",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "上顎第一大臼歯の近心移動において、パワーアームの長さ（6mm、8mm、10mm）とアタッチメント構成（腭側垂直アタッチメント＋頬側カットアウト、頬側垂直アタッチメント＋直接パワーアーム統合）の組み合わせが歯の移動・チッピング・歯槽靱帯応力・アライナー変形に与える影響を、3次元有限要素解析で評価した研究。200gの近心力をTADからパワーアームに施加し、X（頬舌側）、Y（近遠心）、Z（咬合歯頸側）軸方向の変位、歯槽靱帯のピークvon Mises応力、アライナー変形を測定した。",
+      "key_takeaway_ja": "パワーアームを長くするほど近心チッピングと歯槽靱帯応力は低減するが、近心冠変位は減少する。頬側垂直アタッチメント構成は、対応するパワーアーム長において腭側垂直アタッチメント＋頬側カットアウト構成よりも常に低い近心回転を示した。",
+      "why_matters_ja": "計画品質：パワーアーム長とアタッチメント構成の組み合わせによる初期歯移動パターンの違いが定量的に示され、治療計画時の力系設計の根拠となる。安全性：パワーアーム長と歯槽靱帯応力の関係が明確化され、過大なPDL応力を回避するための設計指針が得られる。",
+      "study_type_ja": "有限要素解析（計算機シミュレーション）",
+      "endpoints_ja": "上顎第一大臼歯のX（頬舌側）、Y（近遠心）、Z（咬合歯頸側）軸方向変位、近心チッピング角、歯槽靱帯のピークvon Mises応力、アライナー変形",
+      "endpoint_results_ja": "近心冠変位：0.068〜0.074 mm。根尖部の遠心変位：0.011〜0.012 mm。近心チッピング角：0.155°〜0.170°（短いパワーアームでチッピングが大きい）。歯槽靱帯応力：短いパワーアームで高値、長いパワーアームで低値（具体的な数値は抄録に記載なし）。アライナー変形：長いパワーアームで大きい（具体的な数値は抄録に記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:18:09Z"
     },
     {
       "pmid": "42835856",
@@ -424,7 +451,16 @@
       "japan_relevant": false,
       "content_sha256": "899c16763c57646208d506502b3ed623668c706975ecd26bf229f81dbb47a9cb",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "透明マウスピース矯正が齲蝕リスクに与える影響を、固定式または従来型可撤式矯正装置と比較して体系的に評価したシステマティックレビュー。PubMed/MEDLINEおよびWeb of Scienceを2025年6月まで検索し、PICOS基準に基づき3研究（2件のケースコントロール研究、1件の前向きコホート研究）が包含基準を満たした。DMFTスコア、齲蝕発生率、白斑病変、エナメル質脱灰、う蝕性細菌プロファイルが主要アウトカムとして評価された。",
+      "key_takeaway_ja": "透明マウスピース矯正は固定式または従来型可撤式矯正装置と比較して齲蝕リスクの増加とは関連しないが、エビデンスの確実性は低く、標準化されたう蝕アウトカムを用いた前向き研究の必要性が示された。",
+      "why_matters_ja": "安全性：透明マウスピース矯正が固定式装置と比較して齲蝕リスクを増加させないことを示唆しており、治療計画における患者の口腔健康リスク評価に参考となる。ただしエビデンス確実性は低く、臨床判断への反映には注意が必要。",
+      "study_type_ja": "システマティックレビュー（包含研究：ケースコントロール研究2件、前向きコホート研究1件）",
+      "endpoints_ja": "DMFTスコア、齲蝕発生率（近接面）、白斑病変、エナメル質脱灰、う蝕性細菌プロファイル（唾液Streptococcus mutans、Lactobacilli）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:18:39Z"
     },
     {
       "pmid": "42782998",
@@ -449,7 +485,16 @@
       "japan_relevant": false,
       "content_sha256": "aabcc69efdca26ed25a709b5d630905df2e359b245c3f25b3cf8103a3c8738b1",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "クリアラライナーによるsequential distalizationの臨床アウトカムを評価したシステマティックレビューおよびメタアナリシス。PRISMA 2020ガイドラインに従い、PubMed、Embase、Scopus、Web of Science Core Collection、Cochrane Libraryを検索し、28件の研究が包含基準を満たした。上顎第一大臼歯の平均達成遠心移動量は1.72 mm（95% CI, 1.02-2.42）、上顎第二大臼歯は1.76 mm（95% CI, 1.12-2.40）であった。第一大臼歯の遠心チッピングは5.33°（95% CI, 1.37-9.30）、第二大臼歯は5.77°（95% CI, -6.84-18.38）、第一大臼歯の圧入は0.58 mm（95% CI, 0.05-1.10）であった。移動の予測可能性は研究間で大きく異なり、臨床的に重要な領域におけるエビデンスの確実性は非常に低かった。",
+      "key_takeaway_ja": "クリアアライナーによるsequential distalizationは上顎臼歯の中等度の遠心移動を達成し得るが、移動表現の変動性と生物力学的影響を伴う。プロトコルの異質性と研究品質の限界により、現在の推定値の確実性と一般化可能性が制限される。",
+      "why_matters_ja": "planned-vs-achieved: 移動の予測可能性（movement predictability）が研究間で大きく異なり、計画値と達成値の乖離が臨床的に重要な問題として示唆されている。planning quality: 治療プロトコルやアンカレッジ戦略の異質性がエビデンスの確実性を制限しており、治療計画の標準化が課題である。",
+      "study_type_ja": "システマティックレビューおよびメタアナリシス",
+      "endpoints_ja": "上顎第一大臼歯の達成遠心移動量、上顎第二大臼歯の達成遠心移動量、第一大臼歯の遠心チッピング、第二大臼歯の遠心チッピング、第一大臼歯の圧入、移動の予測可能性、生物力学的影響",
+      "endpoint_results_ja": "上顎第一大臼歯の達成遠心移動量: 1.72 mm（95% CI, 1.02-2.42）。上顎第二大臼歯の達成遠心移動量: 1.76 mm（95% CI, 1.12-2.40）。第一大臼歯の遠心チッピング: 5.33°（95% CI, 1.37-9.30）。第二大臼歯の遠心チッピング: 5.77°（95% CI, -6.84-18.38）。第一大臼歯の圧入: 0.58 mm（95% CI, 0.05-1.10）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:19:43Z"
     },
     {
       "pmid": "42763375",
@@ -477,7 +522,16 @@
       "japan_relevant": false,
       "content_sha256": "299e5df9ab31c72d714339e2c59011477fada151899097bcfdef67229ee0c2a3",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "本in vitro研究は、市販および家庭用のマウスピース洗浄剤のStreptococcus mutansバイオフィルムに対する抗菌効果と、マウスピース表面への影響を比較した。48枚のマウスピースディスクにバイオフィルムを形成し、Invisalign® Cleaning Crystals、Corega® Proguard and Retainer tablets、Invisalign® Aligner Cleaning Spray、および酢酸0.5%希釈液で処理した。CFU/mLで生菌数を定量し、SEMで表面形態を評価した。市販洗浄剤は陰性対照群と比較してCFU数を有意に減少させたが、酢は有意な減少を示さなかった。SEMでは市販剤処理後に顕著なバイオフィルム除去が確認され、表面劣化は認められなかった。",
+      "key_takeaway_ja": "市販マウスピース洗浄剤（Invisalign® Cleaning Crystals、Corega® tablets、Invisalign® Cleaning Spray）はS. mutansバイオフィルムのCFU数を有意に減少させ（中央値1.2-2.5 × 10³ CFU/mL）、熱可塑性表面の劣化を伴わずにバイオフィルムを除去した。一方、酢（酢酸0.5%）は有意な抗菌効果を示さなかった。",
+      "why_matters_ja": "安全性：市販洗浄剤が熱可塑性マウスピース表面の劣化を伴わずにバイオフィルムを除去することをSEMで確認し、患者の装着安全性に寄与する。教育：エビデンスに基づくマウスピース衛生プロトコルとして市販製品の使用を支持し、患者指導の根拠となる。",
+      "study_type_ja": "in vitro研究",
+      "endpoints_ja": "1) Streptococcus mutansバイオフィルムの生菌数（CFU/mL）2) SEMによるマウスピース表面形態",
+      "endpoint_results_ja": "市販洗浄剤のCFU中央値は1.2-2.5 × 10³ CFU/mLで、市販剤間の有意差は認められなかった。Invisalign® Cleaning CrystalsとCorega® tabletsは酢より有意に効果が高かった（p ≤ 0.04）。酢は陰性対照群と比較してCFU数の有意な減少を示さなかった。SEMでは市販剤処理後に顕著なバイオフィルム除去が確認され、表面劣化は認められなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:20:10Z"
     },
     {
       "pmid": "42773450",
@@ -513,7 +567,16 @@
       "japan_relevant": false,
       "content_sha256": "6583e2d5085aa8617a4187a9c34be4756d08c6fcf2201382f604e3d86f858d49",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "成長期患者のClass II division 1不正咬合に対して、Twin Block、標準AngelAligner、AngelAligner A6 mandibular advancement alignerの3群（各20例、計60例、平均年齢12.4±1.3歳）で前向き比較した臨床試験。3群いずれでもClass II不正咬合は修正されたが、GA6群とGTB群はSNB角の増加が2.1°と2.3°で類似し、Class Iへの修正率は85-90%であった。一方、GAA群はSNB角の増加1.2°、Class I修正率70%で劣っていた。治療期間はGA6群が15.2ヶ月で最も短かった。",
+      "key_takeaway_ja": "AngelAligner A6 mandibular advancement alignerはTwin Blockと同等の骨格修正効果（SNB角増加2.1° vs 2.3°、Class I修正率85-90%）を示し、標準AngelAligner（SNB角増加1.2°、Class I修正率70%）を上回った。治療期間はGA6群が15.2ヶ月で短縮された。",
+      "why_matters_ja": "planned-vs-achieved: 骨格修正の達成度（SNB角変化、Class I修正率）をアプライアンス間で比較しており、Class II症例で標準alignerのみでは計画された骨格修正が達成されない可能性（70% vs 85-90%）が示唆される。workflow: GA6群の治療期間が15.2ヶ月と短縮されており、治療計画の期間設定や患者スケジュールに直接関連する。",
+      "study_type_ja": "前向き臨床試験（比較研究、対照臨床試験）",
+      "endpoints_ja": "SNB角の変化（下顎前方移動量）、Class Iへの修正率、治療期間",
+      "endpoint_results_ja": "SNB角増加: GA6群 2.1°、GTB群 2.3°、GAA群 1.2°。Class I修正率: GA6群・GTB群 85-90%、GAA群 70%。治療期間: GA6群 15.2ヶ月。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:20:36Z"
     },
     {
       "pmid": "42797190",
@@ -535,7 +598,16 @@
       "japan_relevant": false,
       "content_sha256": "de7701bfc2e843f68fde3512d5a5c35f9d5ccfeba667214a1babbedb3c3af191",
       "fetched_at_utc": "2026-10-10T08:46:22Z",
-      "updated_at_utc": "2026-10-10T08:46:22Z"
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "直接印刷型クリアアライナーの材料（Graphy Tera Harz TA-28）について、印刷レイヤー厚（50、100、150 µm）とサーモサイクリング（5〜55 °C、250サイクル）が機械的・形態的・光学的・寸法的特性に与える影響をin vitroで評価した研究。標準的な遠心成形と窒素ポストキュアリング後、引張・曲げ試験、ビッカース硬さ、正規化光透過率、寸法分析、FESEMを実施した。",
+      "key_takeaway_ja": "50 µmのレイヤー厚はサーモサイクリング後も機械的・寸法的性能に有利であったが、光透過率の低下が最も大きかった。材料選択には、老化後の機械的・寸法的性能と光学的安定性のバランスが求められる。",
+      "why_matters_ja": "ワークフロー：直接印刷型アライナーは矯正ワークフローの簡素化に寄与し得る。安全性：intraoral aging（サーモサイクリング）に対する耐性を評価しており、臨床使用時の耐久性に関わる。planned-vs-achieved：寸法精度（trueness, p=0.008; precision, p=0.034）にレイヤー厚×サーモサイクリングの有意な交互作用が認められ、治療計画の精度達成に直接関連する。",
+      "study_type_ja": "in vitro 材料試験",
+      "endpoints_ja": "機械的特性（引張、曲げ）、形態的特性（FESEM）、光学的特性（正規化光透過率）、寸法的特性（trueness、precision）",
+      "endpoint_results_ja": "50 µm群が100 µm・150 µm群より高い破断時ひずみと曲げ性能を示した。サーモサイクリングによりヤング率と曲げ成績が低下した。レイヤー厚×サーモサイクリングの交互作用がstress at peak、deflection at peak、microhardness、normalized light transmittance、trueness（p = 0.008）、precision（p = 0.034）で有意であった。50 µmはサーモサイクリング後も機械的・寸法的性能に有利であったが、光透過率の低下が最大であった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:21:05Z"
     },
     {
       "pmid": "42791953",

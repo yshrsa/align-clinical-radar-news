@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-10T15:03:06Z",
+  "generated_at_utc": "2026-10-11T00:21:06Z",
   "items": [
     {
       "pmid": "42850342",
@@ -303,6 +303,311 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-10T13:26:22Z"
+    },
+    {
+      "pmid": "42782313",
+      "title": "Comparison of different clear aligner systems with fixed orthodontic treatment in terms of endocrine-disrupting monomer release, treatment effectiveness and efficiency : An in vivo randomized clinical trial.",
+      "abstract": "PURPOSE: The aim of this four-arm parallel trial was to evaluate and compare directly and indirectly produced clear aligners with fixed orthodontic treatment in terms of bisphenol A (BPA) release, as well as treatment effectiveness and efficiency.\nMETHODS: In all, 52 patients were randomly allocated to four treatment groups according to the appliance system used: direct three-dimensionally (3D)-printed aligners (group A), Invisalign aligners (Align Technology, Santa Clara, CA, USA; group B), ClearCorrect aligners (Round Rock, TX, USA; group C), and fixed orthodontic appliances (group D). Saliva samples were collected at baseline and at multiple time points during the first and final weeks of treatment to evaluate salivary BPA levels. Intraoral scan records were obtained at the beginning and end of treatment. High-performance liquid chromatography was used to analyze the saliva samples, and the Peer Assessment Rating (PAR) index was employed to evaluate treatment effectiveness. In addition, total treatment duration was assessed.\nRESULTS: No statistically significant difference was observed between the groups regarding the BPA values measured in saliva at different time points, nor in the percentage reduction of PAR score values (p > 0.05). Total treatment duration was 6.59 ± 1.42 months in group A, 5.36 ± 1.63 months in group B, 5.72 ± 1.88 months in group C, and 10.16 ± 2.28 months in group D. The fixed orthodontic treatment group (group D) had a longer treatment duration than the other groups (p < 0.001).\nCONCLUSION: No differences in BPA release were observed among the different treatment modalities. Additional long-term studies are needed to clarify the biological relevance of these findings. In terms of treatment effectiveness, no significant difference was observed between direct and indirect clear aligner techniques and fixed orthodontic treatment. The overall duration of fixed orthodontic treatment was longer than that of clear aligner therapies.",
+      "journal": "Journal of orofacial orthopedics = Fortschritte der Kieferorthopadie : Organ/official journal Deutsche Gesellschaft fur Kieferorthopadie",
+      "authors": "Hashimli Nizami, Yagci Ahmet, Cadir Mehmet",
+      "pub_date": "2026-09-24",
+      "doi": "10.1007/s00056-026-00690-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782313/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "clearcorrect",
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology",
+        "Straumann Group"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "scanning-digital-workflow"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "c4b706cb399228aa2b791cf0346fd979e609e5e5d8309d07031bdf08f8bf2525",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "直接3Dプリント型マウスピース（Group A）、Invisalign（Group B）、ClearCorrect（Group C）、固定式矯正装置（Group D）の4群に52例を無作為割り付けし、唾液中ビスフェノールA（BPA）濃度、PARスコア減少率、総治療期間を比較した4群並行型ランダム化臨床試験。BPA濃度およびPARスコア減少率には群間差は認められなかった（p > 0.05）。総治療期間は固定式矯正装置群（10.16 ± 2.28ヶ月）がマウスピース群より有意に長かった（p < 0.001）。",
+      "key_takeaway_ja": "直接3Dプリント型・間接型マウスピースおよび固定式矯正装置間でBPA放出量や治療効果（PARスコア減少率）に有意差は認められず、総治療期間はマウスピース群が固定式矯正装置群より有意に短かった。",
+      "why_matters_ja": "安全性の観点：BPA放出量についてマウスピース各システムと固定式装置間で有意差がなかったことは、マウスピース材料の安全性に関する臨床的エビデンスとして位置づけられる。治療効果の観点：PARスコア減少率に群間差がなかったことは、Invisalignを含むマウスピース治療が固定式装置と同等の整列精度を達成できることを示唆する。ワークフロー効率の観点：Invisalign群の総治療期間（5.36 ± 1.63ヶ月）が固定式装置群（10.16 ± 2.28ヶ月）より有意に短かったことは、治療効率の面でマウスピース治療の優位性を示す。",
+      "study_type_ja": "ランダム化臨床試験（4群並行型）",
+      "endpoints_ja": "唾液中BPA濃度、PARスコア減少率、総治療期間",
+      "endpoint_results_ja": "唾液中BPA濃度：各時点において群間に統計的に有意な差は認められなかった（p > 0.05）。PARスコア減少率：群間に有意差は認められなかった（p > 0.05）。総治療期間：Group A 6.59 ± 1.42ヶ月、Group B 5.36 ± 1.63ヶ月、Group C 5.72 ± 1.88ヶ月、Group D 10.16 ± 2.28ヶ月。Group Dが他の群より有意に長かった（p < 0.001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:16:03Z"
+    },
+    {
+      "pmid": "42846369",
+      "title": "Biomechanical analysis of maxillary incisor intrusion with clear aligners under different periodontal conditions: a finite element analysis.",
+      "abstract": "OBJECTIVES: To investigate the biomechanical effects and determine the optimal increment for maxillary incisor intrusion using clear aligners across three periodontal conditions via finite element analysis (FEA).\nMATERIALS AND METHODS: Nine FE models were created in a 3 × 3 design simulating three periodontal states (M1: normal bone level; M2: one-third alveolar bone loss; M3: one-half alveolar bone loss) combined with three intrusion increments (0.10, 0.15, and 0.20 mm). Anterior tooth displacement, root von Mises stress, and periodontal ligament (PDL) maximum compressive stress were analyzed.\nRESULTS: Tooth displacement and mechanical stresses escalated with greater bone loss and larger increments. Central incisors experienced more pronounced tipping, whereas lateral incisors achieved greater vertical intrusion. Consequently, lateral incisors endured higher stresses; their PDL stress was approximately double that of central incisors. While central incisor intrusion efficiency increased proportionally with increment, lateral incisors in M2 and M3 states demonstrated higher efficiency at the 0.15-mm increment (peaking at 92.0%) than at 0.20 mm. In the M3 state, increasing the increment from 0.10 to 0.20 mm sharply amplified lateral incisor root stress (2.96-8.18 MPa) and PDL stress (0.056-0.114 MPa).\nCONCLUSION: Clear aligners produce maxillary incisor intrusion with concurrent tipping. Lateral incisors show higher intrusion efficiency but endure greater mechanical stress than central incisors. Alveolar bone loss exacerbates both tipping tendency and stress. For patients with alveolar bone loss exceeding one-third, the intrusion increment is recommended to be limited to 0.15 mm.",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "authors": "Li Qiuying, Zhang Yidan, Xu Bowen, Bai Linna, Yang Kai",
+      "pub_date": "2026-09-23",
+      "doi": "10.3389/fbioe.2026.1921947",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846369/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "cf4b1c9c2381da9c857f1db638ed534d0226e98fa8c6e1626ada9472520f1042",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "上顎前歯のクリアアライナーによる圧入において、3つの歯周状態（M1: 正常骨レベル、M2: 1/3歯槽骨吸収、M3: 1/2歯槽骨吸収）と3つの圧入量（0.10、0.15、0.20 mm）の3×3デザインで9つの有限要素モデルを作成し、前歯の歯移動、歯根von Mises応力、歯槽骨膜（PDL）最大圧縮応力を解析した計算力学研究。",
+      "key_takeaway_ja": "歯槽骨吸収が1/3を超える患者では、圧入量を0.15 mmに制限することが推奨される。側切歯は中切歯より圧入効率が高いが、より大きな機械的応力を承受する。",
+      "why_matters_ja": "治療計画品質の観点：側切歯の圧入効率はM2・M3状態で0.15 mm圧入時に92.0%でピークに達し、0.20 mmでは低下するため、planned-vs-achievedの予測に直接関連。安全性の観点：M3状態で圧入量を0.10→0.20 mmに増加させると側切歯の歯根応力（2.96-8.18 MPa）とPDL応力（0.056-0.114 MPa）が急激に増大し、歯周条件に応じた圧入量のrefinementが治療安全性に寄与する。",
+      "study_type_ja": "有限要素解析（計算力学シミュレーション）",
+      "endpoints_ja": "前歯の歯移動量、歯根von Mises応力、PDL最大圧縮応力、圧入効率",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:17:30Z"
+    },
+    {
+      "pmid": "42806319",
+      "title": "Effect of power arm length and attachment configuration on maxillary molar mesialization with clear aligners: a finite element analysis.",
+      "abstract": "BACKGROUND: Maxillary molar mesialization with clear aligners is challenging because achieving controlled root movement without excessive mesial tipping remains difficult. Although power arms can modify the force system, the combined effects of power-arm length and attachment configuration on molar displacement and tipping remain insufficiently characterized. This study evaluated the effects of 6-, 8-, and 10-mm power arms combined with two attachment configurations during maxillary first molar mesialization using three-dimensional finite element analysis.\nMETHODS: The attachment configurations were selected to represent two clinically distinct approaches to integrating a vertical attachment with a power arm: a palatal vertical attachment combined with a buccal cut-out and a buccal vertical attachment with direct power-arm integration. Six three-dimensional finite element models were constructed by combining three power arm lengths (6, 8, and 10 mm) with two attachment configurations: a palatal vertical attachment with a buccal cut-out, and a buccal vertical attachment without a cut-out. A mesial force of 200 g was applied from a temporary anchorage device (TAD) to the power arm. Displacements were measured along the X (bucco-palatal), Y (mesio-distal), and Z (occluso-gingival) axes. Peak von Mises stress values in the periodontal ligament and aligner deformation were evaluated.\nRESULTS: In all models, maxillary first molar displacement occurred predominantly in the mesial and gingival directions. Mesial crown displacement ranged from 0.068 to 0.074 mm, while distal displacement at the root apex ranged from 0.011 to 0.012 mm. Mesial tipping angles ranged from 0.155° to 0.170°, with higher tipping observed in models with shorter power arms. Increasing power arm length was consistently associated with reduced mesial tipping and lower periodontal ligament stress, but with reduced mesial crown displacement. Shorter power arms generated higher periodontal ligament stress, whereas longer power arms were associated with greater aligner deformation.\nCONCLUSIONS: Power arm length and attachment configuration were associated with differences in initial tooth displacement patterns, periodontal ligament stress distribution, and aligner deformation during maxillary first molar mesialization with clear aligners. Longer power arms were associated with reduced mesial tipping and lower periodontal ligament stress, but also with reduced mesial crown displacement. The buccal vertical attachment configuration consistently produced lower mesial rotation than the palatal vertical attachment with buccal cut-out configuration at each corresponding power-arm length; this difference should be interpreted as a configuration-dependent finding within the initial biomechanical response.",
+      "journal": "BMC oral health",
+      "authors": "Cavusoglu Ahmet, Erdem Buket",
+      "pub_date": "2026-09-22",
+      "doi": "10.1186/s12903-026-09893-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806319/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Finite Element Analysis",
+        "Humans",
+        "Molar",
+        "Maxilla",
+        "Tooth Movement Techniques",
+        "Imaging, Three-Dimensional",
+        "Orthodontic Appliance Design",
+        "Tooth Root",
+        "Dental Stress Analysis",
+        "Mesial Movement of Teeth",
+        "Stress, Mechanical",
+        "Orthodontic Anchorage Procedures",
+        "Biomechanical Phenomena"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "cf403cad068826fa0d1d54d76fb055bff9db5edded372cc3574fe95783780ce0",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "上顎第一大臼歯の近心移動において、パワーアームの長さ（6mm、8mm、10mm）とアタッチメント構成（腭側垂直アタッチメント＋頬側カットアウト、頬側垂直アタッチメント＋直接パワーアーム統合）の組み合わせが歯の移動・チッピング・歯槽靱帯応力・アライナー変形に与える影響を、3次元有限要素解析で評価した研究。200gの近心力をTADからパワーアームに施加し、X（頬舌側）、Y（近遠心）、Z（咬合歯頸側）軸方向の変位、歯槽靱帯のピークvon Mises応力、アライナー変形を測定した。",
+      "key_takeaway_ja": "パワーアームを長くするほど近心チッピングと歯槽靱帯応力は低減するが、近心冠変位は減少する。頬側垂直アタッチメント構成は、対応するパワーアーム長において腭側垂直アタッチメント＋頬側カットアウト構成よりも常に低い近心回転を示した。",
+      "why_matters_ja": "計画品質：パワーアーム長とアタッチメント構成の組み合わせによる初期歯移動パターンの違いが定量的に示され、治療計画時の力系設計の根拠となる。安全性：パワーアーム長と歯槽靱帯応力の関係が明確化され、過大なPDL応力を回避するための設計指針が得られる。",
+      "study_type_ja": "有限要素解析（計算機シミュレーション）",
+      "endpoints_ja": "上顎第一大臼歯のX（頬舌側）、Y（近遠心）、Z（咬合歯頸側）軸方向変位、近心チッピング角、歯槽靱帯のピークvon Mises応力、アライナー変形",
+      "endpoint_results_ja": "近心冠変位：0.068〜0.074 mm。根尖部の遠心変位：0.011〜0.012 mm。近心チッピング角：0.155°〜0.170°（短いパワーアームでチッピングが大きい）。歯槽靱帯応力：短いパワーアームで高値、長いパワーアームで低値（具体的な数値は抄録に記載なし）。アライナー変形：長いパワーアームで大きい（具体的な数値は抄録に記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:18:09Z"
+    },
+    {
+      "pmid": "42835856",
+      "title": "The impact of clear aligners therapy on dental caries: a systematic review.",
+      "abstract": "BACKGROUND: Dental caries is one of the most prevalent chronic conditions worldwide, significantly affecting public health and individual quality of life. Orthodontic treatments, particularly fixed appliances, may increase caries risk due to plaque retention and changes in the oral microbiota. Clear aligners, such as Invisalign®, represent a removable alternative that may facilitate oral hygiene and oral health. however, their impact on caries development remains a question to be investigate to understand the real opportunity in treating patients reducing the risk of caries.\nOBJECTIVE: To systematically evaluate the effect of clear aligner therapy on dental caries risk and cariological outcomes compared with fixed or traditional removable orthodontic appliances.\nMETHODS: A systematic literature search was conducted up to June 2025 in PubMed/MEDLINE and Web of Science. Original clinical studies comparing clear aligners with fixed or traditional removable appliances were included according to predefined PICOS criteria. Outcomes of interest included DMFT scores, caries incidence, white spot lesions, enamel demineralization, and cariogenic bacterial profiles. Study selection and data extraction were performed independently by two reviewers, with disagreements resolved by a third reviewer. Risk of bias was assessed using ROBINS-I.\nRESULTS: Three studies met the inclusion criteria (two case-control studies and one prospective cohort study). Two case-control studies reported a significantly greater increase in DMFT scores in patients treated with fixed appliances compared with clear aligners, while no significant differences in proximal caries incidence were observed. The cohort study found no significant differences in salivary levels of Streptococcus mutans and Lactobacilli between treatment modalities. Overall, no evidence of an increased caries risk associated with clear aligners was identified; however, the certainty of evidence was low.\nCONCLUSION: Clear aligner therapy does not appear to be associated with a higher risk of dental caries compared with fixed or traditional removable appliances. Nevertheless, the limited number of studies and their methodological limitations highlight the need for well-designed prospective investigations with standardized caries outcomes.",
+      "journal": "Frontiers in dental medicine",
+      "authors": "Caruso Silvia, Viarchi Arianna, Ciavarella Domenico, Tepedino Michele, Caruso Sara, Gatto Roberto, Truppa Claudia T, Mattei Antonella",
+      "pub_date": "2026-09-21",
+      "doi": "10.3389/fdmed.2026.1920698",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835856/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "retention-relapse",
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "899c16763c57646208d506502b3ed623668c706975ecd26bf229f81dbb47a9cb",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "透明マウスピース矯正が齲蝕リスクに与える影響を、固定式または従来型可撤式矯正装置と比較して体系的に評価したシステマティックレビュー。PubMed/MEDLINEおよびWeb of Scienceを2025年6月まで検索し、PICOS基準に基づき3研究（2件のケースコントロール研究、1件の前向きコホート研究）が包含基準を満たした。DMFTスコア、齲蝕発生率、白斑病変、エナメル質脱灰、う蝕性細菌プロファイルが主要アウトカムとして評価された。",
+      "key_takeaway_ja": "透明マウスピース矯正は固定式または従来型可撤式矯正装置と比較して齲蝕リスクの増加とは関連しないが、エビデンスの確実性は低く、標準化されたう蝕アウトカムを用いた前向き研究の必要性が示された。",
+      "why_matters_ja": "安全性：透明マウスピース矯正が固定式装置と比較して齲蝕リスクを増加させないことを示唆しており、治療計画における患者の口腔健康リスク評価に参考となる。ただしエビデンス確実性は低く、臨床判断への反映には注意が必要。",
+      "study_type_ja": "システマティックレビュー（包含研究：ケースコントロール研究2件、前向きコホート研究1件）",
+      "endpoints_ja": "DMFTスコア、齲蝕発生率（近接面）、白斑病変、エナメル質脱灰、う蝕性細菌プロファイル（唾液Streptococcus mutans、Lactobacilli）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:18:39Z"
+    },
+    {
+      "pmid": "42782998",
+      "title": "Clinical Outcomes of Sequential Distalization with Clear Aligners: A Systematic Review and Meta-Analysis.",
+      "abstract": "Background/Objectives: Sequential distalization with clear aligners is increasingly used as a non-extraction approach for correcting Class II and selected Class III malocclusions. However, evidence remains heterogeneous regarding treatment protocols, anchorage strategies, and clinical outcomes. This systematic review and meta-analysis evaluated the clinical outcomes of sequential distalization with clear aligners, including achieved posterior tooth movement, predictability, biomechanical effects, and other clinically relevant outcomes. Methods: This systematic review was conducted according to PRISMA 2020 guidelines, and the protocol was prospectively registered in the Open Science Framework. PubMed, Embase, Scopus, Web of Science Core Collection, and the Cochrane Library were searched from inception through 1 July 2026. Eligible clinical studies evaluating sequential distalization with clear aligners were included. Random-effects meta-analyses were performed for sufficiently comparable outcomes, and certainty of evidence was assessed using GRADE. Results: Twenty-eight studies met the inclusion criteria. Pooled mean achieved distalization was 1.72 mm (95% CI, 1.02-2.42) for the maxillary first molar and 1.76 mm (95% CI, 1.12-2.40) for the maxillary second molar. Pooled distal tipping was 5.33° (95% CI, 1.37-9.30) for first molars and 5.77° (95% CI, -6.84-18.38) for second molars. First-molar intrusion was 0.58 mm (95% CI, 0.05-1.10). Movement predictability varied substantially across studies. Certainty of evidence was very low across clinically important domains. Conclusions: Sequential distalization with clear aligners may achieve moderate maxillary molar distalization but is accompanied by variable movement expression and biomechanical effects. Heterogeneous protocols and limited study quality restrict the certainty and generalizability of current estimates.",
+      "journal": "Dentistry journal",
+      "authors": "Baxmann Martin, Zsoldos Márton, Kárpáti Krisztina",
+      "pub_date": "2026-09-20",
+      "doi": "10.3390/dj14090611",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782998/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "aabcc69efdca26ed25a709b5d630905df2e359b245c3f25b3cf8103a3c8738b1",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "クリアラライナーによるsequential distalizationの臨床アウトカムを評価したシステマティックレビューおよびメタアナリシス。PRISMA 2020ガイドラインに従い、PubMed、Embase、Scopus、Web of Science Core Collection、Cochrane Libraryを検索し、28件の研究が包含基準を満たした。上顎第一大臼歯の平均達成遠心移動量は1.72 mm（95% CI, 1.02-2.42）、上顎第二大臼歯は1.76 mm（95% CI, 1.12-2.40）であった。第一大臼歯の遠心チッピングは5.33°（95% CI, 1.37-9.30）、第二大臼歯は5.77°（95% CI, -6.84-18.38）、第一大臼歯の圧入は0.58 mm（95% CI, 0.05-1.10）であった。移動の予測可能性は研究間で大きく異なり、臨床的に重要な領域におけるエビデンスの確実性は非常に低かった。",
+      "key_takeaway_ja": "クリアアライナーによるsequential distalizationは上顎臼歯の中等度の遠心移動を達成し得るが、移動表現の変動性と生物力学的影響を伴う。プロトコルの異質性と研究品質の限界により、現在の推定値の確実性と一般化可能性が制限される。",
+      "why_matters_ja": "planned-vs-achieved: 移動の予測可能性（movement predictability）が研究間で大きく異なり、計画値と達成値の乖離が臨床的に重要な問題として示唆されている。planning quality: 治療プロトコルやアンカレッジ戦略の異質性がエビデンスの確実性を制限しており、治療計画の標準化が課題である。",
+      "study_type_ja": "システマティックレビューおよびメタアナリシス",
+      "endpoints_ja": "上顎第一大臼歯の達成遠心移動量、上顎第二大臼歯の達成遠心移動量、第一大臼歯の遠心チッピング、第二大臼歯の遠心チッピング、第一大臼歯の圧入、移動の予測可能性、生物力学的影響",
+      "endpoint_results_ja": "上顎第一大臼歯の達成遠心移動量: 1.72 mm（95% CI, 1.02-2.42）。上顎第二大臼歯の達成遠心移動量: 1.76 mm（95% CI, 1.12-2.40）。第一大臼歯の遠心チッピング: 5.33°（95% CI, 1.37-9.30）。第二大臼歯の遠心チッピング: 5.77°（95% CI, -6.84-18.38）。第一大臼歯の圧入: 0.58 mm（95% CI, 0.05-1.10）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:19:43Z"
+    },
+    {
+      "pmid": "42763375",
+      "title": "Effects of clear aligner cleaning agents on Streptococcus mutans biofilms and thermoplastic surface integrity: an in vitro study.",
+      "abstract": "Clear aligners are increasingly used in paediatric and adolescent orthodontics, but prolonged wear and suboptimal hygiene may promote cariogenic biofilm accumulation. This study aimed to compare the antibacterial efficacy of commonly used commercial and household clear aligner cleaning agents against Streptococcus mutans biofilms and to examine their effects on aligner surface integrity. Biofilms were grown on 48 clear aligner discs; 42 (n = 7 per group across four experimental and two control groups) were used for biofilm quantification, and 6 (n = 1 per group) for SEM analysis. After biofilm formation, discs were treated with Invisalign® Cleaning Crystals, Corega® Proguard and Retainer tablets, Invisalign® Aligner Cleaning Spray, or white vinegar diluted to a final acetic acid concentration of 0.5%. Viable bacteria were quantified as colony-forming units per millilitre (CFU/mL), and surface morphology was assessed by SEM. Data were analysed using the Kruskal-Wallis test followed by Dunn-Holm post hoc comparisons (p < 0.05). Commercial agents significantly reduced CFU counts compared with the negative control, whereas white vinegar did not. Median CFU values were lowest for the commercial agents (1.2-2.5 × 10³ CFU/mL), with no significant difference among them, and Invisalign® Cleaning Crystals and Corega® tablets were more effective than white vinegar (p ≤ 0.04). SEM corroborated the microbiological findings, showing substantial biofilm removal without apparent surface deterioration after commercial treatment. These findings support the use of commercial products in evidence-based clear aligner hygiene protocols because of their greater antibiofilm efficacy and preservation of thermoplastic surface integrity.",
+      "journal": "Odontology",
+      "authors": "Nalbantoglu Eser Rengin, Harzivartyan Sevan, Topcuoglu Nursen, Yilmaz Hanife Nuray, Cimilli Zuhre Hale",
+      "pub_date": "2026-09-20",
+      "doi": "10.1007/s10266-026-01554-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763375/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "retention-relapse"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "299e5df9ab31c72d714339e2c59011477fada151899097bcfdef67229ee0c2a3",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "本in vitro研究は、市販および家庭用のマウスピース洗浄剤のStreptococcus mutansバイオフィルムに対する抗菌効果と、マウスピース表面への影響を比較した。48枚のマウスピースディスクにバイオフィルムを形成し、Invisalign® Cleaning Crystals、Corega® Proguard and Retainer tablets、Invisalign® Aligner Cleaning Spray、および酢酸0.5%希釈液で処理した。CFU/mLで生菌数を定量し、SEMで表面形態を評価した。市販洗浄剤は陰性対照群と比較してCFU数を有意に減少させたが、酢は有意な減少を示さなかった。SEMでは市販剤処理後に顕著なバイオフィルム除去が確認され、表面劣化は認められなかった。",
+      "key_takeaway_ja": "市販マウスピース洗浄剤（Invisalign® Cleaning Crystals、Corega® tablets、Invisalign® Cleaning Spray）はS. mutansバイオフィルムのCFU数を有意に減少させ（中央値1.2-2.5 × 10³ CFU/mL）、熱可塑性表面の劣化を伴わずにバイオフィルムを除去した。一方、酢（酢酸0.5%）は有意な抗菌効果を示さなかった。",
+      "why_matters_ja": "安全性：市販洗浄剤が熱可塑性マウスピース表面の劣化を伴わずにバイオフィルムを除去することをSEMで確認し、患者の装着安全性に寄与する。教育：エビデンスに基づくマウスピース衛生プロトコルとして市販製品の使用を支持し、患者指導の根拠となる。",
+      "study_type_ja": "in vitro研究",
+      "endpoints_ja": "1) Streptococcus mutansバイオフィルムの生菌数（CFU/mL）2) SEMによるマウスピース表面形態",
+      "endpoint_results_ja": "市販洗浄剤のCFU中央値は1.2-2.5 × 10³ CFU/mLで、市販剤間の有意差は認められなかった。Invisalign® Cleaning CrystalsとCorega® tabletsは酢より有意に効果が高かった（p ≤ 0.04）。酢は陰性対照群と比較してCFU数の有意な減少を示さなかった。SEMでは市販剤処理後に顕著なバイオフィルム除去が確認され、表面劣化は認められなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:20:10Z"
+    },
+    {
+      "pmid": "42773450",
+      "title": "Analysis of the efficacy of AngelAligner A6 mandibular advancer and Twin Block in the treatment of class II malocclusion in growing patients: a prospective clinical study.",
+      "abstract": "BACKGROUND: Although the twin block is the most commonly used appliance for the treatment of Class II malocclusion, the clear aligner industry has developed systems with integrated mandibular advancement. The purpose of this study was to evaluate and compare the effects of Twin block appliances, standard AngelAligner clear aligners and AngelAligner A6 mandibular advancement clear aligners as early orthodontic interventions for patients who develop Class II division 1 malocclusion.\nMETHODS: The study sample comprised 60 patients with a mean age of 12.4 ± 1.3 years, who were divided into three homogeneous groups of 20 patients each and received different treatments: Twin Block (GTB), AngelAligner aligners (GAA) and AngelAligner A6 for mandibular advancement (GA6). Clinical and radiographic assessments were performed at baseline (T0), immediately prior to appliance placement, and repeated after the completion of treatment objectives (T1).\nRESULTS: Class II malocclusion was corrected with all three appliances. The GA6 and GTB groups showed similar mandibular advancement, with an increase in the SNB angle of 2.1° and 2.3° respectively, and correction to Class I in 85-90% of cases, outperforming the GAA group, which showed an increase in the SNB angle of 1.2° and correction to Class I in 70% of cases. The duration of treatment was shorter in the GA6 group (15.2 months).\nCONCLUSION: These findings suggest that the AngelAligner A6 MA and Twin Block are superior for skeletal correction, whereas the standard AngelAligner is effective for milder cases with aesthetic priorities.\nCLINICAL TRIAL NUMBER: ClinicalTrials.gov, NCT07591025. Registered 6 May 2026. Retrospectively registered.",
+      "journal": "BMC oral health",
+      "authors": "Scuzzo Giacomo, Scuzzo Giuseppe, Calzadilla-Suárez Elena, Alvarado-Lorenzo Mario, Criado-Pérez Laura, Curto Adrián, Alvarado-Lorenzo Alfonso",
+      "pub_date": "2026-09-19",
+      "doi": "10.1186/s12903-026-09565-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773450/",
+      "publication_types": [
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Child",
+        "Female",
+        "Humans",
+        "Male",
+        "Malocclusion, Angle Class II",
+        "Mandibular Advancement",
+        "Orthodontic Appliance Design",
+        "Orthodontic Appliances, Removable",
+        "Prospective Studies",
+        "Treatment Outcome"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "6583e2d5085aa8617a4187a9c34be4756d08c6fcf2201382f604e3d86f858d49",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "成長期患者のClass II division 1不正咬合に対して、Twin Block、標準AngelAligner、AngelAligner A6 mandibular advancement alignerの3群（各20例、計60例、平均年齢12.4±1.3歳）で前向き比較した臨床試験。3群いずれでもClass II不正咬合は修正されたが、GA6群とGTB群はSNB角の増加が2.1°と2.3°で類似し、Class Iへの修正率は85-90%であった。一方、GAA群はSNB角の増加1.2°、Class I修正率70%で劣っていた。治療期間はGA6群が15.2ヶ月で最も短かった。",
+      "key_takeaway_ja": "AngelAligner A6 mandibular advancement alignerはTwin Blockと同等の骨格修正効果（SNB角増加2.1° vs 2.3°、Class I修正率85-90%）を示し、標準AngelAligner（SNB角増加1.2°、Class I修正率70%）を上回った。治療期間はGA6群が15.2ヶ月で短縮された。",
+      "why_matters_ja": "planned-vs-achieved: 骨格修正の達成度（SNB角変化、Class I修正率）をアプライアンス間で比較しており、Class II症例で標準alignerのみでは計画された骨格修正が達成されない可能性（70% vs 85-90%）が示唆される。workflow: GA6群の治療期間が15.2ヶ月と短縮されており、治療計画の期間設定や患者スケジュールに直接関連する。",
+      "study_type_ja": "前向き臨床試験（比較研究、対照臨床試験）",
+      "endpoints_ja": "SNB角の変化（下顎前方移動量）、Class Iへの修正率、治療期間",
+      "endpoint_results_ja": "SNB角増加: GA6群 2.1°、GTB群 2.3°、GAA群 1.2°。Class I修正率: GA6群・GTB群 85-90%、GAA群 70%。治療期間: GA6群 15.2ヶ月。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:20:36Z"
+    },
+    {
+      "pmid": "42797190",
+      "title": "Effects of Printing Layer Thickness and Thermocycling on the Mechanical, Morphological, Optical, and Dimensional Properties of Directly Printed Clear Aligners.",
+      "abstract": "Directly printed clear aligners may streamline orthodontic workflows but must withstand intraoral aging. This in vitro study evaluated the effects of layer thickness (50, 100, and 150 µm) and thermocycling on mechanical, morphological, optical, and dimensional properties of Graphy Tera Harz TA-28 material. Specimens underwent standardized centrifugation and nitrogen post-curing, followed by tensile and flexural testing, Vickers microhardness, normalized light transmittance, dimensional analysis, and field-emission scanning electron microscopy (FESEM). Thermocycling comprised 250 cycles between 5 and 55 °C. Layer thickness significantly affected strain at break, flexural force, bending strength, bending modulus, microhardness, and normalized light transmittance. The 50 µm group showed the highest strain at break and greater flexural performance than the 100 and 150 µm groups. Thermocycling reduced Young's modulus and flexural outcomes. Significant layer thickness × thermocycling interactions occurred for stress at peak, deflection at peak, microhardness, normalized light transmittance, trueness (p = 0.008), and precision (p = 0.034). FESEM showed visible layer boundaries and surface heterogeneity with thicker layers, particularly in thermocycled 150 µm specimens. Overall, 50 µm provided favorable mechanical and dimensional performance after thermocycling, but produced the greatest reduction in light transmittance. Selection requires balancing mechanical and dimensional performance against optical stability after aging.",
+      "journal": "Polymers",
+      "authors": "Rostum Isra Dilshad, Ali Omar Sabah Mohammed Jamil",
+      "pub_date": "2026-09-18",
+      "doi": "10.3390/polym18182281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797190/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "de7701bfc2e843f68fde3512d5a5c35f9d5ccfeba667214a1babbedb3c3af191",
+      "fetched_at_utc": "2026-10-10T08:46:22Z",
+      "updated_at_utc": "2026-10-10T08:46:22Z",
+      "summary_ja": "直接印刷型クリアアライナーの材料（Graphy Tera Harz TA-28）について、印刷レイヤー厚（50、100、150 µm）とサーモサイクリング（5〜55 °C、250サイクル）が機械的・形態的・光学的・寸法的特性に与える影響をin vitroで評価した研究。標準的な遠心成形と窒素ポストキュアリング後、引張・曲げ試験、ビッカース硬さ、正規化光透過率、寸法分析、FESEMを実施した。",
+      "key_takeaway_ja": "50 µmのレイヤー厚はサーモサイクリング後も機械的・寸法的性能に有利であったが、光透過率の低下が最も大きかった。材料選択には、老化後の機械的・寸法的性能と光学的安定性のバランスが求められる。",
+      "why_matters_ja": "ワークフロー：直接印刷型アライナーは矯正ワークフローの簡素化に寄与し得る。安全性：intraoral aging（サーモサイクリング）に対する耐性を評価しており、臨床使用時の耐久性に関わる。planned-vs-achieved：寸法精度（trueness, p=0.008; precision, p=0.034）にレイヤー厚×サーモサイクリングの有意な交互作用が認められ、治療計画の精度達成に直接関連する。",
+      "study_type_ja": "in vitro 材料試験",
+      "endpoints_ja": "機械的特性（引張、曲げ）、形態的特性（FESEM）、光学的特性（正規化光透過率）、寸法的特性（trueness、precision）",
+      "endpoint_results_ja": "50 µm群が100 µm・150 µm群より高い破断時ひずみと曲げ性能を示した。サーモサイクリングによりヤング率と曲げ成績が低下した。レイヤー厚×サーモサイクリングの交互作用がstress at peak、deflection at peak、microhardness、normalized light transmittance、trueness（p = 0.008）、precision（p = 0.034）で有意であった。50 µmはサーモサイクリング後も機械的・寸法的性能に有利であったが、光透過率の低下が最大であった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:21:05Z"
     },
     {
       "pmid": "42498751",
