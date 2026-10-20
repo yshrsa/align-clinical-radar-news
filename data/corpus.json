@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-18T23:18:03Z",
+  "generated_at_utc": "2026-10-20T00:24:30Z",
   "documents": [
     {
       "pmid": "42850342",
@@ -2168,7 +2168,16 @@
       "japan_relevant": false,
       "content_sha256": "30aaddff48bf2e116a5acb5075677e4fd45bfa01656b2649a276cc81acb4a608",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "Class II division 2不正咬合患者のmaxillary incisorsにおけるCBCT統合がclear aligner therapy (CAT)デジタル治療計画に与える影響を評価した研究。Spark Approverソフトウェアを用い、CBCT統合あり/なしでデジタル治療計画を作成し、計画された舌側ルートトルク(LRT)、舌側ルート移動(LRM)、予測される舌側デヒシセンス(PLD)、アライナー枚数、IPR量、中間的・困難な歯移動数を比較した。",
+      "key_takeaway_ja": "CBCT統合により、計画されたLRTが51.5%、LRMが42.4%有意に減少し、PLDは3.7 mmから0.8 mmに有意に低下した。また、困難な歯移動の計画数が有意に減少した。",
+      "why_matters_ja": "計画品質：CBCT統合により計画されたルート移動が有意に減少し、解剖学的限界を考慮したより現実的な治療計画が作成可能になる。安全性：PLD（予測される舌側デヒシセンス）が有意に低下し、歯槽骨境界の侵害リスクを低減する可能性を示唆。結論部では、臨床医がデジタル治療計画を慎重にレビューし、解剖学的限界を超える計画移動を特定・修正する必要があると指摘。",
+      "study_type_ja": "CBCT統合あり/なしの比較研究（非ランダム化）",
+      "endpoints_ja": "計画された舌側ルートトルク(LRT)、計画された舌側ルート移動(LRM)、予測される舌側デヒシセンス(PLD)、アライナー枚数、処方されたIPR量、中間的歯移動数、困難な歯移動数",
+      "endpoint_results_ja": "LRT: CBCT統合により51.5%有意に減少。LRM: CBCT統合により42.4%有意に減少。PLD: CBCTなし 3.7 mm (SD: 3.5) → CBCTあり 0.8 mm (SD: 1.3)、有意に減少。アライナー枚数、処方IPR量、中間的歯移動数：有意差なし。困難な歯移動数：CBCT統合により有意に減少。",
+      "sample_size_ja": "18患者、56本のmaxillary incisors",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:26:06Z"
     },
     {
       "pmid": "42608683",
@@ -2201,7 +2210,16 @@
       "japan_relevant": false,
       "content_sha256": "8c7d36fdcb94e8d1478a71ceda8e48b9e11183af85e67906779c16347fba8378",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "広東省の公立三級病院における小児向け主流クリアアライナー早期矯正オーダーの回顧的観察研究。4,531件のオーダーを対象に、年間サービスパターン、都市別分布、サービス期間階層（1年・2年・6年）、臨床医アカウントの参加状況、およびメーカー観測によるオーダー転換率を分析した。粗転換率は88.1%であり、1年・2年カテゴリ（抜歯・大臼歯遠心移動を想定しない）が大多数を占めた。公立口腔病院の転換率（91.7%）は公立総合病院の口腔科（81.3%）より高かった。",
+      "key_takeaway_ja": "小児クリアアライナー早期矯正オーダーは、サービス期間階層・都市・施設タイプ・臨床医アカウントにより異質性を示す。1年・2年カテゴリ（抜歯・大臼歯遠心移動を想定しないポジショニング）が提出・転換オーダーの大部分を占め、小児市場は主に早期介入・モニタリング用途に集中していることを示唆する。施設タイプによる転換率の差（91.7% vs 81.3%）はワークフロー上の差異を反映している可能性がある。",
+      "why_matters_ja": "ワークフロー観点：オーダー提出から生産スケジューリングまでの転換率（88.1%）は、オーダー→生産パイプラインにおける離脱ポイントを特定する上で有用。サービス期間階層の分布（1年: 2,202件、2年: 2,048件、6年: 281件）は、どのサービス製品が利用されているかを示し、製品ポートフォリオの需要構造を把握できる。施設タイプによる転換率差（91.7% vs 81.3%）は、オーダー処理プロセスの標準化や教育介入の優先順位付けに参考となる。",
+      "study_type_ja": "回顧的観察研究（実世界サービス研究）",
+      "endpoints_ja": "粗オーダー転換率（生産スケジューリング日付が非欠損であること）、サービス期間階層別分布、都市別・施設タイプ別・臨床医アカウント別分布、転換率との関連（多変量ロジスティック回帰、都市クラスタ補正標準誤差）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "4,531件の小児主流クリアアライナーオーダー",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:26:51Z"
     },
     {
       "pmid": "42585458",
@@ -2320,7 +2338,16 @@
       "japan_relevant": false,
       "content_sha256": "5f8bf0f25769ed72b02989f6665500d2a5148f434ee79504f6e4f11c5350e247",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "クリアアライナー用アタッチメントに使用される生体活性型歯科用接着剤のin vitro研究。抗菌活性を持つDMADDMとカルシウム/リン酸イオン放出能を持つNACPを二重機能として統合した新規接着剤を設計し、エナメル質せん断接着強度（SBS）、変換率（DC）、流動性、S. mutansバイオフィルムへの抗菌効果、酸性条件下でのCa/PO4イオン放出を評価した。",
+      "key_takeaway_ja": "実験用接着剤は商用対照（Assure Plus）と統計的に同等のエナメル質接着強度（15.2–18.5 MPa）を示しつつ、6% DMADDM配合でS. mutansバイオフィルムCFUを約2-log減少させ、NACP配合で酸性条件下（pH 4）35日間にわたりCa（最大1.55±0.06 mmol/L）とPO4（最大1.0±0.04 mmol/L）の持続的放出を示した。",
+      "why_matters_ja": "安全性：クリアアライナーアタッチメント周囲のバイオフィルム関連リスク（白濁症形成）低減の可能性を示唆。ワークフロー：商用接着剤と同等の接着強度を維持するため、既存のアタッチメント配置プロトコルへの統合が想定される。",
+      "study_type_ja": "in vitro研究（材料学・接着剤配合研究）",
+      "endpoints_ja": "エナメル質せん断接着強度（SBS）、変換率（DC）、ペースト流動性、S. mutansバイオフィルムCFU、乳酸産生量、代謝活性（MTT）、カルシウムイオン放出量、リン酸イオン放出量",
+      "endpoint_results_ja": "SBS：15.2–18.5 MPa（n=12）、商用対照と統計的に同等（p>0.05）。DC：48.8–65.2%（商用対照72.5%）。流動性：NACP増加に伴い低下（p<0.05）。6% DMADDM配合でS. mutans CFUを約2-log減少（p<0.05）、乳酸産生量と代謝活性も有意に減少（p<0.05）。Ca放出：最大1.55±0.06 mmol/L（35日、pH 4）。PO4放出：最大1.0±0.04 mmol/L（35日、pH 4）。",
+      "sample_size_ja": "SBS測定：n=12、流動性測定：n=3。その他のエンドポイントのサンプルサイズは抄録に記載なし。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:28:40Z"
     },
     {
       "pmid": "42535967",
@@ -2424,7 +2451,16 @@
       "japan_relevant": false,
       "content_sha256": "1e865c1596ef3250e6e552d80e760d0ea4af7516984fb580e34ce189acde4d06",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "上顎前歯のイントラージョンにおいて後方セグメントの垂直アンカレッジ不足が予測可能性を低下させる問題に対し、咬合接触を誘導して後方垂直アンカレッジを間接的に強化するIAR（indirect anchorage reinforcement）デバイスを提案し、その生体力学的効果と臨床性能を評価した。第1部は3次元有限要素解析で、前歯イントラージョン単独（Model A）と第一小臼歯抜歯を伴うイントラージョン＋リトラクション（Model B）をControlとIAR条件で比較し、0.2 mmのアクティベーションと200 gの垂直荷重を適用した。第2部は歴史的対照を用いたマッチング探索的臨床研究で、計画総イントラージョン2 mmを10枚のアライナーで0.2 mm/枚として実施し、アライナー単独とIARデバイス併用を比較した。",
+      "key_takeaway_ja": "IARデバイスは上顎前歯イントラージョンの達成率を有意に向上させ、後方アンカレッジ歯のエクストルージョンを抑制した。臨床では犬歯のイントラージョン精度改善が最も顕著であった（対照群比+33.56% points, P<0.001）。",
+      "why_matters_ja": "planned-vs-achieved: イントラージョン精度をachieved/plannedの比として定量化しており、治療計画の達成度評価に直接関連する。refinement: 既存のアライナープロトコルにIARデバイスを追加することで困難なイントラージョンの予測可能性を高める改良アプローチを示している。安全性: 後方アンカレッジ歯の意図しないエクストルージョンを抑制することで、アンカレッジ喪失という既知のリスクを軽減する。",
+      "study_type_ja": "3次元有限要素解析＋探索的臨床検証研究（歴史的対照、propensity score overlap weightingによる比較）",
+      "endpoints_ja": "有限要素解析: 初期歯移動量、矢状軸傾斜、矢状力-モーメント系、アライナー変位、von Mises応力。臨床: イントラージョン精度（achieved/planned比）",
+      "endpoint_results_ja": "有限要素解析: IAR条件で前歯イントラージョン増加、後方エクストルージョン抑制、軸傾斜変化の低減、モーメントアームdの短縮。臨床: overlap-weighted解析で、切歯の加重平均差（IAR−Control）は18.96% points（95% CI 9.01–28.91; P<0.001）、犬歯は33.56% points（95% CI 24.65–42.46; P<0.001）。検査者内信頼性 ICC=0.85。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:30:16Z"
     },
     {
       "pmid": "42529973",
@@ -2452,7 +2488,16 @@
       "japan_relevant": false,
       "content_sha256": "abb7970aad6c0237471d5d26e05111deddfeb5934e534efddc2881f8dece65e8",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "3社のクリアアライナー材料（SmartTrack、ClearQuartz、Scheu Dental CA Pro+）とアクリルブロックの酸化性物質との相互作用を、過マンガン酸カリウム（KMnO4）を用いて比較評価した予備的in vitro研究。材料を機械的に破砕し、0.2 mMおよび1 mMのKMnO4溶液に曝露し、1時間・4時間・24時間後に分光光度計で色変化を評価した。",
+      "key_takeaway_ja": "全材料から酸化性物質が検出されたが、材料間で相互作用レベルに差が認められた。SmartTrackが最も低値（0.0271 mM）、ClearQuartzが24時間で最高値（0.0826 mM）を示した。",
+      "why_matters_ja": "安全性の観点から、アライナー材料から遊離する酸化性物質の量に材料間で差があることを示しており、材料選択時の安全性評価の参考となる。",
+      "study_type_ja": "in vitro研究（予備的）",
+      "endpoints_ja": "KMnO4と相互作用する酸化性物質の量（mM換算）、1時間・4時間・24時間後の分光光度計による評価",
+      "endpoint_results_ja": "Acrylic Block 0.0723 mM、ClearQuartz 0.0826 mM、Scheu Dental CA Pro+ 0.0584 mM、SmartTrack 0.0271 mM。最高値は24時間のClearQuartzで観察された。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:31:58Z"
     },
     {
       "pmid": "42527430",
@@ -2483,7 +2528,16 @@
       "japan_relevant": false,
       "content_sha256": "f8f884d3d1d7297e69822c347f1b28e6969fb2c9f3cd8576479f185ba19c9d44",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "直接印刷型マウスピース（DPA）の生体適合性を、材料厚さ（0.5、1、2、4、6 mm）を変えて評価した。LuxCreo DCA樹脂で3D印刷し、LuxAlignの標準ワークフロー（20分UV後硬化）に従って後処理した。AlamarBlueアッセイによるヒト歯肉線維芽細胞の細胞生存率を測定し、厚さ増加が生体適合性に与える影響を調べた。",
+      "key_takeaway_ja": "標準的な20分UV後硬化を含むLuxAlignワークフローは、最大6 mm厚まで寸法精度が高く非細胞毒性のマウスピースを製造でき、後硬化時間の延長なしに安全な臨床使用を支持する。",
+      "why_matters_ja": "安全性（生体適合性）とワークフローの観点から重要。厚さ増加により生体適合性がさらに低下しないことを示し、標準的な後硬化プロトコルで十分であることを確認。地域別厚さ制御（region-specific thickness modulation）を伴うDPAの臨床導入における安全性の根拠となる。",
+      "study_type_ja": "試験管内研究（in vitro）",
+      "endpoints_ja": "細胞生存率（AlamarBlueアッセイ、ヒト歯肉線維芽細胞）、寸法精度（デジタルノギスによる厚さ測定）",
+      "endpoint_results_ja": "細胞生存率は常に70%以上（ISO 10993-5の非細胞毒性閾値）を維持。0.5 mm群と厚い群（1-6 mm）の間には有意差なし。印刷試料は公称寸法に近接。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:33:10Z"
     },
     {
       "pmid": "42526896",
@@ -2509,7 +2563,16 @@
       "japan_relevant": false,
       "content_sha256": "716383c7e7e7573bbc98209b9c5e5bb9ddc87aa38b916413f6f77a4110fafe59",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "2025年4月1日から11月30日にかけて、8つの正畸関連ハッシュタグ（#orthodontics, #orthobiomechanics, #damonbraces, #clearaligners, #invisalign, #tads, #airwayorthodontics, #myofunctionalorthodontics）を用いてInstagram上の公開投稿を横断的に分析し、正畸関連のエビデンスベース投稿の頻度と、引用された研究の質を評価した。",
+      "key_takeaway_ja": "1,600件の投稿のうち科学的エビデンスを引用したものはわずか25件であり、取得できた23件の引用文献のうち高品質は5件、中品質9件、低品質9件であった。Instagram上の正畸関連情報は概してエビデンスベースでない。",
+      "why_matters_ja": "教育：#clearalignersや#invisalignを含む正畸関連ハッシュタグで流通する情報が低品質のエビデンスに依存している場合、患者や臨床医の治療判断に誤った影響を与える可能性がある。安全性：低品質の研究に基づく情報が広く共有されることは、治療のリスク・ベネフィットに関する誤解を招きうる。",
+      "study_type_ja": "横断的解析（cross-sectional analysis）",
+      "endpoints_ja": "Instagram上の正畸関連エビデンスベース投稿の頻度；引用された研究の質",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:34:15Z"
     },
     {
       "pmid": "42582325",
@@ -2532,7 +2595,16 @@
       "japan_relevant": false,
       "content_sha256": "f53f26a241c771bf365189e26577db124254bbd92a20786d87ff75b9f0ef7740",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "2015〜2025年のin vitro研究を対象に、審美冠材料へのクリアアライナーアタッチメント接着における各種表面粗造化処理と接着剤の影響を評価したPRISMA準拠の系統的レビュー。主目的はせん断接着強度、副目的は表面粗さの評価。Scopus、PubMed、Web of Scienceの3データベースから文献を収集し、QUINバイアス評価ツールを用いてリスク評価を行った。",
+      "key_takeaway_ja": "フッ化水素酸1分エッチングとFiltek Z350コンポジットレジンによる接着が、審美冠材料に対して比較的高い接着強度と表面粗さを示した。",
+      "why_matters_ja": "審美冠材料（セラミッククラウン等）は臨床で頻出する対象であり、アタッチメントのデボンドは計画された歯移動の達成を妨げ、治療期間の延長や計画と実績の乖離（planned-vs-achieved）に直結する。本レビューは接着プロトコルの最適化を通じて治療計画の信頼性を高める根拠を提供する。",
+      "study_type_ja": "系統的レビュー（in vitro研究）",
+      "endpoints_ja": "主評価項目：せん断接着強度（shear bond strength）。副評価項目：表面粗さ（surface roughness）。",
+      "endpoint_results_ja": "抄録には具体的な数値（MPa値、Ra値等）は記載されていない。定性的に「表面処理後に接着強度と表面粗さの正向的な増加が認められた」および「フッ化水素酸1分エッチング＋Filtek Z350接着が比較的高い接着強度と表面粗さを示した」とのみ記載。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:34:37Z"
     },
     {
       "pmid": "42517838",
