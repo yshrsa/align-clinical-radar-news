@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-23T00:00:42Z",
+  "generated_at_utc": "2026-10-23T23:52:22Z",
   "documents": [
     {
       "pmid": "42904403",
@@ -2707,6 +2707,37 @@
       "summary_generated_at_utc": "2026-10-22T00:02:43Z"
     },
     {
+      "pmid": "42907824",
+      "title": "The effect of thermoforming foils' material and thickness on the physical properties of orthodontic clear aligners: an in vitro study.",
+      "abstract": "Selection of an appropriate thermoforming foils is a crucial step for fabrication of in-office aligners. The aim of this study was to evaluate the effect of different thermoforming material and thickness on the color and weight stability and elastic modulus of clear aligners. Thermoforming foils of five types and two thickness (0.7 and 1.0 mm) were selected. For each group, 12 specimens were prepared to be a standard clear aligner. Weight change, color stability and elastic modulus was measured before and after thermocycling. Data were analyzed using Kruskal-Wallis and Mann-Whitney tests. PETG aligners tended toward weight reduction, while TPU and multi-layer aligners tended toward weight gain. PETG (1.0 mm) specimens weight reduction was significant (P = 0.041). TPU (0.7 mm) specimens weight gain was significant (P = 0.002). PETG aligners had the highest color change (ΔE), while multi-layer aligners showed the least. The thicker foils (1.0 mm) had better color consistency than thinner foils (0.7 mm). PETG (1.0 mm) aligners had the highest elastic modulus while multi-layer aligners had the lowest. Thermocycling caused elastic modulus reduction in PETG and increase in TPU and multi-layer aligners. It was concluded that both the type of thermoforming material and its thickness affect weight change, color stability, and elastic modulus of clear aligners.",
+      "journal": "BMC oral health",
+      "authors": "Salari Behzad, Hosseininasab Amirhossein, Esmailzadeh Shima",
+      "pub_date": "2026-07-27",
+      "doi": "10.1186/s12903-026-09261-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907824/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Elastic Modulus",
+        "Materials Testing",
+        "Color",
+        "Humans",
+        "Orthodontic Appliance Design",
+        "Polyethylene Glycols",
+        "Polyethylene Terephthalates",
+        "Hot Temperature"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "f5011967e0d255395df3f4ce559f749c827bbfd0e946e5f972ccdffe349d3031",
+      "fetched_at_utc": "2026-10-23T23:52:22Z",
+      "updated_at_utc": "2026-10-23T23:52:22Z"
+    },
+    {
       "pmid": "42656921",
       "title": "From Polyethylene Terephthalate Glycol (PETG) to 3D-Printed Resins: A Systematic Review and Meta-Analysis of Clear Aligner Material Performance and Safety.",
       "abstract": "Clear aligner therapy depends on polymeric materials that differ in stiffness, elasticity, force retention, surface stability, optical behavior, and biological safety. Polyethylene terephthalate glycol (PETG), thermoplastic polyurethane (TPU), polyurethane (PU), copolyesters, multilayer polymers, polypropylene/polyethylene (PP/PE)-based materials, and three-dimensional (3D)-printed resins are increasingly used, but their comparative performance remains heterogeneous. This systematic review and meta-analysis evaluated the mechanical performance, aging behavior, cytotoxicity, chemical release, microplastic release, and surface stability of orthodontic clear aligner materials. PubMed/MEDLINE, Scopus, Web of Science Core Collection, Cochrane Library, Google Scholar, Embase, and ScienceDirect were searched for English-language full-text studies published from January 2000 through June 23, 2026. Eligible studies evaluated material-specific mechanical, optical, biological, chemical, surface, or clinically relevant outcomes. Findings were synthesized narratively, and exploratory random-effects quantitative syntheses were conducted when numerical outcomes were sufficiently compatible. Methodological quality was evaluated using the Quality Assessment Tool for In Vitro Studies (QUIN) for the 22 laboratory investigations and the Joanna Briggs Institute (JBI) critical appraisal checklist for quasi-experimental studies for the prospective clinical/laboratory investigation. The review was not prospectively registered. Twenty-three studies were included, of which 22 were predominantly in vitro laboratory investigations. PETG, TPU, polyurethane, copolyesters, multilayer polymers, PP/PE-based materials, and direct 3D-printed resins showed substantial variation in modulus, flexural performance, stress relaxation, force decay, aging response, and surface roughness. QUIN assessment classified 18 in-vitro studies as having a medium risk of bias and four as having a high risk of bias; no study met the threshold for low risk of bias. Frequent methodological limitations included absent sample-size calculations, incomplete sampling descriptions, limited reporting of randomization and blinding, and inadequate reporting of operator or assessor calibration. Cytotoxicity findings were generally favorable under standard laboratory conditions, although reduced cell viability occurred with selected materials, concentrated extracts, or prolonged exposure. Evidence regarding BPA was limited, while other chemical leachables and microplastic release remained emerging concerns. Several quantitative outcomes showed high or extreme heterogeneity. Current evidence does not establish a universally superior clear aligner material. Material behavior and safety appear dependent on polymer composition, manufacturing method, thickness, post-processing, aging, and testing conditions. Because the evidence was predominantly laboratory-based, frequently at medium or high risk of bias, and methodologically heterogeneous, pooled estimates should not be translated directly into clinical material-selection or wear-schedule recommendations. Standardized laboratory methods and prospective clinical validation are required.",
@@ -4729,6 +4760,38 @@
       "content_sha256": "f4b320902d1679d9875002f037f9043f1725c57150362781929540a92a26fba7",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
       "updated_at_utc": "2026-10-10T13:15:10Z"
+    },
+    {
+      "pmid": "42911629",
+      "title": "[Modern polymer materials in aligner production: analysis of mechanical properties and clinical significance in the correction of dental crowding].",
+      "abstract": "The clinical efficacy of aligner therapy in correcting dental crowding directly depends on the physical and mechanical properties of the polymer materials used for aligner fabrication. The aim of this review is to systematize current data on the characteristics of modern thermoplastic polymers and to substantiate principles for the clinical selection of materials with optimized properties in the treatment of dental crowding, especially in the anterior region. The article focuses on key parameters determining aligner biomechanics: elastic modulus, stress relaxation, creep, and the influence of temperature fluctuations and the oral environment. A comparative analysis of common single-layer materials (PET-G and thermoplastic polyurethanes) and innovative multilayer systems is presented. Available evidence indicates that rapid stress relaxation and pronounced creep reduce the predictability of complex orthodontic movements (derotation, bodily movement, changes in inclination) and contribute to geometric discrepancies between planned and achieved tooth positions. The clinical rationale for choosing materials with a more favorable viscoelastic profile and greater stability of mechanical properties is discussed, together with the importance of 3D technologies (model superimposition on reference areas) for quantitative assessment of treatment accuracy.",
+      "journal": "Stomatologiia",
+      "authors": "Shishkin G S, Arsenina O I, Popova N V, Popova A V, Lebedeva N M",
+      "pub_date": "2026-01-01",
+      "doi": "10.17116/stomat202610505182",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911629/",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Polymers",
+        "Tooth Movement Techniques",
+        "Malocclusion",
+        "Orthodontic Appliances, Removable"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "4ce367f9f91f5d7759d937768d4dc7c2327ef9e424146dcf525de068ff7719c4",
+      "fetched_at_utc": "2026-10-23T23:52:22Z",
+      "updated_at_utc": "2026-10-23T23:52:22Z"
     },
     {
       "pmid": "42801521",
