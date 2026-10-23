@@ -1,7 +1,45 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-22T00:02:11Z",
+  "generated_at_utc": "2026-10-23T00:00:42Z",
   "documents": [
+    {
+      "pmid": "42904403",
+      "title": "Trueness and precision of 5 intraoral scanners under different conditions in arches: A 3D comparative in vitro analysis.",
+      "abstract": "BACKGROUND: The accuracy of intraoral scanners (IOSs) has been widely reported. However, studies comparing their performance under different clinical conditions are lacking.\nOBJECTIVES: The aim of the present study was to compare the trueness and precision of 5 IOSs across 4 anatomically distinct models simulating common clinical conditions: edentulous; abutment; orthodontic (fully dentate); and scanbody scenarios.\nMATERIAL AND METHODS: An in vitro study was conducted using 4 maxillary models representing different clinical configurations. Five IOSs (AORALSCAN 3, TRIOS 5, ViSIOScan WL, iTero Element 5D Plus, and DEXIS IS 3800) were evaluated. Each model was scanned 10 times with each scanner, and a laboratory desktop scanner was used as the reference for trueness. Accuracy was quantified using the root mean square (RMS) deviation values, with a clinical acceptability threshold of 0.25 mm. Superimposition and deviation analyses were performed using three-dimensional (3D) software, and statistical comparisons were conducted using ANOVA and Scheffé's post hoc test.\nRESULTS: Except for ViSIOScan WL in the scanbody model, all tested scanners demonstrated accuracy values below 0.1 mm. Significant differences in trueness and precision were observed both between the scanners and across the clinical scenarios (p < 0.05). Overall, AORALSCAN 3 and iTero Element 5D Plus consistently demonstrated the best performance. The abutment and fully dentate models showed the highest accuracy, whereas the edentulous and scanbody models exhibited greater deviations, particularly for ViSIOScan WL and DEXIS IS 3800.\nCONCLUSIONS: Despite most IOSs achieving accuracy below 0.1 mm, substantial variability was observed depending on the scanner type and the anatomical context. AORALSCAN 3 and iTero Element 5D Plus consistently demonstrated superior trueness and precision across most models. While the fully dentate model showed no significant differences in trueness among the scanners, it, along with the abutment model, yielded the highest overall accuracy. The edentulous and scanbody models posed greater challenges.",
+      "journal": "Dental and medical problems",
+      "authors": "Polizzi Alessandro, Venezia Pietro, Serra Sara, Pizzo Giuseppe, Blasi Andrea, Pihut Małgorzata, Isola Gaetano",
+      "pub_date": "2026-10-21",
+      "doi": "10.17219/dmp/215829",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904403/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "itero"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "predictability",
+        "scanning-digital-workflow"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "4455f15ebfd87addd7815839e0bf98a05d215443bf1218de9fb7a17b2303dc77",
+      "fetched_at_utc": "2026-10-23T00:00:42Z",
+      "updated_at_utc": "2026-10-23T00:00:42Z",
+      "summary_ja": "本研究は、5種類の口腔内スキャナー（AORALSCAN 3、TRIOS 5、ViSIOScan WL、iTero Element 5D Plus、DEXIS IS 3800）の真度（trueness）と精度（precision）を、4種類の解剖学的に異なる上顎モデル（無歯顎、アバットメント、矯正（全歯列）、スキャンボディ）を用いたin vitro比較分析である。各モデルを各スキャナーで10回スキャンし、ラボデスクトップスキャナーを基準としてRMS偏差値で精度を定量化した。臨床許容閾値は0.25 mmとした。",
+      "key_takeaway_ja": "ViSIOScan WLのスキャンボディモデルを除き、全スキャナーの精度は0.1 mm未満であったが、スキャナー間および臨床シナリオ間で真度・精度に有意な差が認められた（p < 0.05）。AORALSCAN 3とiTero Element 5D Plusが最も一貫して優れた性能を示した。無歯顎モデルとスキャンボディモデルは特に大きな偏差を示した。",
+      "why_matters_ja": "計画品質：口腔内スキャナーの真度・精度はデジタル印象の品質に直接影響し、治療計画の正確性を左右する。特に無歯顎やスキャンボディのような臨床的に困難な条件下では、スキャナー選択が計画品質に大きく影響することが示された。",
+      "study_type_ja": "in vitro比較分析（3D比較in vitro研究）",
+      "endpoints_ja": "真度（trueness）と精度（precision）をRMS偏差値で定量化（臨床許容閾値0.25 mm）",
+      "endpoint_results_ja": "ViSIOScan WLのスキャンボディモデルを除き、全スキャナーの精度値は0.1 mm未満。スキャナー間および臨床シナリオ間で真度・精度に有意差（p < 0.05）。AORALSCAN 3とiTero Element 5D Plusが最も優れた性能。アバットメントモデルと全歯列モデルが最も高い精度、無歯顎モデルとスキャンボディモデルが特にViSIOScan WLとDEXIS IS 3800で大きな偏差を示した。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T00:02:06Z"
+    },
     {
       "pmid": "42850342",
       "title": "Salivary parameters in individuals undergoing orthodontic treatment with clear aligners: a scoping review.",
@@ -116,6 +154,37 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-10T13:23:59Z"
+    },
+    {
+      "pmid": "42904192",
+      "title": "Correction: Clear aligner therapy among orthodontists in Turkey: practice patterns and comparison with previously reported Iranian findings.",
+      "abstract": "[This corrects the article DOI: 10.3389/fdmed.2026.1896311.].",
+      "journal": "Frontiers in dental medicine",
+      "authors": "",
+      "pub_date": "2026-10-06",
+      "doi": "10.3389/fdmed.2026.1995620",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904192/",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "11f78fbd46b5d45440bb51828b7d1def75f6ef684e5e6aaf2d585e78a01f81cd",
+      "fetched_at_utc": "2026-10-23T00:00:42Z",
+      "updated_at_utc": "2026-10-23T00:00:42Z",
+      "summary_ja": "トルコの矯正歯科医におけるクリアアライナー治療の診療パターンと、以前に報告されたイランの調査結果との比較に関する論文の訂正（エラトゥム）である。",
+      "key_takeaway_ja": "本稿は元論文（DOI: 10.3389/fdmed.2026.1896311）の訂正であり、抄録には具体的な研究内容や結果の記載がない。",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "エラトゥム（訂正）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T00:02:21Z"
     },
     {
       "pmid": "42834390",
@@ -2953,7 +3022,16 @@
       "japan_relevant": false,
       "content_sha256": "2fd89482ace1c66139ec6bf437493e406a6057a0312364c41c1f5affc18db269",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "透明マウスピース矯正後の歯間乳頭欠損（gingival embrasure）リスクを予測するモデルを、マルチモーダル口腔データを用いて開発・検証した後方視的研究。340例を訓練セット（n=238）と検証セット（n=102）に7:3で分割し、単変量解析・多変量ロジスティック回帰・LASSO回帰で独立リスク因子を同定したのち、ランダムフォレスト（RF）・ロジスティック回帰・サポートベクターマシンの3モデルを構築し、AUC・較正曲線・意思決定曲線解析・SHAP値で性能を評価した。",
+      "key_takeaway_ja": "RFモデルが最も高性能で、訓練AUC=0.849、検証AUC=0.815を達成。独立リスク因子としてプロービング時出血率（%BOP）、近接歯槽骨高、目標部位隣接歯の相対移動量が、保護因子として歯肉厚、近接接触面積、歯間乳頭高、頬側/舌側骨板厚が同定された。SHAP解析では歯肉厚と近接歯槽骨高が主要予測因子として示された。",
+      "why_matters_ja": "安全性：透明マウスピース矯正後の歯間乳頭欠損という治療関連リスクを事前に定量的に予測可能。計画品質：個別化リスク予測の客観的補助ツールとして、従来の臨床経験的判断を補完できると結論されている。ワークフロー：マルチモーダル口腔データ（%BOP、歯槽骨高、歯肉厚、接触面積、乳頭高、骨板厚、隣接歯移動量）を統合した予測モデルであり、治療計画段階でのリスク層別化に活用可能な枠組みを示している。",
+      "study_type_ja": "後方視的研究（モデル開発・検証）",
+      "endpoints_ja": "透明マウスピース矯正後の歯間乳頭欠損リスク予測モデルの性能（AUC、較正、意思決定曲線解析によるnet benefit、SHAP値による解釈可能性）",
+      "endpoint_results_ja": "RFモデル：訓練AUC = 0.849（95% CI: 0.786-0.912）、検証AUC = 0.815（95% CI: 0.720-0.910）。較正良好、net benefitあり。",
+      "sample_size_ja": "340例（訓練セット n=238、検証セット n=102）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T00:02:52Z"
     },
     {
       "pmid": "42512708",
@@ -2977,7 +3055,16 @@
       "japan_relevant": false,
       "content_sha256": "39e179fce971cb67e61d32c25186f859b812ec7eff1249fd4571d026edb0d6d7",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "ChatGPT（無料版・Plus）とGemini（無料版・Pro）の4つのAIチャットボットに対し、トルコ語の患者向け矯正歯科食事に関する40の質問を独立したセッションで送信し、160件の回答の理解可能性・実行可能性・全体品質・有害性を評価した横断比較観察研究。PEMAT-PとGlobal Quality Scoreを用い、2名の専門歯科医師が独立に評価した。",
+      "key_takeaway_ja": "全チャットボット群でPEMAT-P理解可能性の中央値は100.0と高かったが、実行可能性・全体品質・安全性はシステム間で有意に異なり、ChatGPT Plusが最も高い実行可能性と全体品質スコアを示し、有害と分類された回答がゼロであった一方、ChatGPT無料版・Gemini無料版・Gemini Proでは有害と分類された回答が確認された。",
+      "why_matters_ja": "安全性：AI生成の矯正歯科食事アドバイスにはシステム間で有害回答の有無が異なり、患者教育に統合する前に専門的監督が必要であることが示された。教育：患者向けデジタル教育ツールとしてのAIチャットボットの品質がプラットフォーム・料金プラン・時期によって変動するため、構造化評価と透明な報告が不可欠である。",
+      "study_type_ja": "横断比較観察研究",
+      "endpoints_ja": "主要アウトカム：PEMAT-P実行可能性。副次アウトカム：PEMAT-P理解可能性、Global Quality Score、有害アドバイス分類",
+      "endpoint_results_ja": "PEMAT-P理解可能性：全群で中央値100.0。PEMAT-P実行可能性：群間差有意（χ2 = 20.527, p < 0.001, Kendall's W = 0.171）。Global Quality Score：最大効果（χ2 = 46.520, p < 0.001, Kendall's W = 0.388）。ChatGPT Plus：最高実行可能性スコア・最高GQS・有害回答ゼロ。有害回答：ChatGPT無料版・Gemini無料版・Gemini Proで確認。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T00:03:28Z"
     },
     {
       "pmid": "42477636",
@@ -3001,7 +3088,16 @@
       "japan_relevant": false,
       "content_sha256": "c5c5fcb36b98cfedb14c5c3d449af28dcd399240e54158fa80617e333bc5fca1",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "中国の3つの主要ソーシャルメディアプラットフォーム（Bilibili、Douyin、Xiaohongshu）から収集した180件の矯正治療体験投稿を対象に、情報完全性（ICS）、コメント感情（SAS）、エンゲージメント指標を横断的に評価した研究。ICSはプラットフォーム間で有意差があり、Bilibiliが最高（3.53±1.46）、Xiaohongshuが最低（1.78±1.24）。治療詳細と治療期間が最も頻繁に言及され、臨床医・機関の資格や費用は最も少なかった。エンゲージメント指標は相互に強く相関したが、ICSとエンゲージメントには有意な相関は認められなかった。クリアアライナー関連コンテンツ、成人矯正コンテンツ、長い動画、古い動画ほどICSが高かった。",
+      "key_takeaway_ja": "ソーシャルメディア上の矯正治療体験コンテンツは情報完全性に大きなばらつきがあり、高エンゲージメントは必ずしも高品質な情報とは限らない。臨床医・機関の資格や費用に関する情報は最も不足しており、患者のインフォームド・コンセントを支援するためには治療の利益・リスク・費用・期間・専門的出所に関するバランスの取れた情報提供が求められる。",
+      "why_matters_ja": "教育：臨床医・機関の資格や費用が最も頻繁に言及されない次元であり、結論では治療の利益・リスク・費用・期間・専門的出所に関するバランスの取れた情報提供がインフォームド・コンセントの支援に必要とされている。また、クリアアライナー関連コンテンツがICSの高いグループに含まれている点は、Align製品の患者教育コンテンツの質的向上が患者の意思決定支援に寄与しうることを示唆する。",
+      "study_type_ja": "横断研究（cross-sectional study）",
+      "endpoints_ja": "情報完全性スコア（ICS）、感情分析スコア（SAS：タイトル感情・コメント感情）、エンゲージメント指標（いいね、お気に入り、シェア、コメント数）",
+      "endpoint_results_ja": "ICSの評価者間信頼性：ICC(3,1)=0.954。SASの自動分類精度：91.6%（κ=0.848）。ICSのプラットフォーム間差：H=40.70, p<0.001。Bilibili ICS：3.53±1.46、Xiaohongshu ICS：1.78±1.24。タイトル感情とコメント感情の相関：rho=0.247, p<0.001。エンゲージメント指標間の相関：rho=0.69-0.87。ICSとエンゲージメントの相関：有意な相関なし。",
+      "sample_size_ja": "180件の適格投稿（Bilibili、Douyin、Xiaohongshuから収集）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T00:04:03Z"
     },
     {
       "pmid": "42475394",
@@ -3032,7 +3128,16 @@
       "japan_relevant": false,
       "content_sha256": "8d7d715e6261a2219cdb552daf5c0313ca177c5eae2331a5b60ecafc26deda5d",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "取り外し可能な矯正アライナー治療に伴う有害事象を特定・統合することを目的としたシステマティックレビューと単一腕メタアナリシス。7つの電子データベースとグレー文献を検索し、34件の研究（RCT 10件、非ランダム化臨床研究6件、コホート研究18件）が包含基準を満たした。疼痛と根尖部歯根吸収が最も頻繁に報告された有害事象であり、疼痛は24時間以内にピーク、3日目で減少、1週間で最小となった。根尖部歯根吸収は一般的に軽度であった。プラーク（3ヶ月時）については結論が得られなかった。",
+      "key_takeaway_ja": "取り外し可能な矯正アライナーの最も頻繁に報告される有害事象は短期的な疼痛と軽度の根尖部歯根吸収であり、証拠の確実性はアウトカムによって異なる。発音変化、不快感、白斑病変も報告されている。",
+      "why_matters_ja": "安全性の観点から、アライナー治療に伴う疼痛の時間経過（24時間ピーク→3日減少→1週最小）、根尖部歯根吸収の程度（平均線形損失-0.33 mm）、エナメル質脱灰・白斑病変・プラークなどの有害事象の頻度と程度を把握することは、治療計画時のリスクコミュニケーションや患者教育に直接関連する。",
+      "study_type_ja": "システマティックレビュー（単一腕メタアナリシス付き）",
+      "endpoints_ja": "疼痛/不快感、根尖部歯根吸収、プラーク、歯周変化、エナメル質脱灰、白斑病変、発音変化、口臭、開放性歯間乳頭、顎関節症状、覚醒時歯ぎしり",
+      "endpoint_results_ja": "根尖部歯根吸収：平均線形損失 -0.33 mm（95% CI -0.55 to -0.11）、体積損失 -4.37 mm³（95% CI -5.51 to -3.24）。疼痛は24時間以内にピーク、3日目で減少、1週間で最小。プラーク（3ヶ月時）は結論が得られなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T00:04:42Z"
     },
     {
       "pmid": "42474897",
@@ -3071,7 +3176,16 @@
       "japan_relevant": false,
       "content_sha256": "fb27fcb091640b28f8a2c3a872a67ac068550a65f123199b84392f2de4126ae7",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "安定型歯周炎患者（SP, n=33）と歯周健康者（PH, n=33）におけるクリアアライナーによる上顎前歯後退の効率を比較した後ろ向きコホート研究。治療前バーチャルセットアップと治療後実測モデルをGeomagic Wrap 2021で3次元重ね合わせし、効率を（実測歯移動量/予測歯移動量）×100%として算出。両群間で有意差は認められなかった（SP: 56.6%, PH: 52.0%, P=0.245）。ただし効率に影響する因子は異なり、SP群ではアライナーステップ数・予測歯移動量・補助牽引などの治療設計パラメータと有意相関し、PH群では年齢・歯種などの患者関連生理学的因子と主に関連した。",
+      "key_takeaway_ja": "安定型歯周炎患者と歯周健康者でクリアアライナー前歯後退の効率は同等であるが、効率を左右する因子が異なる。SP群では治療設計パラメータ（ステップ数、予測移動量、補助牽引）が、PH群では生理学的因子（年齢、歯種）が主要な予測因子となる。",
+      "why_matters_ja": "planned-vs-achieved: 効率をactual/predicted比として定量化し、両群で約52〜57%と計画達成率が中程度であることを示した。refinement: SP群ではアライナーステップ数・予測移動量・補助牽引が効率と有意相関しており、治療設計の精緻化（ステップ分割、補助装置の活用）が計画達成率向上に寄与し得ることを示唆。",
+      "study_type_ja": "後ろ向き比較コホート研究",
+      "endpoints_ja": "上顎前歯後退効率（実測歯移動量/予測歯移動量×100%）",
+      "endpoint_results_ja": "SP群: 56.6%, PH群: 52.0%, P = 0.245",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T00:05:09Z"
     },
     {
       "pmid": "42468753",
