@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-23T23:52:23Z",
+  "generated_at_utc": "2026-10-24T23:23:28Z",
   "items": [
+    {
+      "pmid": "42914787",
+      "title": "Effects of clear aligner attachment template sectioning on bonding accuracy and anterior retraction biomechanics: A finite element study.",
+      "abstract": "OBJECTIVE: To evaluate the effects of attachment template sectioning on bonding accuracy and the initial biomechanical response during en-masse anterior retraction with clear aligners.\nMATERIALS AND METHODS: Thirty three-dimensional printed maxillary extraction models were assigned to full-arch, single-tooth, or sectional template groups. Attachment deviations were assessed using digital scanning, model registration, and three-dimensional measurements. Representative bonded attachments from each group were incorporated into finite element models to simulate anterior retraction after maxillary first-premolar extraction.\nRESULTS: Mean attachment deviations were 0.041mm, 0.080mm, and 0.056mm in the full-arch, single-tooth, and sectional groups, respectively. The full-arch and sectional templates showed greater bonding accuracy than the single-tooth templates. Deviations generally increased toward the posterior region. Finite element analysis demonstrated tooth- and direction-specific changes in buccolingual, mesiodistal, and vertical displacement, with the most pronounced alterations in the single-tooth-template model.\nCONCLUSIONS: Template sectioning affected attachment bonding accuracy and initial displacement patterns during anterior retraction. Full-arch and sectional templates may be preferable for simultaneous bonding of multiple attachments, whereas the lower positioning stability of single-tooth templates should be considered during localized rebonding.",
+      "journal": "International orthodontics",
+      "authors": "Su Qi, Yang Lijia, Wu Lingyue, Huang Fengqiong, Zhang Xiao, Pan Yuyan, Zhou Zhiying",
+      "pub_date": "2026-10-23",
+      "doi": "10.1016/j.ortho.2026.101256",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914787/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "d8ebad47897672f231d9e66e03920e4d28c8175869e9771205b8fd5d4fbd8db3",
+      "fetched_at_utc": "2026-10-24T23:19:08Z",
+      "updated_at_utc": "2026-10-24T23:19:08Z",
+      "summary_ja": "アタッチメントテンプレートの分割方式（フルアーチ、単歯、セクション）がクリアアライナーによる前歯部一括後退時のボンディング精度と初期バイオメカニカル応答に与える影響を、有限要素法（FEA）を用いて評価した研究。33本の3Dプリント上顎抜歯モデルを3群に割り付け、デジタルスキャンとモデルレジストレーションによりアタッチメント偏差を測定し、各群の代表アタッチメントをFEAモデルに組み込んで前歯部後退をシミュレーションした。",
+      "key_takeaway_ja": "フルアーチ型とセクション型テンプレートは単歯型テンプレートよりボンディング精度が優れていた。FEAでは単歯型テンプレートモデルで最も顕著な歯位・方向特異的な変位変化が認められた。",
+      "why_matters_ja": "planned-vs-achieved: テンプレート設計の選択がアタッチメントの計画位置に対する実際のボンディング精度（偏差）に直接影響し、治療計画の達成度に関わる。refinement: 単歯型テンプレートの位置安定性の低さは、局所的なリボンディング時の判断材料となる。",
+      "study_type_ja": "有限要素法（FEA）を用いた計算機シミュレーション研究（in silico study）",
+      "endpoints_ja": "アタッチメントボンディング精度（偏差mm）、前歯部後退時の初期変位パターン（頬舌方向・近遠心方向・垂直方向の変位）",
+      "endpoint_results_ja": "平均アタッチメント偏差：フルアーチ群 0.041mm、単歯群 0.080mm、セクション群 0.056mm。フルアーチ型とセクション型テンプレートは単歯型テンプレートよりボンディング精度が優れていた。偏差は後方領域に向かって増加する傾向。FEAでは頬舌方向・近遠心方向・垂直方向の変位に歯位・方向特異的な変化が認められ、単歯型テンプレートモデルで最も顕著な変化を示した。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-24T23:19:29Z"
+    },
     {
       "pmid": "42904403",
       "title": "Trueness and precision of 5 intraoral scanners under different conditions in arches: A 3D comparative in vitro analysis.",
@@ -2707,6 +2740,46 @@
       "summary_generated_at_utc": "2026-10-22T00:02:43Z"
     },
     {
+      "pmid": "42907824",
+      "title": "The effect of thermoforming foils' material and thickness on the physical properties of orthodontic clear aligners: an in vitro study.",
+      "abstract": "Selection of an appropriate thermoforming foils is a crucial step for fabrication of in-office aligners. The aim of this study was to evaluate the effect of different thermoforming material and thickness on the color and weight stability and elastic modulus of clear aligners. Thermoforming foils of five types and two thickness (0.7 and 1.0 mm) were selected. For each group, 12 specimens were prepared to be a standard clear aligner. Weight change, color stability and elastic modulus was measured before and after thermocycling. Data were analyzed using Kruskal-Wallis and Mann-Whitney tests. PETG aligners tended toward weight reduction, while TPU and multi-layer aligners tended toward weight gain. PETG (1.0 mm) specimens weight reduction was significant (P = 0.041). TPU (0.7 mm) specimens weight gain was significant (P = 0.002). PETG aligners had the highest color change (ΔE), while multi-layer aligners showed the least. The thicker foils (1.0 mm) had better color consistency than thinner foils (0.7 mm). PETG (1.0 mm) aligners had the highest elastic modulus while multi-layer aligners had the lowest. Thermocycling caused elastic modulus reduction in PETG and increase in TPU and multi-layer aligners. It was concluded that both the type of thermoforming material and its thickness affect weight change, color stability, and elastic modulus of clear aligners.",
+      "journal": "BMC oral health",
+      "authors": "Salari Behzad, Hosseininasab Amirhossein, Esmailzadeh Shima",
+      "pub_date": "2026-07-27",
+      "doi": "10.1186/s12903-026-09261-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907824/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Elastic Modulus",
+        "Materials Testing",
+        "Color",
+        "Humans",
+        "Orthodontic Appliance Design",
+        "Polyethylene Glycols",
+        "Polyethylene Terephthalates",
+        "Hot Temperature"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "f5011967e0d255395df3f4ce559f749c827bbfd0e946e5f972ccdffe349d3031",
+      "fetched_at_utc": "2026-10-23T23:52:22Z",
+      "updated_at_utc": "2026-10-23T23:52:22Z",
+      "summary_ja": "5種類のサーモフォームフィルム（PETG、TPU、多層構造など）と2種類の厚さ（0.7mm、1.0mm）を用いて、各群12個の標準クリアアライナー標本を製作し、サーモサイクリング前後の重量変化、色安定性（ΔE）、弾性率を測定したin vitro研究。PETGは重量減少傾向、TPUと多層構造は重量増加傾向を示した。PETGは最も大きな色変化（ΔE）を示し、多層構造が最小であった。厚いフィルム（1.0mm）は薄いフィルム（0.7mm）より色安定性に優れていた。PETG（1.0mm）が最も高い弾性率、多層構造が最も低い弾性率を示した。サーモサイクリングによりPETGの弾性率は低下し、TPUと多層構造では上昇した。",
+      "key_takeaway_ja": "サーモフォームフィルムの素材種類と厚さの両方が、クリアアライナーの重量変化、色安定性、弾性率に影響を与える。",
+      "why_matters_ja": "計画品質：素材選択がアライナーの物理的特性（弾性率、色安定性）を決定し、治療計画の遂行品質に直接関わる。安全性：サーモサイクリングによる弾性率の変化（PETGでは低下）は、口腔内での長期使用時の材料劣化リスクを示唆する。ワークフロー：in-officeアライナーの製造における素材選定基準の根拠となる。",
+      "study_type_ja": "in vitro研究",
+      "endpoints_ja": "重量変化、色安定性（ΔE）、弾性率",
+      "endpoint_results_ja": "PETG（1.0mm）の重量減少は有意（P=0.041）。TPU（0.7mm）の重量増加は有意（P=0.002）。PETGが最も大きな色変化（ΔE）、多層構造が最小。厚いフィルム（1.0mm）は薄いフィルム（0.7mm）より色安定性に優れる。PETG（1.0mm）が最も高い弾性率、多層構造が最も低い弾性率。サーモサイクリングによりPETGの弾性率は低下、TPUと多層構造では上昇。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-24T23:20:01Z"
+    },
+    {
       "pmid": "42656921",
       "title": "From Polyethylene Terephthalate Glycol (PETG) to 3D-Printed Resins: A Systematic Review and Meta-Analysis of Clear Aligner Material Performance and Safety.",
       "abstract": "Clear aligner therapy depends on polymeric materials that differ in stiffness, elasticity, force retention, surface stability, optical behavior, and biological safety. Polyethylene terephthalate glycol (PETG), thermoplastic polyurethane (TPU), polyurethane (PU), copolyesters, multilayer polymers, polypropylene/polyethylene (PP/PE)-based materials, and three-dimensional (3D)-printed resins are increasingly used, but their comparative performance remains heterogeneous. This systematic review and meta-analysis evaluated the mechanical performance, aging behavior, cytotoxicity, chemical release, microplastic release, and surface stability of orthodontic clear aligner materials. PubMed/MEDLINE, Scopus, Web of Science Core Collection, Cochrane Library, Google Scholar, Embase, and ScienceDirect were searched for English-language full-text studies published from January 2000 through June 23, 2026. Eligible studies evaluated material-specific mechanical, optical, biological, chemical, surface, or clinically relevant outcomes. Findings were synthesized narratively, and exploratory random-effects quantitative syntheses were conducted when numerical outcomes were sufficiently compatible. Methodological quality was evaluated using the Quality Assessment Tool for In Vitro Studies (QUIN) for the 22 laboratory investigations and the Joanna Briggs Institute (JBI) critical appraisal checklist for quasi-experimental studies for the prospective clinical/laboratory investigation. The review was not prospectively registered. Twenty-three studies were included, of which 22 were predominantly in vitro laboratory investigations. PETG, TPU, polyurethane, copolyesters, multilayer polymers, PP/PE-based materials, and direct 3D-printed resins showed substantial variation in modulus, flexural performance, stress relaxation, force decay, aging response, and surface roughness. QUIN assessment classified 18 in-vitro studies as having a medium risk of bias and four as having a high risk of bias; no study met the threshold for low risk of bias. Frequent methodological limitations included absent sample-size calculations, incomplete sampling descriptions, limited reporting of randomization and blinding, and inadequate reporting of operator or assessor calibration. Cytotoxicity findings were generally favorable under standard laboratory conditions, although reduced cell viability occurred with selected materials, concentrated extracts, or prolonged exposure. Evidence regarding BPA was limited, while other chemical leachables and microplastic release remained emerging concerns. Several quantitative outcomes showed high or extreme heterogeneity. Current evidence does not establish a universally superior clear aligner material. Material behavior and safety appear dependent on polymer composition, manufacturing method, thickness, post-processing, aging, and testing conditions. Because the evidence was predominantly laboratory-based, frequently at medium or high risk of bias, and methodologically heterogeneous, pooled estimates should not be translated directly into clinical material-selection or wear-schedule recommendations. Standardized laboratory methods and prospective clinical validation are required.",
@@ -3186,6 +3259,223 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-23T00:05:09Z"
+    },
+    {
+      "pmid": "42468753",
+      "title": "Photobiomodulation therapy for accelerating clear aligner tooth movement: A literature review.",
+      "abstract": "Clear aligner therapy (CAT) is widely used in adult orthodontic treatment, but prolonged treatment duration remains a major limitation. Photobiomodulation therapy (PBMT) has been proposed as a noninvasive adjunct to accelerate tooth movement by modulating cellular activity and bone remodeling. This narrative review summarizes the literature on PBMT in orthodontic tooth movement, with particular attention to its application in CAT, effects on treatment efficiency, and safety considerations. Published clinical studies generally suggest that PBMT may be associated with faster alignment and shorter treatment duration. In one historical prospective study of 170 Invisalign patients, the crowding resolution rate was 0.33 mm/week in the PBMT group versus 0.21 mm/week in controls, with a 57.5-week reduction in treatment time. A retrospective study of 84 clear aligner patients found mean treatment durations of 528 ± 323 days with PBMT compared with 719 ± 220 days in controls, representing a 26.6% reduction. The reviewed literature also suggests that wavelengths in the 780 to 830 nm range are commonly used and that PBMT may increase tooth movement speed by approximately 24%, although findings remain heterogeneous across protocols. CBCT-based studies found no statistically significant difference in root volume change between PBMT and control groups. Overall, PBMT appears promising as an adjunct for accelerating tooth movement during CAT, particularly in adult patients treated with near-infrared protocols, although current evidence remains limited and heterogeneous. Safety data are reassuring but still limited. Further standardized randomized clinical trials are needed to define optimal dosing and confirm long-term clinical benefits and safety.",
+      "journal": "Photodiagnosis and photodynamic therapy",
+      "authors": "Bahrami Rashin, Pourhajibagher Maryam, Bahador Abbas",
+      "pub_date": "2026-07-17",
+      "doi": "10.1016/j.pdpdt.2026.105580",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468753/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tooth Movement Techniques",
+        "Low-Level Light Therapy"
+      ],
+      "matched_assets": [
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "25a5093ab90e21be538fede805b633abf1ffb50876cec5924fa62ea897175fa4",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "クリアアライナー治療（CAT）における光生物学的刺激療法（PBMT）の応用に関するナラティブレビュー。PBMTが歯の移動を加速し、治療期間を短縮する可能性について、臨床研究の文献を総括し、治療効率・安全性・波長パラメータ（780〜830 nm）を整理している。",
+      "key_takeaway_ja": "PBMTはCAT中の歯の移動を加速し治療期間を短縮する可能性を示唆するが、現在のエビデンスは限定的かつ異質であり、最適な照射条件の確立には標準化されたランダム化比較試験が必要である。",
+      "why_matters_ja": "治療効率（治療期間の短縮）と安全性の観点から、CATの治療計画における期間予測の精度向上や、planned-vs-achievedの乖離を縮小する補完的介入として関連する。安全性データは安心感を与えるが依然限定的であり、臨床導入時のリスク評価に留意が必要。",
+      "study_type_ja": "ナラティブレビュー（文献レビュー）",
+      "endpoints_ja": "叢生解決率（mm/週）、治療期間（日数・週数）、歯の移動速度増加率、根体体積変化（CBCT）",
+      "endpoint_results_ja": "叢生解決率：PBMT群 0.33 mm/週 vs 対照群 0.21 mm/週。治療期間の短縮：57.5週。平均治療期間：PBMT群 528 ± 323日 vs 対照群 719 ± 220日（26.6%短縮）。歯の移動速度増加：約24%。根体体積変化：PBMT群と対照群間に統計的に有意な差なし。",
+      "sample_size_ja": "レビュー自体のサンプルサイズは記載なし。引用された個別研究：前向き研究170例（Invisalign患者）、後向き研究84例（クリアアライナー患者）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-24T23:20:24Z"
+    },
+    {
+      "pmid": "42513498",
+      "title": "Fractal Analysis-Based Comparison of Mandibular Bone Remodeling in Clear Aligner and Fixed Orthodontic Therapies.",
+      "abstract": "Background: To quantitatively compare treatment-related changes in mandibular trabecular bone between patients undergoing clear aligner therapy (CAT) and fixed orthodontic treatment (FOT) by means of fractal dimension analysis of panoramic radiographs. Methods: This retrospective investigation evaluated 76 patients who underwent orthodontic treatment with either clear aligner therapy (CAT; n = 34) or fixed orthodontic treatment (FOT; n = 42). Fractal dimension analysis was performed on panoramic radiographs obtained before treatment (T0) and after treatment completion (T1). Fractal dimension (FD) values were calculated for the mandibular molar, angulus, and condylar regions using ImageJ software based on the box-counting algorithm. Changes in FD were compared within and between groups using appropriate statistical tests, with statistical significance established at p < 0.05. Results: No statistically significant differences were observed between CAT and FOT groups regarding FD changes in the mandibular molar and angulus regions at T0 or T1 (p > 0.05). Within-group comparisons also revealed no significant FD changes in these regions following treatment in either group. In the condylar region, although FD values demonstrated a tendency toward change after treatment, intra-group differences were not statistically significant (p > 0.05). However, inter-group comparison revealed a statistically significant difference between CAT and FOT groups in condylar FD values (p ≤ 0.05), without evidence of destructive bone remodeling. Conclusions: CAT and FOT induce comparable adaptive responses in mandibular trabecular bone structure. FA findings suggest that both treatment modalities induce comparable adaptive remodeling patterns in mandibular trabecular bone without radiographic evidence of destructive bone changes, supporting the view that CAT could be considered a comparable alternative to FOT with respect to mandibular trabecular bone remodeling when appropriate patient selection and controlled force application are ensured.",
+      "journal": "Journal of clinical medicine",
+      "authors": "Sari Ömer Faruk, Büyükçavuş Muhammed Hilmi, Albayrak Elif, İncebeyaz Burak",
+      "pub_date": "2026-07-16",
+      "doi": "10.3390/jcm15145586",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42513498/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "a35f5fbfb1fe1ac995988f2ae36a1e761de2e480868303b6d9d82fb2b155806e",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "CT（CAT）と固定式矯正治療（FOT）における下顎海綿骨の治療関連変化を、パノラマX線写真のフラクタル次元解析を用いて定量的に比較した後ろ向き研究。76例（CAT群34例、FOT群42例）を対象に、治療前（T0）と治療完了後（T1）のパノラマX線写真から下顎大臼歯部、角部、関節頭部のフラクタル次元（FD）値をImageJのボックスカウント法で算出し、群間・群内比較を行った。",
+      "key_takeaway_ja": "CATとFOTは下顎海綿骨構造に同程度の適応性応答を引き起こし、破壊的な骨変化の画像所見は認められなかった。適切な患者選択と制御された力学的応用が確保される限り、CATはFOTと比較可能な代替手段となり得る。",
+      "why_matters_ja": "安全性の観点：CATはFOTと比較して破壊的な骨リモデリングを引き起こさないことを示し、CAT治療の生物学的安全性を支持する。治療法比較の観点：CATとFOTの骨リモデリングパターンが同等であることを示し、CATの臨床的正当性を裏付ける。",
+      "study_type_ja": "後ろ向き研究（retrospective investigation）",
+      "endpoints_ja": "パノラマX線写真における下顎大臼歯部、角部、関節頭部のフラクタル次元（FD）値の変化（T0 vs T1）",
+      "endpoint_results_ja": "下顎大臼歯部：T0・T1いずれにおいてもCAT群とFOT群間に有意差なし（p > 0.05）、群内比較でも有意なFD変化なし。角部：T0・T1いずれにおいてもCAT群とFOT群間に有意差なし（p > 0.05）、群内比較でも有意なFD変化なし。関節頭部：群内比較では有意差なし（p > 0.05）だが、群間比較ではCAT群とFOT群間に統計的に有意な差を認めた（p ≤ 0.05）。破壊的な骨リモデリングの所見は認められなかった。",
+      "sample_size_ja": "76例（CAT群：n=34、FOT群：n=42）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-24T23:21:09Z"
+    },
+    {
+      "pmid": "42506571",
+      "title": "Functionalization of a Shape-Memory 3D-Printed Clear Aligner Resin with Silanized Chitosan Nanoparticles: Antibacterial, Optical, Polymerization, and Mechanical Evaluation.",
+      "abstract": "Directly 3D-printed clear aligners are increasingly adopted for orthodontic treatment, but lack intrinsic antibacterial properties. This study investigates the integration of silanized chitosan nanoparticles (CSNPs) into 3D-printed clear aligner resin to improve antibacterial activity while preserving optical, polymerization, and mechanical performance. Commercial CSNPs were surface modified with 3-(trimethoxysilyl)propyl methacrylate and characterized using FTIR, UV-Vis, TEM, EDS, XRD, DLS and zeta-potential analysis. The silanized CSNPs were incorporated into TA-28 clear aligner resin at 0.01, 0.05, and 0.1 wt%. Antibacterial activity against Streptococcus mutans (S. mutans) and Porphyromonas gingivalis (P. gingivalis) was assessed using bacterial adherence and biofilm assay. Transparency, degree of conversion, tensile and flexural properties were evaluated. Successful silanization was confirmed by characterization analyses. The incorporation of silanized CSNPs reduced bacterial adherence and biofilm formation significantly in comparison with the control group (p < 0.001). The transparency was maintained at 0.01 and 0.05 wt% but reduced significantly at 0.1 wt% (p < 0.001). While all nano-modified groups had a lower DC% than the control group, values remained above 75%. Mechanical performance showed improvements, particularly in stiffness and flexural properties, following nanoparticle incorporation. Among the tested concentrations, the 0.05 wt% CSNPs provided the most favorable overall performance, highlighting their potential for the development of next-generation bioactive clear aligners.",
+      "journal": "Journal of functional biomaterials",
+      "authors": "Azeez Saya Mustafa, Mudhir Anees Mahmood",
+      "pub_date": "2026-07-16",
+      "doi": "10.3390/jfb17070345",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42506571/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "702f3b9b9d7741805e0eafc4f2bce4728cb404e177ed1970f89a92de02aa2874",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "3Dプリント型マウス（クリアアライナー）レジンにシラニル化キトサンナノ粒子（CSNPs）を0.01、0.05、0.1 wt%で添加し、抗菌活性の向上と光学特性・重合度・機械的特性の維持を評価した。Streptococcus mutansおよびPorphyromonas gingivalisに対する細菌付着・バイオフィルム形成を指標に抗菌活性を評価し、透明度、重合度（DC%）、引張・曲げ特性を測定した。",
+      "key_takeaway_ja": "0.05 wt%のシラニル化CSNPs添加が、抗菌活性の有意な向上（p < 0.001）と透明度・機械的特性の維持を同時に実現し、次世代バイオアクティブクリアアライナー開発において最も好ましい総合性能を示した。",
+      "why_matters_ja": "3Dプリントアライナーの材料品質と安全性の観点から、抗菌機能の付与が光学特性・重合度・機械的特性を損なわずに可能であることが示された。特に0.05 wt%でDC%が75%以上を維持しつつ抗菌効果が得られることは、アライナーの成形品質と患者安全性の両立に寄与する。",
+      "study_type_ja": "材料評価（in vitro）研究",
+      "endpoints_ja": "細菌付着量、バイオフィルム形成量（S. mutans、P. gingivalis）、透明度、重合度（DC%）、引張特性、曲げ特性",
+      "endpoint_results_ja": "細菌付着・バイオフィルム形成：対照群と比較して有意に減少（p < 0.001）。透明度：0.01および0.05 wt%では維持、0.1 wt%では有意に低下（p < 0.001）。DC%：全ナノ改質群で対照群より低値だが75%以上を維持。機械的特性：剛性及び曲げ特性が改善。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-24T23:21:40Z"
+    },
+    {
+      "pmid": "42464015",
+      "title": "The Impact of Malocclusion Severity on the Number of Prescribed, Used Aligners and Treatment Duration; A Retrospective, Singe-Centre, Cohort Study.",
+      "abstract": "OBJECTIVE: To assess the impact of baseline malocclusion severity on the number of prescribed, used aligners and treatment duration.\nMATERIALS AND METHODS: An unrestricted, independent search was conducted on the Invisalign ClinCheck database of a private practice for patients without any missing anterior teeth and whose treatment was finished between April 2021 and December 2024. Descriptive statistics were generated, and the feature selection Boruta algorithm (random forest algorithm) was implemented to identify important predictors for the number of aligners (prescribed, used) and treatment duration.\nRESULTS: A total of 404 patients were included (age: 29.57 [10.7] years). Mean numbers of prescribed, used and unused aligners were 72.21 (37.52), 65.63 (30.40) and 6.57 (14.09), respectively. Important predictors of the numbers of the prescribed and used aligners were relatively similar and included molar and canine relationships, maxillary crowding, overjet, presence and number of missing or extracted posterior teeth, overbite, presence and number of teeth in posterior crossbite and midline discrepancies. Treatment duration was associated with baseline maxillary crowding, molar and canine relationships, overjet, overbite, midline discrepancies and the presence and number of missing or extracted posterior teeth.\nCONCLUSIONS: Factors related to the baseline malocclusion severity significantly affect the number of prescribed, used aligners and treatment duration. This information could be used for informed practice and patient communication, including future evaluation of the biological and environmental footprint of aligners.",
+      "journal": "Orthodontics & craniofacial research",
+      "authors": "Gkinosati Angeliki Anna, Durgnat Candice, Koumpia Effimia, Pandis Nikolaos, Laspos Christodoulos, Papadopoulou Alexandra K",
+      "pub_date": "2026-07-16",
+      "doi": "10.1111/ocr.70167",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464015/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "clincheck",
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "20b81cb1aa9ab8268bddf58f53b7443bb373e341817a216de2a77c7ee049d7c2",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "2021年4月から2024年12月に治療が完了したInvisalign患者404例を対象とした後方視的単一施設コホート研究。ベースラインの不正咬合重症度が、処方アライナー数・使用アライナー数・治療期間に与える影響を評価した。Borutaアルゴリズム（ランダムフォレスト）を用いて予測因子の選定を行った。",
+      "key_takeaway_ja": "ベースラインの不正咬合重症度に関連する因子（臼歯・犬歯関係、上顎叢生、オーバージェット、後方歯の欠如・抜歯の有数、オーバーバイト、後方クロスバイト、中线不一致）が、処方・使用アライナー数および治療期間に有意に影響する。",
+      "why_matters_ja": "planned-vs-achieved: 処方アライナー数（平均72.21）と使用アライナー数（平均65.63）の差（平均6.57未使用）が定量的に示され、計画と実績の乖離を不正咬合重症度の観点から説明可能。教育: 結論で「informed practice and patient communication」が言及され、患者説明やインフォームドコンセントに活用可能。ワークフロー: どの不正咬合特徴がアライナー数・治療期間を駆動するかを特定することで、治療計画段階での予測精度向上に寄与。",
+      "study_type_ja": "後方視的単一施設コホート研究",
+      "endpoints_ja": "処方アライナー数、使用アライナー数、治療期間",
+      "endpoint_results_ja": "処方アライナー数平均 72.21（SD 37.52）、使用アライナー数平均 65.63（SD 30.40）、未使用アライナー数平均 6.57（SD 14.09）。処方・使用アライナー数の重要な予測因子：臼歯・犬歯関係、上顎叢生、オーバージェット、後方歯の欠如・抜歯の有数、オーバーバイト、後方クロスバイトの歯の有数、中线不一致。治療期間の関連因子：ベースライン上顎叢生、臼歯・犬歯関係、オーバージェット、オーバーバイト、中线不一致、後方歯の欠如・抜歯の有数。",
+      "sample_size_ja": "404例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-24T23:22:10Z"
+    },
+    {
+      "pmid": "42460461",
+      "title": "The effects of headgear treatment timing on costs and orthodontic outcome: a follow-up study.",
+      "abstract": "OBJECTIVE: To analyze the effects of cervical headgear (CHG) timing on costs and orthodontic outcome.\nMATERIAL AND METHODS: Sixty-seven participants with Class II malocclusion were randomized into two groups. In the early group (EG, n = 33), CHG treatment began after the eruption of first upper molars. In the later-timed group (LG, n = 34), CHG treatment began nearly 2 years later. Orthodontic outcome was evaluated when CHG ended and at the end of follow-up using the Peer Assessment Rating (PAR) index and Little's Irregularity Index (LII). Costs were calculated using medical records, estimated chairside times and average personnel and material costs.\nRESULTS: The mean total costs including personnel and material costs during the follow-up were higher in the EG (€416) compared with the LG (€364) (p = 0.043). No statistically significant differences between the groups were found in the PAR and in the LII scores at the end of follow-up. The number of visits during CHG treatment was higher in the EG (13.3) compared with the LG (10.4) (p = 0.01).\nCONCLUSIONS: Earlier initiation of CHG treatment increased the personnel and material costs, number of appointments, and chairside time. Based on the PAR and in the LII scores, the orthodontic outcome of CHG treatment was equal regardless of the timing of the treatment. If orthodontic treatment during mixed-dentition stage is considered, it would be justified from an economic perspective to favor treatment during late mixed-dentition.",
+      "journal": "Acta odontologica Scandinavica",
+      "authors": "Hannula Matti, Tolvanen Mimmi, Pirttiniemi Pertti, Pirilä-Parkkinen Kirsi, Silvola Anna-Sofia, Julku Johanna",
+      "pub_date": "2026-07-16",
+      "doi": "10.2340/aos.v85.46468",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42460461/",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Extraoral Traction Appliances",
+        "Follow-Up Studies",
+        "Female",
+        "Time Factors",
+        "Treatment Outcome",
+        "Malocclusion, Angle Class II",
+        "Male",
+        "Child",
+        "Orthodontics, Corrective"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "7fe1e3693572452a7ea7e21bbb689a25f8f0d463f1b26c740fa98135f83ea0c6",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "Class II不正咬合の67名を対象に、頚部ヘッドギア（CHG）の開始時期（早期群：上顎第一大臼歯萌出後 vs 遅延群：約2年後開始）がコストと矯正治療結果に与える影響を分析したランダム化比較試験のフォローアップ研究。PAR指数とLittle's Irregularity Index（LII）で治療結果を評価し、医療記録・診療時間・人件費・材料費からコストを算出した。",
+      "key_takeaway_ja": "CHGの早期開始は人件費・材料費・通院回数・診療時間を増加させたが、フォローアップ終了時のPAR指数とLIIスコアには群間差が認められず、治療時期にかかわらず矯正結果は同等であった。",
+      "why_matters_ja": "治療計画のタイミング決定（早期 vs 遅延混合歯列期）がワークフロー（通院回数・診療時間）とコストに直接影響を与える一方、治療結果には差がないことを示しており、治療計画の立案時に介入時期の最適化を検討する根拠となる。",
+      "study_type_ja": "ランダム化比較試験（フォローアップ研究）",
+      "endpoints_ja": "PAR指数、Little's Irregularity Index（LII）、総コスト（人件費・材料費）、CHG治療中の通院回数",
+      "endpoint_results_ja": "総コスト：早期群 €416 vs 遅延群 €364（p = 0.043）。PAR指数：群間に統計的有意差なし。LIIスコア：群間に統計的有意差なし。CHG治療中の通院回数：早期群 13.3回 vs 遅延群 10.4回（p = 0.01）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-24T23:22:32Z"
+    },
+    {
+      "pmid": "42513480",
+      "title": "Assessment of the Effectiveness and Predictability of Maxillary Molar Distalization with Clear Aligner Systems: A Systematic Review of the Literature.",
+      "abstract": "Background/Objectives: Maxillary molar distalization is a commonly used orthodontic approach for correcting dentoalveolar Class II malocclusions. However, the predictability of such movements when performed with clear aligners remains uncertain. This systematic review aimed to identify the effectiveness and most predictable protocol for achieving maxillary molar distalization using clear aligner systems. In this review, effectiveness was defined as the amount of distal movement achieved (mm), while predictability was defined as the ratio between achieved and planned movement (%). Methods: A systematic review was conducted following the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement across PubMed-Medline, Scopus, Embase, Web of Science, and Cochrane Handbook databases, with no restrictions on language or publication date. The search was performed up to April 2026. Studies evaluating maxillary molar distalization with clear aligners were screened based on predefined eligibility criteria. Results: Of the 1388 articles initially identified, 16 met the inclusion criteria (11 retrospective cohort studies and 5 prospective experimental studies), comprising a total of 461 patients. Reported distalization effectiveness varied widely, ranging from 31.1% to 88.4%. A meta-analysis could not be performed owing to substantial clinical and methodological heterogeneity. Conclusions: Clear aligners can achieve maxillary molar distalization; however, the effectiveness decreases as greater distal movement is prescribed, making it unlikely that the clinician's ideal plan will be fully realized. The use of auxiliary elements, such as Class II elastics, attachments, or skeletal anchorage devices, may reduce anterior proclination and enhance posterior anchorage. Longer aligner-wear intervals (e.g., 14 days) were associated with higher predictability in several of the included studies, although the current evidence is insufficient to establish this interval as definitively superior.",
+      "journal": "Journal of clinical medicine",
+      "authors": "Badía I Martí Pau, Bellot-Arcís Carlos, Tarazona-Álvarez Beatriz, Paredes-Gallardo Vanessa, Zamora-Martínez Natalia",
+      "pub_date": "2026-07-15",
+      "doi": "10.3390/jcm15145568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42513480/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "2ed96825522dd96717c68b5e930ea27d275907a4aa8fa073c9bbcbacb8a4e37e",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "マキシラモラー遠心移動のクリアアライナー治療における有効性と予測可能性を評価したシステマティックレビュー。PRISMA準拠でPubMed-Medline、Scopus、Embase、Web of Science、Cochrane Handbookを2026年4月まで検索し、1388件中16件（後方視コホート11件、前方視実験5件）が基準を満たし、合計461例を包含した。有効性は達成された遠心移動量（mm）、予測可能性は計画移動量に対する達成移動量の比率（%）として定義された。臨床的・方法論的異質性が大きくメタ分析は実施できなかった。",
+      "key_takeaway_ja": "クリアアライナーによるマキシラモラー遠心移動は可能であるが、処方される遠心移動量が増えるほど有効性が低下し、臨床医の理想計画が完全に実現される可能性は低い。Class IIエラстик、アタッチメント、骨性アンカリング装置などの補助要素は前歯部傾斜を軽減し後方アンカリングを強化する可能性がある。長いアライナー装着間隔（例：14日）は複数の研究で高い予測可能性と関連したが、決定的に優越するとは結論できない。",
+      "why_matters_ja": "planned-vs-achieved：予測可能性（計画対達成比率）が31.1%〜88.4%と幅が広く、処方量が増えるほど乖離が拡大する点は治療計画の品質管理に直接関連する。refinement：補助要素（エラстик、アタッチメント、骨性アンカリング）の併用が前歯部傾斜の軽減と後方アンカリング強化に寄与する可能性が示唆され、計画段階での補助要素選択の根拠となる。",
+      "study_type_ja": "システマティックレビュー（メタ分析は異質性の高さにより実施不可）",
+      "endpoints_ja": "有効性（達成された遠心移動量、mm）、予測可能性（計画移動量に対する達成移動量の比率、%）",
+      "endpoint_results_ja": "Reported distalization effectiveness varied widely, ranging from 31.1% to 88.4%.",
+      "sample_size_ja": "461例（16研究：後方視コホート11件、前方視実験5件）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-24T23:23:27Z"
     },
     {
       "pmid": "42498769",
