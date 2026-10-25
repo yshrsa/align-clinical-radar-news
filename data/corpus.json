@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-24T23:19:08Z",
+  "generated_at_utc": "2026-10-25T23:18:54Z",
   "documents": [
     {
       "pmid": "42914787",
@@ -34,6 +34,37 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-24T23:19:29Z"
+    },
+    {
+      "pmid": "42907109",
+      "title": "Adherence rate and predictors of clear aligner wear in Canadian university and private practice settings: a survey development protocol.",
+      "abstract": "INTRODUCTION: Clear aligners (CAs) are a popular orthodontic treatment due to their aesthetic appeal and perceived convenience; however, patient adherence remains a challenge. This study protocol aims to assess distal and proximal determinants of intended and actual CAs wear among adolescents currently undergoing treatment or who completed treatment within the past 3 months at the University of Alberta’s Graduate Orthodontics Program and private clinics in Edmonton, Alberta.\nMETHODS AND ANALYSIS: This study follows AMEE Guide No. 87 for survey development and is grounded in the Integrative Model of Behavioral Prediction (IMBP). The study includes six steps. Step 1 involves a scoping review to summarise the literature on adherence to removable appliances, including CAs, identify research gaps and inform survey development on behavioural determinants such as barriers, facilitators and perceived costs and benefits. Step 2 includes semistructured interviews with current and former adolescent patients to explore attitudes, subjective norms and perceived barriers, analysed using inductive manifest content analysis. Step 3 synthesises findings from the scoping review and interviews to guide survey development. Step 4 focuses on survey item development, incorporating direct and indirect questions to assess IMBP constructs. Step 5 establishes survey validity and reliability through expert review, adolescent cognitive interviews and internal consistency assessment using Cronbach’s alpha. Step 6 includes survey administration and analysis. The validated survey will be administered via a web-based platform to adolescents in university and private practice settings. Descriptive statistics will summarise determinants, while multiple regression and path modelling will examine associations with intended and actual CAs wear.\nETHICS AND DISSEMINATION: This study was approved by the Health Research Ethics Board of the Mike Petryk School of Dentistry, University of Alberta (Study ID: Pro00154830). Findings will be disseminated through infographics, digital platforms, in-person displays, professional reports, conference presentations and peer-reviewed dental journals.",
+      "journal": "BMJ open",
+      "authors": "Tiwari Akriti, Ng Enoch, Perez-Garcia Arnaldo, Flores-Mir Carlos",
+      "pub_date": "2026-10-21",
+      "doi": "10.1136/bmjopen-2026-126657",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907109/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "8aaaa758214c3ead0fe969b8c4b8f2ae8429ffcd1d6e9810bc0ce9b5ac46b371",
+      "fetched_at_utc": "2026-10-25T23:18:54Z",
+      "updated_at_utc": "2026-10-25T23:18:54Z",
+      "summary_ja": "カナダ・エドモントのアルバータ大学大学院矯正プログラムおよび民間クリニックにおいて、現在治療中または過去3ヶ月以内に治療を完了した青少年の透明マウスピース（CA）装着遵守率の遠因・近因を評価するための調査開発プロトコル。AMEEガイドNo.87に従い、行動予測統合モデル（IMBP）に基づき、スコーピングレビュー、半構造化インタビュー、調査項目開発、妥当性・信頼性検証、調査実施・分析の6段階で構成される。",
+      "key_takeaway_ja": "本論文は調査開発プロトコルであり、透明マウスピース装着遵守の行動決定要因（障壁・促進要因・認知コスト・ベネフィット）を評価するための検証済み調査の開発手法を記述している。結果は報告されていない。",
+      "why_matters_ja": "透明マウスピースの装着遵守（planned-vs-achieved）は治療計画の達成に直結する重要な要素であり、本プロトコルは遵守の行動決定要因を体系的に評価する調査開発を目的としている。患者教育（barriers, facilitators, perceived costs and benefits）の観点から、遵守率向上に向けた介入の根拠となる知見が期待される。",
+      "study_type_ja": "調査開発プロトコル（survey development protocol）",
+      "endpoints_ja": "意図的CA装着（intended CA wear）および実際のCA装着（actual CA wear）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-25T23:19:12Z"
     },
     {
       "pmid": "42904403",
@@ -258,6 +289,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-10T13:24:23Z"
+    },
+    {
+      "pmid": "42924223",
+      "title": "Effects of cleaning protocols on the material properties of clear aligners and retainers: A systematic review.",
+      "abstract": "Clear aligners and retainers are widely used in contemporary orthodontics because of their esthetic appearance, removability, and patient-centered advantages. However, repeated exposure to dietary pigments and cleaning procedures may alter their optical, surface, mechanical, and chemical properties, potentially affecting appliance appearance, hygiene, and performance. This systematic review evaluated changes in the material properties of clear aligners and retainers following different cleaning protocols. Electronic searches were performed in PubMed, Scopus, LILACS, and the Cochrane Library from inception to February 28, 2026. Twenty studies were included, comprising 18 in vitro studies and 2 randomized clinical crossover studies. Cleaning protocols were categorized as mechanical, chemical, sonic or ultrasonic, and combined approaches. Optical and surface properties were the most frequently assessed outcomes, whereas evidence regarding mechanical properties, water absorption or mass change, and chemical composition remained limited. Across studies, the magnitude and direction of material changes varied according to appliance material, manufacturing method, cleaning modality, exposure duration, and outcome measurement. Mechanical brushing, particularly with toothpaste, was frequently associated with surface alteration, whereas chemical cleaning produced material- and exposure-dependent effects. Evidence regarding sonic or ultrasonic cleaning and directly printed aligners remained limited. Because most available evidence was derived from heterogeneous in vitro studies, no specific cleaning protocol can currently be considered universally optimal or supported by sufficient clinical evidence for routine recommendation. Future studies should adopt standardized designs, incorporate clinically relevant intraoral simulations, integrate biological and material outcomes, and further investigate additive manufacturing-related factors, particularly through adequately powered prospective clinical studies with standardized outcome measures.",
+      "journal": "Journal of dental sciences",
+      "authors": "Chiang Yao-Chang, Nguyen Tu Manh, Ho Thuy-Trang Thi, Lu Loc Minh, Wu Yang-Che, Chow Tong-Hsien, Lee Chiang-Wen, Fan Fang-Yu",
+      "pub_date": "2026-10-01",
+      "doi": "10.1016/j.jds.2025.07.3575",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924223/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "retention-relapse"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "fc49503e7eec9588ec4492a598fa3b9cb236458250dffc01bb1569d34eaa85f1",
+      "fetched_at_utc": "2026-10-25T23:18:54Z",
+      "updated_at_utc": "2026-10-25T23:18:54Z",
+      "summary_ja": "透明マウスピースとリテーナーの材料特性（光学特性、表面特性、機械的特性、化学的組成）が異なるクリーニングプロトコルによってどのように変化するかを評価したシステマティックレビュー。PubMed、Scopus、LILACS、Cochrane Libraryから2026年2月28日までに公開された文献を検索し、20研究（in vitro 18研究、ランダム化クロスオーバー臨床試験2研究）を含む。クリーニングプロトコルは機械的、化学的、超音波/高周波、複合アプローチに分類された。光学特性と表面特性が最も頻繁に評価されたが、機械的特性、吸水率・質量変化、化学的組成に関するエビデンスは限定的であった。",
+      "key_takeaway_ja": "現在のところ、特定のクリーニングプロトコルが普遍的に最適であると判断できる十分な臨床エビデンスは存在しない。",
+      "why_matters_ja": "安全性：クリーニングによる材料特性の変化（光学、表面、機械的、化学的）がアプライアンスの外観、衛生状態、性能に影響し得ることを示唆。ワークフロー：患者へのクリーニング指導がアプライアンスの耐久性と治療性能に関わるため、臨床現場でのプロトコル標準化の必要性が示唆される。",
+      "study_type_ja": "システマティックレビュー（in vitro 18研究、ランダム化クロスオーバー臨床試験2研究を含む）",
+      "endpoints_ja": "光学特性、表面特性、機械的特性、吸水率・質量変化、化学的組成",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-25T23:19:41Z"
     },
     {
       "pmid": "42821041",
@@ -3500,7 +3565,16 @@
       "japan_relevant": false,
       "content_sha256": "2dfbad4762c45591d74eeafd35c8073856b880ab015d115f22d1eea1a1ba146e",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "LCD 3Dプリンター3機種（2K、4K、8K）で印刷した歯科模型の真度（trueness）と精度（precision）を比較し、矯正治療における臨床的適性を評価したin-vitro研究。口腔内スキャン由来のマスターデジタル模型と再スキャンした印刷模型をGeomagic Control Xで表面重ね合わせし、点偏差とRMS分析により評価した。",
+      "key_takeaway_ja": "8K LCDプリンターが最も高い真度と精度を示し（RMS 0.121 mm）、矯正模型・クリアアライナー用に信頼できることが示された。2Kは0.25 mmの許容誤差を超過した。",
+      "why_matters_ja": "planned-vs-achievedの観点：3D印刷模型の寸法精度はクリアアライナーの設計意図と実物との一致に直接影響する。8Kが0.25 mm以内、2Kが超過した結果は、治療計画の忠実な再現（refinement）にプリンター解像度が重要な変数であることを示す。ワークフローの観点：模型製造工程の品質管理基準（0.25 mm閾値）の妥当性を裏付ける。",
+      "study_type_ja": "In-vitro研究",
+      "endpoints_ja": "真度（trueness）と精度（precision）：点偏差およびRMS分析",
+      "endpoint_results_ja": "平均RMS値：2K = 0.266 ± 0.015 mm、4K = 0.223 ± 0.017 mm、8K = 0.121 ± 0.012 mm（p < 0.001）。0.25 mmの誤差限界は4K・8Kで許容範囲内、2Kは超過（p < 0.05）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-25T23:20:12Z"
     },
     {
       "pmid": "42465581",
@@ -3528,7 +3602,16 @@
       "japan_relevant": false,
       "content_sha256": "9aaccbd7c81ffbd81d5778a4500cf0f22731e13d6275c30c9f6187d855a3aa17",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "下顎切歯抜歯後に生じた歯肉陥凹に対し、歯周形成外科（結合組織プラットフォーム法）を正畸的スペースクローズ前に施行し、その後Invisalignアライナーによる正畸治療を行った28歳女性患者の症例報告。治療完了後3年間のフォローアップで、機能・審美的な長期安定性が確認された。",
+      "key_takeaway_ja": "下顎切歯抜歯後の歯肉陥凹は、正畸的スペースクローズ前に歯周形成外科（結合組織プラットフォーム法）を施行し、その後Invisalignアライナーによる正畸治療を組み合わせることで、3年間の長期安定性を達成できる。",
+      "why_matters_ja": "治療計画のワークフローにおいて、歯周形成外科を正畸的スペースクローズの前に位置づけることで、抜歯後の歯肉陥凹を事前に処理し、その後の正畸治療の安定性を確保できる。3年間のフォローアップで計画された結果（機能・審美的安定性）が達成されたことを示しており、planned-vs-achievedの観点でも意義がある。",
+      "study_type_ja": "症例報告",
+      "endpoints_ja": "治療完了後3年時点での機能・審美的な長期安定性（レントゲン写真および臨床検査による評価）",
+      "endpoint_results_ja": "抄録に具体的な数値は記載されていない。3年時点のレントゲン写真および臨床検査により、機能・審美的な長期安定性が確認されたと記載。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-25T23:20:35Z"
     },
     {
       "pmid": "42462346",
@@ -3566,7 +3649,16 @@
       "japan_relevant": false,
       "content_sha256": "6a6c0f293e5869b1f72eaef90c259a61bfccc9487a98237671e7241f6bf4af83",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "Angle Class II高角型不正咬合の成人患者のCBCTデータに基づき、上顎弓・歯根膜・上顎骨・マウスピース・ミニインプラント・トラクションボタンの3次元有限要素モデルを構築し、上顎全顎圧入における各種ミニインプラントアンカリング配置の生体力学的影響をシミュレーションした。3つのアンカリングカテゴリ（補助アンカリングなし、後方のみアンカリング、前歯-後方併用アンカリング）について、歯の移動量と歯根膜の静水圧分布を評価した。",
+      "key_takeaway_ja": "後方両側アンカリングが最もbodilyな後方圧入を生み、側切歯-後方アンカリングがアーチ全体の最適圧入と前歯の矢状方向傾斜の軽減を達成した。前歯部へのミニインプラント配置は前歯傾斜を防止し後方圧入を促進するが、歯根吸収リスクが増加する。",
+      "why_matters_ja": "治療計画の品質（planned intrusionの達成可能性）に直接関連する。アンカリング配置の違いによる圧入量と歯の傾斜の予測は、planned-vs-achievedの乖離を縮小する計画設計の根拠となる。また、前歯部アンカリングに伴う歯根吸収リスクの指摘は安全性の観点で計画時の注意喚起に寄与する。",
+      "study_type_ja": "有限要素解析（計算シミュレーション研究）",
+      "endpoints_ja": "歯の移動量（tooth displacement）、歯根膜の静水圧分布（PDL hydrostatic pressure distribution）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例（成人患者のCBCTデータに基づく有限要素モデル）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-25T23:21:08Z"
     },
     {
       "pmid": "42458399",
@@ -3605,7 +3697,16 @@
       "japan_relevant": false,
       "content_sha256": "9e589ab3a38b86945062d3f21dcf0c6325815f0f808b65f9adde208bf72829ad",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "前歯部開咬（1〜4mm）をクリアアライナーで治療した25名の成人患者（男性11名、女性14名、平均年齢32.67±10.67歳）を対象に、治療前（T1）と治療後（T2）のCBCTスキャン計50枚を後向きに解析した研究。Blue Sky Planソフトウェアによる半自動セグメンテーションと3-maticソフトウェアによる3次元重ね合わせを行い、12本の前歯の根体体積を測定し、体積変化率を算出した。",
+      "key_takeaway_ja": "クリアアライナーによる前歯部開咬治療において、全前歯で有意な根体体積減少が認められたが、犬歯が最も大きく（上顎犬歯 -6.33±2.58%、下顎犬歯 -6.75±2.33%）、全体的には臨床的に無視できる範囲の軽度減少であった。男性で有意に大きな減少を認め、年齢や切歯移動量との有意な相関はなかった。",
+      "why_matters_ja": "安全性の観点：前歯部開咬症例におけるクリアアライナー治療のOIERRリスクを3次元体積で定量化し、臨床的に無視できる範囲であることを示したことで、開咬適応症例の治療計画における安全性のエビデンスを補強する。計画品質の観点：開咬症例の計画時に犬歯の根吸収リスクを考慮する根拠となる。",
+      "study_type_ja": "後向きCBCT解析研究（retrospective CBCT study）",
+      "endpoints_ja": "前歯12本の根体体積変化率（治療前vs治療後）、顎骨・歯列パラメータの変化、測定再現性（ICC）",
+      "endpoint_results_ja": "上顎犬歯: -6.33±2.58%、上顎中切歯: -5.91±4.93%、上顎側切歯: -5.50±3.24%、下顎犬歯: -6.75±2.33%、下顎側切歯: -5.58±3.20%、下顎中切歯: -4.86±2.54%。男性で全前歯に有意に大きな根体体積減少（p<0.05）。年齢との有意な相関なし。測定再現性：検者内ICC 0.90-0.94、検者間ICC 0.92-0.96（p<0.001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-25T23:21:52Z"
     },
     {
       "pmid": "42442043",
@@ -3631,7 +3732,16 @@
       "japan_relevant": false,
       "content_sha256": "5364275ae96cadce2688586e9d884e630cb5fc08cab5bd7073791d2518fb6c76",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "PRISMA 2020およびSWiMガイドラインに従い実施されたシステマティックレビュー。透明マウスピース矯正の第1シリーズ後のリファインメント関連アウトカムに関連する臨床的・生力学的・デジタル的因子を体系的に同定・評価・統合した。PubMed/MEDLINE、Embase、Scopus、Web of Science、Cochrane Library、Google Scholarを検索し、20件の研究を含む。リファインメント関連アウトカムは定義が異質であり、リファインメントアライナー、追加アライナー、フィニッシングフェーズ、リファインメントプラン、ミッドコース補正、第1リファインメントスキャンが含まれた。リファインメント負荷は不正咬合の複雑性、抜歯治療、IPR戦略、重度のスペース、大きな補正シーケンス、移動特異的な限界と関連する可能性が示された。遠隔モニタリングは通院負担を軽減したが、リファインメントの必要性を一貫して減少させなかった。",
+      "key_takeaway_ja": "第1アライナーシリーズ後のリファインメントは、均一なフィニッシング手順ではなく、多因子の臨床的アウトカムとして解釈すべきである。患者・歯・移動・治療計画レベルの予測因子を明確にするために、標準化された定義と前向き研究が必要である。",
+      "why_matters_ja": "planned-vs-achieved：計画と達成の乖離（planned-versus-achieved discrepancies）を明示的に包含するアウトカムとして位置づけ、リファインメントの多因子性を示した。リファインメント：リファインメント負荷に関連する臨床的・生力学的因子を体系的に統合し、回転・圧入・垂直補正・横方向拡大・選択的前歯移動の予測可能性の低さを示した。計画品質：治療計画レベルの予測因子の必要性を結論として提示した。ワークフロー：遠隔モニタリングが通院負担を軽減するがリファインメント必要性を一貫して減少させないという知見を報告した。",
+      "study_type_ja": "システマティックレビュー（SWiM、メタ分析なし）",
+      "endpoints_ja": "リファインメント関連アウトカム（リファインメントアライナー、追加アライナー、フィニッシングフェーズ、リファインメントプラン、ミッドコース補正、第1リファインメントスキャン）、計画と達成の乖離（planned-versus-achieved discrepancies）、治療継続アウトカム",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-25T23:22:15Z"
     },
     {
       "pmid": "42425535",
@@ -3653,7 +3763,16 @@
       "japan_relevant": false,
       "content_sha256": "8e35f9f5fba2a2b64470c5ff41437bea929f5432eac664e866178e34616d7288",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "骨格II類不正咬合を有する成長期患者70名（Activator群 n=37、MA群 n=33）を対象に、Activatorとマンドイブラルアドバンセメント（MA）クリアアライナーの歯骨格・軟組織への効果を、3D顔面画像と2D頭部X線側面写真分析により比較した後ろ向き臨床研究。",
+      "key_takeaway_ja": "MAはActivatorよりも上顎切歯の傾斜改善と顔面プロファイルの審美性改善においてより有効であった。",
+      "why_matters_ja": "計画品質の観点：骨格II類不正咬合の成長期患者において、MAとActivatorのどちらを選択するかという治療計画の意思決定に直接関連する。上顎切歯の傾斜改善や顔面プロファイルの審美性改善を優先する場合はMAが優位であるというエビデンスは、治療計画時のアプライアンス選択の根拠となる。",
+      "study_type_ja": "後ろ向き臨床研究（比較研究）",
+      "endpoints_ja": "軟組織変化（3D顔面画像による全顔および7つの軟組織領域の分析、2D頭部X線側面写真による軟組織評価）、歯骨格効果（U1-SN、オーバージェット、軟組織凸度、sl-VL）",
+      "endpoint_results_ja": "軟組織凸度の矯正：MA 2.57°。sl-VL：MAがActivatorより0.97 mm多く増加。U1-SN：MA 5.57°、Activator 3.51°。オーバージェット：MA 3.49 mm、Activator 2.25 mm。",
+      "sample_size_ja": "70名（Activator群 n=37、MA群 n=33）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-25T23:22:55Z"
     },
     {
       "pmid": "42425217",
