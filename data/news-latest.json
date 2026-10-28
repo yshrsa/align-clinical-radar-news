@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-27T00:34:11Z",
+  "generated_at_utc": "2026-10-28T00:38:27Z",
   "items": [
     {
       "pmid": "42914787",
@@ -103,6 +103,68 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-23T00:02:06Z"
+    },
+    {
+      "pmid": "42942638",
+      "title": "Thermomechanical Comparison of PET-G and TC-85 Orthodontic Aligner Materials.",
+      "abstract": "This study combined thermomechanical characterisation with finite element analysis to compare polyethylene terephthalate glycol (PET-G) and Tera Harz TC-85 orthodontic aligner materials. Tensile properties were evaluated at 23, 37, 55 and 80 °C, with five observations per material and temperature. Identical full-arch geometries with a nominal thickness of 0.75 mm were subjected to 600 N compression at 300 K, heating under maintained load to 352 K and cooling to 310 K. At 23 °C, tensile moduli were 1396.4 ± 44.9 MPa for PET-G and 675.4 ± 21.2 MPa for TC-85. Dynamic mechanical analysis (DMA) loss-tangent maxima occurred at sampled temperatures of 80 and 45 °C. Tensile and DMA moduli diverged at elevated temperatures. Initial maximum effective strains were 0.165 and 0.196, and medium-to-fine mesh changes were 1.78% and 2.61%. TC-85 showed a greater reduction in maximum strain following heating to 78.85 °C. Recovery benchmark values at 60 min were 63.3% for PET-G and 92.5% for TC-85; paired-series metrics quantified curve agreement. PET-G exhibited higher tensile stiffness, whereas TC-85 exhibited greater benchmark recovery and a larger thermal-stage strain reduction. The high-temperature endpoint represents ex vivo activation. Constitutive and experimental limitations constrain extrapolation to clinical appliance performance.",
+      "journal": "Polymers",
+      "authors": "Aşkın Melis Büşra, Görgülü Serkan, Duran Gökhan Serhat",
+      "pub_date": "2026-10-14",
+      "doi": "10.3390/polym18202517",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942638/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "b46f31be72799b411aa2d6c49c77c1474c7f3e698b3345c66c17c9304a92972d",
+      "fetched_at_utc": "2026-10-28T00:33:37Z",
+      "updated_at_utc": "2026-10-28T00:33:37Z",
+      "summary_ja": "PET-GとTC-85の2種類の矯正アライナー材料について、熱機械的特性評価（23/37/55/80℃での引張試験、DMA）と有限要素解析（0.75mm厚のフルアーチジオメトリに600N圧縮荷重を300Kで施加し、352Kまで加熱後310Kまで冷却）を組み合わせ、材料特性を比較した研究。",
+      "key_takeaway_ja": "PET-Gは引張剛性が高い一方、TC-85は60分回復ベンチマーク値が92.5%（PET-Gは63.3%）と大きく、加熱段階での最大ひずみ減少も大きい。高温エンドポイントはex vivo活性化を代表する。",
+      "why_matters_ja": "planned-vs-achievedの観点：回復ベンチマーク値（PET-G 63.3% vs TC-85 92.5%）は、熱活性化後にアライナーが設計形状へどれだけ回復するかを示し、計画された歯移動量と実際の力伝達に直接関連する。安全性の観点：最大有効ひずみ（0.165/0.196）と加熱後のひずみ減少は、材料の破損リスクや患者への力学的安全性の評価に寄与する。",
+      "study_type_ja": "in vitro（熱機械的特性評価）＋計算解析（有限要素解析）",
+      "endpoints_ja": "引張弾性率（23/37/55/80℃）、DMA損失タンジェント最大値、初期最大有効ひずみ、メッシュ収束率（medium-to-fine）、60分回復ベンチマーク値",
+      "endpoint_results_ja": "23℃引張弾性率：PET-G 1396.4 ± 44.9 MPa、TC-85 675.4 ± 21.2 MPa。DMA損失タンジェント最大値：80℃と45℃で観測。初期最大有効ひずみ：0.165と0.196。medium-to-fineメッシュ変化率：1.78%と2.61%。60分回復ベンチマーク値：PET-G 63.3%、TC-85 92.5%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-28T00:34:20Z"
+    },
+    {
+      "pmid": "42942590",
+      "title": "Per-Layer UV Exposure-Dependent Cytotoxicity of 3D-Printed Aligner Resins and Estrogen-like Activity Screening.",
+      "abstract": "Per-layer UV exposure during 3D printing may influence polymerization and the biological response of photocurable aligner resins. This study evaluated exposure-dependent cytotoxicity of Tera Harz TC-85 and NextDent Ortho Flex and performed an exploratory screening of selected resin-specific printing conditions for ER-selective estrogen-like responses. TC-85 was printed at 2.0, 2.4, 3.0, and 4.0 s per layer, and Ortho Flex at 5.0, 6.0, 7.0, and 8.0 s per layer. The resin-specific per-layer UV exposure ranges were selected based on our previous physicochemical characterization of the same materials and printing system. Extracts were prepared according to ISO 10993-12. Cytotoxicity was assessed in human gingival fibroblasts using the MTT assay, while selected conditions (TC-85, 2.4 s; Ortho Flex, 7.0 s) were evaluated in estrogen receptor (ER)-positive MCF-7 and ER-negative MDA-MB-231 cells as an exploratory screening assay rather than a direct test of ER activation. For both resins, per-layer exposure condition, extract concentration, and their interaction significantly affected the normalized MTT response. At 50% extract concentration, normalized MTT responses ranged from 89.2% to 111.3%, whereas Ortho Flex ranged from 8.8% to 76.8%, with the 8.0 s condition being the only Ortho Flex condition above the 70% cytotoxicity threshold. Ortho Flex showed pronounced cytotoxicity in concentrated extracts, particularly at shorter exposure times, whereas TC-85 showed a less monotonic exposure-dependent pattern. In the exploratory screening, the 6.25% Ortho Flex extract produced a normalized MCF-7 MTT response of 129.1%, but this was comparable with the corresponding saline vehicle response of 137.0% and was not statistically greater than the response in ER-negative MDA-MB-231 cells. No statistically supported ER-selective response was detected for either tested resin under the specific screening conditions; however, exposure-time dependence of this response was not evaluated. Per-layer UV exposure therefore influenced the HGF-1 MTT response in a resin- and concentration-dependent manner. For dental laboratory practice, these findings support the use of resin-specific, validated printing parameters rather than transferring exposure settings between materials; deviations from manufacturer-specified processing conditions should be independently validated before clinical use.",
+      "journal": "Polymers",
+      "authors": "Šimunović Luka, Marić Antun Jakob, Meštrović Senka",
+      "pub_date": "2026-10-10",
+      "doi": "10.3390/polym18202469",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942590/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "9dc464e0c223e8df5b2b815a0b65e9899073adaf0e5ac92ecef55c3f4771195a",
+      "fetched_at_utc": "2026-10-28T00:33:37Z",
+      "updated_at_utc": "2026-10-28T00:33:37Z",
+      "summary_ja": "3Dプリントにおける層あたりUV露光時間が光硬化型アライナーレジン（Tera Harz TC-85とNextDent Ortho Flex）の細胞毒性に与える影響を評価し、選択された条件についてエストロゲン受容体（ER）選択的なエストロゲン様応答の探索的スクリーニングを行った。TC-85は2.0、2.4、3.0、4.0 s/層、Ortho Flexは5.0、6.0、7.0、8.0 s/層でプリントされた。抽出液はISO 10993-12に準拠して調製され、ヒト歯肉線維芽細胞におけるMTT法で細胞毒性を評価した。選択条件（TC-85 2.4 s、Ortho Flex 7.0 s）については、ER陽性MCF-7細胞とER陰性MDA-MB-231細胞を用いた探索的スクリーニングとして評価した。",
+      "key_takeaway_ja": "層あたりUV露光時間はレジン種および抽出液濃度に依存してMTT応答に有意に影響した。Ortho Flexは短時間露光条件で高濃度抽出液中に顕著な細胞毒性を示し、TC-85は露光時間依存性が単調ではなかった。いずれのレジンについても統計的に支持されるER選択的応答は検出されなかった。レジン固有の検証済みプリントパラメータの使用を支持する結果であり、材料間の露光設定の転用は避けるべきである。",
+      "why_matters_ja": "安全性：アライナー用レジンにおける層あたりUV露光時間と細胞毒性の関連が示され、臨床使用における材料安全性評価の観点で重要。ワークフロー：レジン固有の検証済みプリントパラメータの使用が推奨され、材料間で露光設定を転用すべきでないという知見は、アライナー製造工程の品質管理に直接関連する。",
+      "study_type_ja": "in vitro研究（細胞毒性評価および探索的スクリーニング）",
+      "endpoints_ja": "ヒト歯肉線維芽細胞における正規化MTT応答（細胞毒性）；ER陽性MCF-7細胞およびER陰性MDA-MB-231細胞における正規化MTT応答（ER選択的エストロゲン様応答の探索的スクリーニング）",
+      "endpoint_results_ja": "TC-85：50%抽出液濃度で正規化MTT応答は89.2%〜111.3%の範囲。Ortho Flex：50%抽出液濃度で8.8%〜76.8%の範囲、8.0 s条件のみ70%細胞毒性閾値を上回った。探索的スクリーニング：6.25% Ortho Flex抽出液でMCF-7の正規化MTT応答は129.1%、生理食塩車体対照は137.0%、ER陰性MDA-MB-231細胞との差は統計的に有意でなかった。いずれのレジンにも統計的に支持されるER選択的応答は検出されなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-28T00:35:12Z"
     },
     {
       "pmid": "42850342",
@@ -470,6 +532,83 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-10T13:26:22Z"
+    },
+    {
+      "pmid": "42936730",
+      "title": "Effectiveness of Contemporary Invisalign® Clear Aligners for Derotation and Deep Bite Correction of Different Degrees of Severity in Adolescents and Adults: A Retrospective Clinical Study.",
+      "abstract": "Introduction Clear aligners have evolved substantially with improvements in aligner materials, digital treatment planning, and optimized attachments. However, the predictability of complex movements such as tooth derotation and deep bite correction remains variable. This study evaluated the effectiveness of contemporary Invisalign® clear aligners (Align Technology, Inc., Tempe, AZ) for these movements and examined factors associated with treatment accuracy. Materials and methods This retrospective clinical study included 50 patients treated with contemporary Invisalign® clear aligners. Twenty-five patients were classified as growing and 25 as non-growing. Treatment accuracy was determined by comparing the predicted and achieved tooth movements using a digital model assessment. Derotation accuracy was evaluated according to the growth status, rotational severity, tooth type, and dental arch. Deep bite correction accuracy was assessed according to growth status, severity, anterior and posterior attachments, incisor proclination, and posterior extrusion. Non-parametric statistical tests were used, with statistical significance set at p < 0.05. Results Derotation accuracy did not differ significantly between growing and non-growing patients (82.61% vs. 83.59%; p = 0.218). Accuracy differed significantly according to rotational severity (p < 0.001), with median values of 88.83%, 78.61%, and 61.77% for mild, moderate, and severe rotation, respectively. The difference in tooth type was also significant (p = 0.005). Deep bite correction accuracy did not differ according to growth status (69.0% vs. 61.5%; p = 0.633) but differed significantly according to severity (p = 0.026), with median accuracies of 100.0%, 66.7%, and 57.5% for mild, moderate, and severe cases, respectively. For deep bite correction, the severity of the initial deep bite and mandibular incisor proclination was significantly associated with treatment accuracy. Conclusion Contemporary Invisalign® clear aligners were effective for derotation and deep bite correction, although their accuracy decreased with increasing treatment severity.",
+      "journal": "Cureus",
+      "authors": "Chhaya Shweta, Sharma Tanvi, Palande Supriya, Pakolu Swati, Agawane Pranali, Vandekar Meghna",
+      "pub_date": "2026-09-26",
+      "doi": "10.7759/cureus.116953",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936730/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "predictability",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "bd19535911cb88f745d735a88d0a8bf16b900eb6769e4110f1b8b01d27ae06b7",
+      "fetched_at_utc": "2026-10-28T00:33:37Z",
+      "updated_at_utc": "2026-10-28T00:33:37Z",
+      "summary_ja": "現代のInvisalign®クリアアライナーによる歯の回転矯正（derotation）と深覆蓋（deep bite）矯正の有効性を、成長期と非成長期の患者で比較検討した後ろ向き臨床研究。50例を対象に、デジタルモデル評価により予測された歯の移動と実際に達成された移動を比較し、治療精度を評価した。回転矯正の精度は成長状態間で有意差はなかったが、回転の重症度により有意に異なり（軽度88.83%、中等度78.61%、重度61.77%）、歯の種類によっても有意差があった（p=0.005）。深覆蓋矯正の精度は成長状態間で有意差はなかったが、重症度により有意に異なり（軽度100.0%、中等度66.7%、重度57.5%）、初期深覆蓋の重症度と下顎切歯の唇側傾斜が治療精度と有意に関連した。",
+      "key_takeaway_ja": "現代のInvisalign®クリアアライナーは回転矯正と深覆蓋矯正に有効であるが、治療の重症度が増すにつれて精度が低下する。",
+      "why_matters_ja": "planned-vs-achieved: デジタルモデル評価により予測移動と達成移動を直接比較し、治療精度を定量的に評価している。planning quality: 回転の重症度、歯の種類、初期深覆蓋の重症度、下顎切歯の唇側傾斜といった治療計画の要素が精度に与える影響を明らかにしており、計画段階での重症度に応じた期待値設定や計画調整の根拠となる。",
+      "study_type_ja": "後ろ向き臨床研究（retrospective clinical study）",
+      "endpoints_ja": "回転矯正（derotation）の精度、深覆蓋（deep bite）矯正の精度",
+      "endpoint_results_ja": "回転矯正精度：成長期 vs 非成長期 82.61% vs 83.59%（p=0.218）。重症度別中央値：軽度88.83%、中等度78.61%、重度61.77%（p<0.001）。歯の種類による差は有意（p=0.005）。深覆蓋矯正精度：成長期 vs 非成長期 69.0% vs 61.5%（p=0.633）。重症度別中央値：軽度100.0%、中等度66.7%、重度57.5%（p=0.026）。",
+      "sample_size_ja": "50例（成長期25例、非成長期25例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-28T00:35:44Z"
+    },
+    {
+      "pmid": "42940625",
+      "title": "Dentoalveolar Transverse Changes in Adolescents Treated with Fixed Appliances or Clear Aligners: A Retrospective Comparative Study.",
+      "abstract": "Background: Dentoalveolar transverse constriction is frequently encountered during orthodontic treatment in adolescents. Although both fixed appliances and clear aligners can produce transverse dental arch changes, comparative evidence regarding their expansion patterns in growing patients remains limited. This study aimed to compare dentoalveolar transverse changes associated with two fixed treatment groups and two clear aligner systems in an adolescent population. Methods: This retrospective, non-randomized comparative study included 85 adolescents treated without extractions using conventional MBT fixed appliances (n = 22), Damon Q passive self-ligating appliances (n = 19), Invisalign (n = 21), or ClearCorrect (n = 23). Pretreatment (T0) and post-treatment (T1) digital dental models obtained using a 3Shape TRIOS intraoral scanner were evaluated for maxillary and mandibular transverse arch dimensions, projected palatal area, and maxillary first-molar crown inclination. Intergroup differences in treatment-related changes were compared among the four treatment groups. Results: Significant increases in maxillary transverse dimensions were observed after treatment in all four groups. The greatest mean increases at several maxillary levels were observed in the Damon Q group, including intercanine width (3.66 ± 1.34 mm) and first-molar width (3.69 ± 1.70 mm). In the ClearCorrect group, the mean increases were 3.12 ± 1.90 mm for intercanine width and 2.46 ± 1.42 mm for first-molar width. Projected palatal area increased in all groups, with the greatest mean increase observed with Damon Q (115.16 ± 29.70 mm2). Exploratory assessment of maxillary first-molar clinical crown inclination showed comparatively smaller changes in the ClearCorrect group than in the other treatment groups. Conclusions: All four treatment groups demonstrated increases in dentoalveolar transverse dimensions in this adolescent sample, although the magnitude and pattern of the observed changes differed among groups. Greater transverse increases at several maxillary levels were observed in the Damon Q group, whereas comparatively smaller changes in posterior crown inclination were observed in the ClearCorrect group. Because skeletal maturation was not directly assessed and an untreated control group was unavailable, these findings represent comparative changes observed during treatment and cannot distinguish appliance-related effects from physiological growth or other treatment-related factors.",
+      "journal": "Children (Basel, Switzerland)",
+      "authors": "Sari Ömer Faruk, Buyukcavus Muhammed Hilmi",
+      "pub_date": "2026-09-25",
+      "doi": "10.3390/children13101306",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42940625/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "clearcorrect",
+        "invisalign"
+      ],
+      "matched_companies": [
+        "Align Technology",
+        "Straumann Group"
+      ],
+      "focal_related": true,
+      "matched_topics": [
+        "scanning-digital-workflow"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "30fe81650b421e0ab5d88e1615a4f20e481e431ccbed8c30e51ddaa275a78b63",
+      "fetched_at_utc": "2026-10-28T00:33:37Z",
+      "updated_at_utc": "2026-10-28T00:33:37Z",
+      "summary_ja": "思春期患者85名を対象に、MBT固定装置、Damon Qパッシブセルフリゲイティング装置、Invisalign、ClearCorrectの4群で、治療前後の歯槽骨横径変化（上顎・下顎横径、投影口蓋面積、上顎第一大臼歯冠傾斜）を比較した後ろ向き非ランダム比較研究。",
+      "key_takeaway_ja": "4群すべてで上顎横径の有意な増加が認められたが、Damon Q群で犬歯間幅（3.66 mm）および第一大臼歯間幅（3.69 mm）の増加が最大であり、ClearCorrect群では後方歯冠傾斜の変化が相対的に小さかった。",
+      "why_matters_ja": "各治療モダリティによる横径拡大の量とパターンを把握することは、治療計画時の期待値設定（計画品質）に参考となる。ただし、本抄録にはplanned-vs-achievedの乖離、refinement、教育、安全性、ワークフローに関する直接的な記述はない。",
+      "study_type_ja": "後ろ向き非ランダム比較研究",
+      "endpoints_ja": "上顎・下顎の横径（犬歯間幅、第一大臼歯間幅）、投影口蓋面積、上顎第一大臼歯冠傾斜",
+      "endpoint_results_ja": "Damon Q群：犬歯間幅 3.66 ± 1.34 mm、第一大臼歯間幅 3.69 ± 1.70 mm、投影口蓋面積 115.16 ± 29.70 mm²。ClearCorrect群：犬歯間幅 3.12 ± 1.90 mm、第一大臼歯間幅 2.46 ± 1.42 mm。",
+      "sample_size_ja": "85名（MBT固定装置 n=22、Damon Q n=19、Invisalign n=21、ClearCorrect n=23）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-28T00:36:26Z"
     },
     {
       "pmid": "42782313",
@@ -2742,6 +2881,50 @@
       "summary_generated_at_utc": "2026-10-20T00:34:15Z"
     },
     {
+      "pmid": "42934690",
+      "title": "Effectiveness of using bite turbos on temporary implant crowns for intrusion in clear aligner therapy: a clinical retrospective study.",
+      "abstract": "OBJECTIVE: This retrospective study aimed to evaluate whether aligner-incorporated bite turbos placed on implant-supported temporary crowns improve the predictability of maxillary molar intrusion during clear aligner treatment (CAT).\nMETHODS: 80 adult patients treated with clear aligners were included and divided into two groups: no-BT (n = 45) and bite turbo (BT) (n = 35). Digital models were superimposed using palatal rugae-based registration in OnyxCeph (Image Instruments, Chemnitz, Germany). Planned and achieved intrusion, lack of correction, and molar inclination were analyzed. Intra- and inter-examiner reliability were assessed using the intraclass correlation coefficient (ICC).\nRESULTS: No statistically significant differences were observed between BT and control groups in planned intrusion (p = 0.184), lack of correction (p = 0.953), or achieved inclination (p = 0.137).\nCONCLUSIONS: Within the limitations of this retrospective study, aligner-incorporated bite turbos on temporary prosthetic crowns did not significantly improve elongated maxillary molar intrusion during clear aligner therapy.",
+      "journal": "BMC oral health",
+      "authors": "Jarmakienė Goda, Kirlys Robertas, Oliva Giorgio, Beil Anastasija, D'Antò Vincenzo, Gnusins Vitalijs",
+      "pub_date": "2026-07-28",
+      "doi": "10.1186/s12903-026-09419-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934690/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Retrospective Studies",
+        "Crowns",
+        "Humans",
+        "Tooth Movement Techniques",
+        "Female",
+        "Adult",
+        "Male",
+        "Molar",
+        "Dental Prosthesis, Implant-Supported",
+        "Maxilla"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "ddcff68ee9be34eae3bc60f4b1b4f43f6f4e144eb2b1d7bca071f90099ae24c9",
+      "fetched_at_utc": "2026-10-28T00:33:37Z",
+      "updated_at_utc": "2026-10-28T00:33:37Z",
+      "summary_ja": "透明マウスピース治療（CAT）における上顎大臼歯の圧入の予測可能性を、インプラント支持の仮冠に装着したアライナー一体型バイトターボ（BT）が改善するかを評価した後ろ向き研究。80名の成人患者をBTなし群（n=45）とBT群（n=35）に分類し、OnyxCephにて口蓋リッジベースの登録でデジタルモデルを重ね合わせ、計画圧入量・達成圧入量・未修正量・大臼歯傾斜を解析した。",
+      "key_takeaway_ja": "仮補綴冠にアライナー一体型バイトターボを装着しても、透明マウスピース治療における延長した上顎大臼歯の圧入を有意に改善しなかった。",
+      "why_matters_ja": "planned-vs-achieved：計画圧入量と達成圧入量、未修正量を直接比較し、補助装置が計画と達成の乖離を縮小するかを評価している。refinement：特定の臨床介入（バイトターボ）が圧入の予測可能性を向上させるかというrefinementの観点に直接関連する。",
+      "study_type_ja": "後ろ向き臨床研究",
+      "endpoints_ja": "計画圧入量、達成圧入量、未修正量、大臼歯傾斜（達成傾斜）",
+      "endpoint_results_ja": "BT群と対照群の間で、計画圧入量（p=0.184）、未修正量（p=0.953）、達成傾斜（p=0.137）に統計的に有意な差は認められなかった。",
+      "sample_size_ja": "80名の成人患者（BTなし群：n=45、BT群：n=35）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-28T00:36:50Z"
+    },
+    {
       "pmid": "42582325",
       "title": "Evaluation of bonding of clear aligner attachments on aesthetic crown materials: a systematic review of in vitro studies.",
       "abstract": "OBJECTIVES: This study aims to assess the impact of various surface roughening treatments and bonding agents on aesthetic crown materials for the bonding of clear aligner attachments in orthodontic treatment. The primary objective is to assess their impact on shear bond strength, and the secondary objective is to assess their effect on surface roughness.\nMETHODS: This systematic review of literature (2015-2025) followed the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines. Data were collected from scientific articles investigating the impact of various surface roughening procedures on the bond strength and surface roughness for clear aligner attachments bonded to aesthetic crown materials. The articles were retrieved from three databases: Scopus, PubMed, and Web of Science. Risk of bias was assessed using the QUIN bias assessment tool for dental in vitro studies.\nRESULTS: The results of the included articles were organised into tables in Word under the headings of author, country, material used, intervention(s), and results. The findings showed a positive increase in bond strength and surface roughness following surface treatments.\nCONCLUSION: This systematic review concludes that etching with hydrofluoric acid for 1 min and bonding with Filtek Z350 composite resin result in relatively higher bond strength and surface roughness. These findings may assist orthodontists in enhancing the bond strength of clear aligner attachments to aesthetic crown materials, hence improving orthodontic tooth movement. No external or internal funding was received for this review. It is registered with PROSPERO under the registration ID CRD420251174624.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251174624, identifier CRD420251174624.",
@@ -4029,6 +4212,73 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-27T00:34:09Z"
+    },
+    {
+      "pmid": "42398221",
+      "title": "Thermoformed versus directly 3D-printed clear aligner materials: A comparative in vitro study of thermomechanical behaviour, chemical extractables, and shape-memory performance.",
+      "abstract": "OBJECTIVE: To compare thermoformed polyurethane aligners (Zendura®) and directly 3D-printed shape-memory aligners (TC-85™) in terms of thermomechanical behaviour, chemical extractables, and shape-recovery performance.\nMATERIAL AND METHODS: In this in vitro comparative study, standardized specimens (n=22/group) were evaluated using differential scanning calorimetry (Tg, ΔCp), gas chromatography-mass spectrometry (ISO 4049 extractables), and shape-recovery testing at multiple temperatures; time-dependent stress relaxation under constant strain (2% tensile strain, 180min, 37°C) was additionally evaluated as a viscoelastic measure of orthodontic force decay. Measurements were recorded at baseline and after 7 days of artificial saliva ageing. Statistical analysis was performed using parametric and non-parametric tests (P≤0.05).\nRESULTS: Both materials showed increased extractables after ageing (P<0.05). Zendura exhibited significantly higher cumulative extractables than TC-85™ (P<0.001). ΔCp remained stable in both groups, with higher values in TC-85™ (P<0.001). Tg remained stable for Zendura but decreased slightly for TC-85™ (P=0.043), with TC-85™ demonstrating lower Tg overall (P<0.001). Shape recovery decreased after ageing in both materials but remained significantly higher in TC-85™ (P<0.001). Under constant strain, TC-85™ underwent significantly less stress relaxation than Zendura® (27.2±0.5% vs. 41.3±0.4%; P<0.001) and retained a higher residual force at 180min (72.8% vs. 58.7%), indicating more sustained force delivery in vitro.\nCONCLUSION: Directly 3D-printed TC-85™ aligners demonstrated lower extractables, favourable thermal properties, greater resistance to stress relaxation, and superior shape-recovery behaviour compared with thermoformed Zendura® under short-term ageing conditions. These differences reflect material behaviour under standardized bench conditions and should not be interpreted as direct evidence of superior clinical force delivery or biocompatibility.",
+      "journal": "International orthodontics",
+      "authors": "Noushad Bismina, Juneja Achint, Raza Monis, Shahi Prashant Kumar, Kothari Ridhi, Mehra Prachi",
+      "pub_date": "2026-07-03",
+      "doi": "10.1016/j.ortho.2026.101204",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398221/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "c4e344ffa719bafb8ed1c061e6f5ea99458fb6f136be6abeca14d149e48fdf02",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "熱成形ポリウレタンアライナー（Zendura®）と直接3Dプリント形状記憶アライナー（TC-85™）の熱機械的挙動、化学抽出物、形状回復性能を比較したin vitro研究。標準化試料（n=22/群）を用い、DSC（Tg、ΔCp）、GC-MS（ISO 4049抽出物）、複数温度での形状回復試験、および一定ひずみ下（2%引張ひずみ、180分、37°C）の応力緩和を評価した。測定はベースラインと人工唾液老化7日後に行った。",
+      "key_takeaway_ja": "短期老化条件下で、直接3DプリントTC-85™アライナーは熱成形Zendura®と比較して、抽出物量が少ない、ΔCpが高い、Tgが低い、形状回復性能が高い、応力緩和が小さい（27.2±0.5% vs 41.3±0.4%）という材料特性を示した。ただし、著者はこれらの結果が臨床的な力伝達や生体適合性の優劣を直接示すものではないと明記している。",
+      "why_matters_ja": "planned-vs-achieved: 一定ひずみ下での応力緩和率（TC-85™ 27.2% vs Zendura® 41.3%）および180分後の残留力（72.8% vs 58.7%）は、アライナーの力伝達持続性に直接関連し、計画された歯移動量と達成量の乖離に寄与する材料要因として参考になる。安全性: ISO 4049に基づく化学抽出物の比較は、アライナー材料の生体適合性評価の基礎データとして関連する。ただし、本研究はin vitroの標準化ベンチ条件であり、臨床的な力伝達や生体適合性の優劣を直接示すものではないと著者が明記している点に注意が必要。",
+      "study_type_ja": "In vitro比較研究",
+      "endpoints_ja": "熱機械的挙動（Tg、ΔCp）、化学抽出物（ISO 4049）、形状回復性能、一定ひずみ下（2%引張ひずみ、180分、37°C）の応力緩和",
+      "endpoint_results_ja": "抽出物: 両材料とも老化後に増加（P<0.05）、Zendura®の累積抽出物がTC-85™より有意に高い（P<0.001）。ΔCp: 両群で安定、TC-85™で高い（P<0.001）。Tg: Zendura®は安定、TC-85™はわずかに低下（P=0.043）、TC-85™が全体的に低い（P<0.001）。形状回復: 両材料とも老化後に低下、TC-85™で有意に高い（P<0.001）。応力緩和: TC-85™ 27.2±0.5% vs Zendura® 41.3±0.4%（P<0.001）。180分後の残留力: TC-85™ 72.8% vs Zendura® 58.7%。",
+      "sample_size_ja": "n=22/群（標準化試料）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-28T00:37:27Z"
+    },
+    {
+      "pmid": "42464988",
+      "title": "Sustainable clear aligner practice in esthetic and prosthetic dentistry: a scoping review for practical implementation.",
+      "abstract": "PURPOSE: The purpose of this scoping review is to systematically map and synthesize the available evidence on sustainable practices in Clear Aligner Therapy (CAT), including materials, workflows, and end-of-life management with specific focus on material properties and clinical applications relevant to prosthodontic practice. It aims to systematically map the available evidence on sustainable practices in clear aligner therapy (CAT), including materials, workflows, and end-of-life management, with a specific focus on practical implementation and implications for pre-restorative and prosthodontic care.\nMATERIAL AND METHODS: Following PRISMA-ScR guidelines, databases including PubMed, Scopus, Web of Science, and Google Scholar were searched. In vitro, observational and clinical studies on sustainability and environmental impact of CAT were included. Extracted data included study characteristics, types of environmentally sustainable practices reported, key outcomes, and identified knowledge gaps.\nRESULT: Out of 419 records, 21 studies met the inclusion criteria. The field is emerging, with the majority (57.1%) published in 2024. Study designs included reviews (52.4%) and in-vitro studies (23.8%). Geographically, (38.1%) of the included studies were originated from India. Key sustainability drivers were environmental impact reduction and public health/well-being (each 61.9%). Reported environmental dimensions primarily focused on material/instrument use (57.1%) and chemical use (47.6%). However, significant knowledge gaps were identified, including a lack of standardized sustainability metrics, unproven clinical feasibility of biodegradable materials and recycling protocols, and an absence of validated frameworks connecting environmental practices to prosthodontic treatment planning.\nCONCLUSION: Sustainable CAT can reduce material and chemical burdens through digital workflows, the evidence base, largely comprising recent narrative and in-vitro studies, lacks the clinical data necessary to validate \"environmentally sustainable\" protocols, life-cycle impacts, and end-of-life recycling. Because significant knowledge gaps persist regarding standardized metrics and practical feasibility, direct clinical translation remains limited. Orthodontists can best advance sustainability by optimizing digital treatment planning to minimize aligner volume and utilizing structured clinical frameworks to guide responsible, minimally invasive pre-restorative care.\nCLINICAL IMPLICATIONS: Orthodontists should consider both material properties and environmental impact when selecting clear aligners for pre-restorative tooth positioning, occlusal therapy, or interdisciplinary treatment. The \"ProSustain-P\" framework provides practical guidance for implementing sustainable material practices in prosthodontic workflows, potentially reducing costs while addressing growing patient demand for environmentally responsible treatment options.",
+      "journal": "Frontiers in oral health",
+      "authors": "Taymour Noha, Abdelrahman Hams H, Hassan Dina G, Khalifa Ayman R, Abdelaziz Ahmed A, Ellabban Mohamed, El Zayat Mai, Hassan Mohamed G",
+      "pub_date": "2026-07-02",
+      "doi": "10.3389/froh.2026.1854402",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464988/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "scanning-digital-workflow",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "52874bf7ffbf396713298cfcc38d025397bc321b4667ac7454bf575f3070a4f2",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "Clear Aligner Therapy（CAT）における持続可能な実践（材料、ワークフロー、廃棄管理）に関する証拠を体系的にマッピング・統合したスコーピングレビュー。PRISMA-ScRガイドラインに従い、PubMed、Scopus、Web of Science、Google Scholarを検索し、419件中21研究が包含基準を満たした。本分野は新興であり、57.1%が2024年に発表。研究デザインはレビュー（52.4%）とin-vitro研究（23.8%）が中心。標準化された持続可能性指標の欠如、生分解性材料およびリサイクルプロトコルの臨床的実現性の未証明、環境実践と補綴治療計画を結ぶ検証済みフレームワークの不在といった知識ギャップが特定された。",
+      "key_takeaway_ja": "持続可能なCATの証拠基盤は主に最近のナラティブレビューとin-vitro研究から構成され、「環境的に持続可能な」プロトコル、ライフサイクル影響、廃棄リサイクルを検証するために必要な臨床データが不足している。標準化指標と実践的実現性に関する知識ギャップが持続しているため、直接的な臨床転用は限定的である。",
+      "why_matters_ja": "治療計画：デジタル治療計画を最適化してアライナー量を最小化することが、持続可能性を推進する最善の手段として提言されている。ワークフロー：デジタルワークフローによる材料・化学的負荷の低減が言及されており、補綴ワークフローにおける構造化臨床フレームワーク（ProSustain-P）の活用が示唆されている。",
+      "study_type_ja": "スコーピングレビュー（体系的レビュー）",
+      "endpoints_ja": "持続可能な実践の種類（材料、ワークフロー、廃棄管理）、環境影響次元（材料/器具使用、化学物質使用）、持続可能性ドライバー（環境影響低減、公衆衛生/ウェルビーイング）、知識ギャップの特定",
+      "endpoint_results_ja": "419件中21研究が包含基準を満たした。57.1%が2024年に発表。研究デザイン：レビュー52.4%、in-vitro研究23.8%。地理的分布：インド発38.1%。持続可能性ドライバー：環境影響低減61.9%、公衆衛生/ウェルビーイング61.9%。環境次元：材料/器具使用57.1%、化学物質使用47.6%。",
+      "sample_size_ja": "21研究（419件のスクリーニングから選出）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-28T00:38:26Z"
     },
     {
       "pmid": "42498769",
