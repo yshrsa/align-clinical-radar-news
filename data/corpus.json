@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-28T00:33:37Z",
+  "generated_at_utc": "2026-10-29T01:01:32Z",
   "documents": [
     {
       "pmid": "42914787",
@@ -609,6 +609,54 @@
       "sample_size_ja": "85名（MBT固定装置 n=22、Damon Q n=19、Invisalign n=21、ClearCorrect n=23）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-28T00:36:26Z"
+    },
+    {
+      "pmid": "42809687",
+      "title": "Feasibility of Non-surgical Orthodontic Management in Syndromic Skeletal Class III - A Case Report.",
+      "abstract": "Skeletal Class III malocclusions are frequently associated with craniosynostosis syndromes, resulting in distinctive facial and dental anomalies. Among these, Crouzon syndrome is characterised by mutations in the FGFR2 gene, leading to premature fusion of the cranial vault, cranial base, orbital and maxillary sutures. The phenotypic expression of this congenital condition varies according to the timing and pattern of sutural fusion. This report details the clinical features and management of a 16-year-old male patient presenting with moderate skeletal Class III malocclusion as a manifestation of Crouzon syndrome. The present case fell within the spectrum of conventional non-surgical management. Adjunctive chin cup therapy initiated after rapid maxillary expansion aided in controlling residual mandibular growth, contributing to a favourable outcome in a hypodivergent pattern. Functional and aesthetic outcomes were markedly enhanced, and the results remained stable at the one-year follow-up assessment. Excellent compliance over 36 months contributed to treatment success and stability.",
+      "journal": "Indian journal of dental research : official publication of Indian Society for Dental Research",
+      "authors": "Kumar Snigdha, Shastri Dipti, Singh Gulshan K",
+      "pub_date": "2026-09-25",
+      "doi": "10.4103/ijdr.ijdr_46_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809687/",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Malocclusion, Angle Class III",
+        "Adolescent",
+        "Palatal Expansion Technique",
+        "Cephalometry",
+        "Craniofacial Dysostosis",
+        "Chin",
+        "Follow-Up Studies",
+        "Mandible",
+        "Extraoral Traction Appliances",
+        "Treatment Outcome",
+        "Orthodontics, Corrective"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "bc8f665db212a75893065b031739480551abbbdced8a60c2221c11da89f0b2ba",
+      "fetched_at_utc": "2026-10-29T01:01:32Z",
+      "updated_at_utc": "2026-10-29T01:01:32Z",
+      "summary_ja": "Crouzon症候群を伴う16歳男性の中等度骨格性Class III不正咬合に対し、急速上顎拡大（RME）後に補助的下顎前方牽引装置（chin cup）を併用した非外科的矯正治療の症例報告。1年フォローアップで結果は安定し、36ヶ月にわたり良好なコンプライアンスが得られた。",
+      "key_takeaway_ja": "Crouzon症候群に伴う中等度骨格性Class III不正咬合は、非外科的治療のスペクトラム内にある場合、RMEとchin cupの併用により機能的・審美的に良好な結果が得られ、1年時点で安定性を示しうる。",
+      "why_matters_ja": "安全性の観点：症候群に伴う骨格性Class IIIに対し非外科的アプローチを選択し、1年フォローアップで安定を確認した。計画品質の観点：症候群由来の骨格性不正咬合において、非外科的治療の適応範囲（spectrum of conventional non-surgical management）を判断した治療計画の意思決定が示されている。",
+      "study_type_ja": "症例報告（Case Report）",
+      "endpoints_ja": "機能的・審美的アウトカム、1年フォローアップ時の安定性、36ヶ月間のコンプライアンス",
+      "endpoint_results_ja": "抄録に定量的な数値は記載されていない。記述のみ：「favourable outcome in a hypodivergent pattern」「functional and aesthetic outcomes were markedly enhanced」「results remained stable at the one-year follow-up assessment」「excellent compliance over 36 months」",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T01:02:00Z"
     },
     {
       "pmid": "42782313",
@@ -4311,7 +4359,16 @@
       "japan_relevant": false,
       "content_sha256": "e6182cd5e3aea86374875f0d625fde6134643b15903d04be7cc086dd79966061",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "PET-G/TPU複合シート（Zendura FLX）と単層TPUシート（Maxflex）の2種類のマウスピース用熱可塑性材料について、連続20回のサーモフォームサイクルにおける加熱時間の変動をin vitro条件下で評価した研究。両材料とも連続サイクルに伴い加熱時間が漸減し、材料固有の安定化閾値に到達した。安定化後の加熱時間は、両材料ともメーカー推奨時間より有意に長かった（p < 0.0001）。",
+      "key_takeaway_ja": "サーモフォーム加熱時間は連続サイクルに伴い減少し材料固有の安定化点に到達するが、実験条件下では両材料ともメーカー推奨加熱時間を超えており、繰り返し製造サイクル中にサーモフォーム挙動が動的に変化し得ることを示唆する。",
+      "why_matters_ja": "ワークフロー：連続製造サイクルにおける加熱時間の動的変動と安定化パターンを定量化し、製造プロセスの一貫性管理に示唆を与える。planned-vs-achieved：メーカー推奨加熱時間と実験的に決定された加熱時間の乖離を統計的に示し、推奨値と実際の挙動の不一致を明らかにする。",
+      "study_type_ja": "in vitro研究",
+      "endpoints_ja": "連続サーモフォームサイクルにおける加熱時間の変動、安定化サイクル数、安定化後の平均加熱時間、過渡期の線形減少率、メーカー推奨加熱時間との比較",
+      "endpoint_results_ja": "Zendura FLX：サイクル6以降に安定化、定常状態平均 64.59 ± 3.58 s。過渡期はサイクルあたり8.66 s減少（R² = 0.78）。Maxflex：サイクル12以降に安定化、定常状態平均 69.37 ± 1.12 s。過渡期はサイクルあたり4.17 s減少（R² = 0.97）。両材料の過渡期・定常期の加熱時間はSupplier-Recommended Thermoforming Timesより有意に長かった（p < 0.0001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T01:03:15Z"
     },
     {
       "pmid": "42460062",
@@ -4337,7 +4394,16 @@
       "japan_relevant": false,
       "content_sha256": "6c21296ad1449b9a0ecdedb5cd4f415eea66accf66ee6f7d680247140854a8b1",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "12〜18歳の軽〜中等度下顎前歯部叢生を有する78名の思春期患者を対象に、口腔内スキャン・バーチャル治療計画・クリアアライナー・AI支援リモートモニタリングを含むデジタル経路と、従来の固定式矯正装置の短期間（24週間）のアウトカムを比較した前向き非ランダム比較試験。",
+      "key_takeaway_ja": "デジタル経路と固定式装置は短期間の整列アウトカム（LII減少量）で同等であり、群間差0.80 mmは事前設定された臨床的有意性閾値1.2 mmに達しなかった。一方、デジタル経路は通院回数・チェアタイム・整列期間の短縮および患者・保護者満足度の向上を示した。",
+      "why_matters_ja": "ワークフロー：デジタル経路は通院回数（2.46回 vs 4.46回）、チェアタイム（93.1分 vs 170.8分）、整列期間（21.4週 vs 24.0週）で有意に短縮され、リソース効率の向上が示された。安全性：計画外通院はデジタル群で数値上少なく（2.6% vs 15.4%）、リモートモニタリングによる経過観察の有用性が示唆された。",
+      "study_type_ja": "前向き非ランダム比較試験",
+      "endpoints_ja": "主要アウトカム：Little's Irregularity Index（LII）の変化。副次アウトカム：治療期間、通院回数、チェアタイム、患者満足度、保護者満足度。",
+      "endpoint_results_ja": "LII減少量：デジタル群 5.09 ± 0.57 mm vs 従来群 4.29 ± 0.37 mm、群間差 0.80 mm（95% CI 0.59–1.02 mm）、事前設定の臨床的有意性閾値1.2 mmに達しなかった。通院回数：2.46回 vs 4.46回（p < 0.001）。チェアタイム：93.1分 vs 170.8分（p < 0.001）。整列期間：21.4週 vs 24.0週（p < 0.001）。患者満足度：8.85 vs 6.97（p < 0.001）。保護者満足度：92.3% vs 69.2%（p = 0.019）。計画外通院：2.6% vs 15.4%。",
+      "sample_size_ja": "78名（12〜18歳）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T01:03:51Z"
     },
     {
       "pmid": "42701688",
@@ -4361,7 +4427,16 @@
       "japan_relevant": false,
       "content_sha256": "14dd1545b7bebfaab2a7c7c60acc1cb90ebbdac8a9ed271fd4f24f6fc5a5c019",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "複合アタッチメントの幾何形状（楕円形・長方形）、配置（頬側・舌側）、およびサーマルプラスチックアライナーの厚さ（0.5mm・0.75mm）が上顎拡大における歯の移動と歯槽骨膜ストレスに与える影響を、3次元有限要素モデル（ANSYS R18.1）を用いて評価した計算機シミュレーション研究。",
+      "key_takeaway_ja": "アタッチメントの設計、配置、アライナー厚さが上顎拡大のバイオメカニクスに有意に影響することが示された（帰無仮説は棄却）。具体的には、犬歯と第一大臼歯ではアタッチメントなしの0.75mmアライナーで最大変位が観察され、第二大臼歯と臼歯では頬側長方形アタッチメント＋0.75mmアライナーでより大きな拡大と高いストレス集中が認められた。",
+      "why_matters_ja": "計画品質の観点：アタッチメントの形状・配置・アライナー厚さという治療計画パラメータが歯移動のバイオメカニクスに有意に影響するため、上顎拡大を伴う治療計画設計において、これらのパラメータの選択が計画された歯移動の達成可能性に直接関わる。",
+      "study_type_ja": "有限要素解析（計算機シミュレーション研究）",
+      "endpoints_ja": "犬歯・第一大臼歯・第二大臼歯・臼歯の最大変位、歯槽骨膜ストレス",
+      "endpoint_results_ja": "抄録に記載なし（定量的な数値は提示されていない。定性的には：犬歯・第一大臼歯の最大変位はアタッチメントなし0.75mmアライナーで最大、第二大臼歯・臼歯は頬側長方形アタッチメント＋0.75mmアライナーでより大きな拡大と高いストレス集中が観察された）",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T01:04:20Z"
     },
     {
       "pmid": "42374344",
@@ -4393,7 +4468,16 @@
       "japan_relevant": false,
       "content_sha256": "1937f0b6d4db0f47663b3463e663bb70412a6abfbc7bdd7e3a6554bcd3ba973f",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "コーヒー溶液への浸漬による4種類の正畸アタッチメント用レジンコンポジット（Aligner Connect、Estelite Sigma Quick、Universal Flo、Transbond XT）の色安定性を評価し、表面シーラント（Permaseal）の塗布が色安定性に与える影響を調べたin vitro探索的研究。96個の試作体をコーヒー溶液に浸漬し、1ヶ月・3ヶ月・6ヶ月の模擬時間点でCIEDE2000式による色差（∆E₀₀）を測定した。",
+      "key_takeaway_ja": "コーヒー溶液への曝露により、すべての試験アタッチメント用レジンコンポジットで臨床的に許容できないレベルの変色が生じた。コンポジットの種類が変色の程度を決定する重要な因子であり、表面シーラント（Permaseal）の塗布は変色耐性の向上に臨床的優位性を示さなかった。",
+      "why_matters_ja": "planned-vs-achievedの観点：クリアアライナー治療ではアタッチメントの色安定性が審美的アウトカムに直接影響するため、計画された審美結果と達成結果の乖離要因としてコンポジット選定が重要である。治療計画品質の観点：アタッチメント用コンポジットの種類が変色程度を決定する因子であることが示されたことで、治療計画段階での材料選定が審美的結果の予測精度に関わる。",
+      "study_type_ja": "in vitro比較研究（探索的）",
+      "endpoints_ja": "コーヒー溶液浸漬後の色差（∆E₀₀、CIEDE2000式）を1ヶ月・3ヶ月・6ヶ月の模擬時間点で測定",
+      "endpoint_results_ja": "すべてのレジンコンポジットで時間とともに統計的に有意な変色の増加（p < 0.05）。Transbond XT群がDay 6に最も高い∆E₀₀（13.57 ± 0.77）を示した。すべてのレジンコンポジットで∆E₀₀値が臨床的に許容される閾値1.8を超えた。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T01:04:51Z"
     },
     {
       "pmid": "42365272",
@@ -4437,7 +4521,16 @@
       "japan_relevant": false,
       "content_sha256": "e01f1ac444a0f010abdf1d9fa51f97be3c6b6f986086d4c95394ce270a140eb4",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "口呼吸誘発の高角骨格II類不正咬合を伴う思春期UARS患者におけるvan Beek Headgear Activator（VB）の包括的有効性を評価した比較研究。48例をVB群（30例）と対照群（18例）に分類し、基準時（T0）と治療後（T1）の側頭X線頭部写真、CBCT、ポリソムノグラフィー（PSG）、OSA-18スコアを用いて頭蓋顔面変化、上気道形態・機能、横径不調和、成長発育を比較した。",
+      "key_takeaway_ja": "VB装置は矢状方向（SNA平均1.62°減少、FH-NA中央値1.55°減少）、下顎成長刺激（Co-Go中央値3.70 mm増加）、横径上顎幅（T-W平均4.47 mm増加）において対照群より有意に大きな改善を示し、気道関連パラメータ（A/N、AHI、最小SpO₂、OSA-18）および成長発育指標（身長・体重パーセンタイル）においても対照群より有意に優れた改善を認めた。",
+      "why_matters_ja": "安全性の観点：VB群で身長・体重パーセンタイルの有意な上昇が認められ、成長への影響が評価されている。計画品質の観点：矢状・横径・気道・成長の多パラメータを包括的に評価するアプローチは、骨格II類かつ気道問題を伴う症例の治療計画における多面的評価の重要性を示唆する。",
+      "study_type_ja": "非ランダム化比較試験（対照群あり、前・後比較）",
+      "endpoints_ja": "矢状方向：SNA、FH-NA／下顎成長：Co-Go長／横径：T-W（上顎幅−下顎幅−5 mm）／気道：A/N比、AHI、最小SpO₂、OSA-18スコア／成長発育：身長・体重パーセンタイル",
+      "endpoint_results_ja": "VB群：SNA平均1.62°減少、FH-NA中央値1.55°減少（対照群との差 p<0.001）、Co-Go中央値3.70 mm増加（p<0.001）、T-W平均4.47 mm増加（p<0.001）。気道関連（A/N、AHI、最小SpO₂、OSA-18）は両群で有意改善（p≤0.01）し、VB群が対照群より有意に大きな改善（p<0.001）。身長・体重パーセンタイルはVB群で有意上昇（p<0.001）、対照群では変化なし。",
+      "sample_size_ja": "総数48例（VB群30例、対照群18例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T01:05:56Z"
     },
     {
       "pmid": "42351123",
