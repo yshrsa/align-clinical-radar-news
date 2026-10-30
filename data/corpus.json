@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-29T01:01:32Z",
+  "generated_at_utc": "2026-10-30T01:07:45Z",
   "documents": [
     {
       "pmid": "42914787",
@@ -105,6 +105,40 @@
       "summary_generated_at_utc": "2026-10-23T00:02:06Z"
     },
     {
+      "pmid": "42953520",
+      "title": "Sustainable orthodontics: direct environmental, material, and implementation evidence from a systematic review.",
+      "abstract": "Orthodontic care generates environmental burdens through polymer and metal consumption, single-use products, manufacturing, transport, energy use, and end-of-life disposal. This systematic review evaluated primary orthodontic evidence that directly measured environmental outcomes or examined implementation behavior explicitly related to environmental sustainability. PubMed/MEDLINE, Scopus, Web of Science Core Collection, EMBASE, and the Cochrane Library were searched from January 2010 through October 2025, with supplementary Google Scholar and reference-list screening. The corrected search used two reproducible concept blocks-orthodontics and environmental sustainability-without a human-subject filter so that laboratory and life-cycle studies remained eligible. Five primary studies met the revised PICOS criteria: two laboratory/material studies, one comparative life-cycle assessment, and two cross-sectional surveys. Incineration of used clear-aligner polymers produced measurable hazardous emissions; a comparative life-cycle assessment indicated that retainer selection was sensitive to product lifespan and system-boundary assumptions; and a shape-memory aligner material showed potential to reduce the number of appliances, although a complete life-cycle assessment was not performed. Survey evidence showed inadequate disposal knowledge and a persistent gap between favorable attitudes and routine sustainable practice. The evidence remains sparse, heterogeneous, and at some risk of selection, modeling, and self-report bias. Current findings support targeted action on aligner and retainer life cycles, disposal guidance, and implementation barriers, but stronger orthodontic-specific life-cycle studies and standardized environmental outcomes are required. Because eligibility was intentionally restricted to primary orthodontic studies with direct environmental outcomes or explicit sustainability-related implementation outcomes, the five included studies represent a highly selected evidence base rather than a comprehensive survey of all sustainability-related orthodontic literature. The 4D-printing finding is interpreted only as a potential appliance/material-reduction pathway; no net environmental benefit has yet been demonstrated. Systematic Review Registration: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251250285, identifier CRD420251250285.",
+      "journal": "Frontiers in oral health",
+      "authors": "Alam Mohammad Khursheed, Alsaeed Suliman, Hajeer Mohammad Younis, Abutayyem Huda, Alayyash Afnan, Alhajeri Khulood",
+      "pub_date": "2026-10-14",
+      "doi": "10.3389/froh.2026.1772579",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953520/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "retention-relapse"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "2e8fac978208a23cef9edf8b2589c3e7fc309265dab7d6032793557ff2aa28d6",
+      "fetched_at_utc": "2026-10-30T01:07:45Z",
+      "updated_at_utc": "2026-10-30T01:07:45Z",
+      "summary_ja": "2010年1月から2025年10月までのPubMed/MEDLINE、Scopus、Web of Science Core Collection、EMBASE、Cochrane Libraryを検索し、環境的持続可能性に関連する環境アウトカムを直接測定した、または明示的な持続可能性関連の実装行動を調査した一次正畸学証拠を評価した系統的レビュー。修正されたPICOS基準を満たした一次研究は5本（実験/材料研究2本、比較的生命周期評価1本、横断調査2本）であった。",
+      "key_takeaway_ja": "透明マウスピースポリマーの焼却により測定可能な有害排出物が生成され、リテイナー選択は製品寿命とシステム境界の仮定に敏感であることが示された。形状記憶マウスピース材料は装置数の削減の可能性を示したが、完全な生命周期評価は実施されていない。調査では廃棄知識の不足と、好意的態度と日常的な持続可能な実践の間の持続的なギャップが確認された。証拠は依然として希少で異質であり、選択バイアス、モデリングバイアス、自己報告バイアスのリスクがある。",
+      "why_matters_ja": "安全性：透明マウスピースポリマーの焼却による有害排出物の生成が報告されており、廃棄プロセスの安全性に関わる。ワークフロー：廃棄知識の不足と態度・実践のギャップが示され、持続可能な廃棄ガイダンスと実装障壁への対応が臨床ワークフローに求められる。",
+      "study_type_ja": "系統的レビュー",
+      "endpoints_ja": "環境的持続可能性に関連する環境アウトカム（焼却による有害排出物、生命周期評価結果、廃棄知識、態度と実践のギャップ）および明示的な持続可能性関連の実装行動",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-30T01:08:17Z"
+    },
+    {
       "pmid": "42942638",
       "title": "Thermomechanical Comparison of PET-G and TC-85 Orthodontic Aligner Materials.",
       "abstract": "This study combined thermomechanical characterisation with finite element analysis to compare polyethylene terephthalate glycol (PET-G) and Tera Harz TC-85 orthodontic aligner materials. Tensile properties were evaluated at 23, 37, 55 and 80 °C, with five observations per material and temperature. Identical full-arch geometries with a nominal thickness of 0.75 mm were subjected to 600 N compression at 300 K, heating under maintained load to 352 K and cooling to 310 K. At 23 °C, tensile moduli were 1396.4 ± 44.9 MPa for PET-G and 675.4 ± 21.2 MPa for TC-85. Dynamic mechanical analysis (DMA) loss-tangent maxima occurred at sampled temperatures of 80 and 45 °C. Tensile and DMA moduli diverged at elevated temperatures. Initial maximum effective strains were 0.165 and 0.196, and medium-to-fine mesh changes were 1.78% and 2.61%. TC-85 showed a greater reduction in maximum strain following heating to 78.85 °C. Recovery benchmark values at 60 min were 63.3% for PET-G and 92.5% for TC-85; paired-series metrics quantified curve agreement. PET-G exhibited higher tensile stiffness, whereas TC-85 exhibited greater benchmark recovery and a larger thermal-stage strain reduction. The high-temperature endpoint represents ex vivo activation. Constitutive and experimental limitations constrain extrapolation to clinical appliance performance.",
@@ -134,6 +168,51 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-28T00:34:20Z"
+    },
+    {
+      "pmid": "42920435",
+      "title": "The Use of Clear Aligner Therapy for Orthognathic Surgery Patients: A Cross-Sectional Survey Among Saudi Orthodontists and Oral and Maxillofacial Surgeons.",
+      "abstract": "BACKGROUND: Orthognathic surgery corrects severe skeletal discrepancies that cannot be addressed by orthodontics alone. With advancements in digital workflows and CAD/CAM technologies, clear aligner therapy (CAT) has emerged as a potential adjunct in surgical cases. However, its clinical application remains under-researched. This study aimed to exploratorily assess the knowledge, clinical experience, and attitudes of orthodontists and oral and maxillofacial surgeons in Saudi Arabia regarding CAT in orthognathic surgery patients.\nMETHODS: A cross-sectional survey was conducted from April 1 to May 31, 2023, using a closed-ended online questionnaire distributed to specialists across Saudi Arabia. The survey gathered demographic and clinical data. Statistical analysis included descriptive methods, chi-square testing, and univariate regression. Given the limited sample size, inferential analyses were performed for exploratory purposes and interpreted cautiously.\nRESULTS: Out of 278 invited participants, 46 complete responses (16.5%) were received, which was substantially lower than the calculated minimum sample size. Most participants were aged 31-40 years and had 6-10 years of experience. Orthodontists accounted for 65.2% of the respondents, with oral and maxillofacial surgeons at 34.8%. While most treated 1-4 orthognathic patients monthly, 80% had no experience using CAT in these cases Although CAT was commonly used in routine orthodontic practice, its application in orthognathic surgery cases was limited. Exploratory regression analysis suggested a possible association between clinician age and CAT usage (R 2 = 0.38), whereas gender and years of experience did not show clear associations.\nCONCLUSION: This exploratory survey provides preliminary insight into current clinician experience and perceptions regarding the use of clear aligner therapy in orthognathic surgery in Saudi Arabia. Given the low response rate and limited sample size, the findings should be interpreted cautiously as descriptive and hypothesis-generating rather than confirmatory, and larger multicenter studies are needed before any definitive conclusions can be drawn.",
+      "journal": "F1000Research",
+      "authors": "Salem Assari Ahmad, A Bin Rubaia'an Muslat, Taisir Al-Marhoun Diaa, Arafah Hayat, N Bin Saedan AlAnood, Dar Salamah Hajar, Mohammed Aljomiey Raneem",
+      "pub_date": "2026-10-14",
+      "doi": "10.12688/f1000research.170095.5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42920435/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cross-Sectional Studies",
+        "Saudi Arabia",
+        "Male",
+        "Adult",
+        "Female",
+        "Surveys and Questionnaires",
+        "Orthodontists",
+        "Orthognathic Surgical Procedures",
+        "Oral and Maxillofacial Surgeons",
+        "Orthognathic Surgery"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "scanning-digital-workflow"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "1a07ca34510aea85eb2b7649f09cdefab45535a337ecd2c255030c086af2ce7f",
+      "fetched_at_utc": "2026-10-24T23:19:08Z",
+      "updated_at_utc": "2026-10-30T01:07:45Z",
+      "summary_ja": "サウジアラビアの矯正歯科医と口腔顎顔面外科医を対象に、顎顔面外科手術患者におけるクリアアライナーセラピー（CAT）の知識・臨床経験・態度を評価した横断的調査。2023年4月1日〜5月31日にオンライン質問票を配布し、278名中46名（16.5%）から回答を得た。",
+      "key_takeaway_ja": "CATは通常の矯正治療では広く使用されているものの、顎顔面外科手術症例では80%の回答者が使用経験がなく、外科症例へのCAT導入は限定的である。",
+      "why_matters_ja": "ワークフロー：デジタルワークフローやCAD/CAM技術の進歩にもかかわらず、外科症例へのCAT適用が限定的であることが示された。教育：外科症例におけるCATの臨床経験の不足が明らかになり、教育・研修の必要性が示唆される。",
+      "study_type_ja": "横断的調査（クロスセクショナルサーベイ）",
+      "endpoints_ja": "顎顔面外科手術患者におけるCATの臨床経験・使用状況、臨床医の年齢とCAT使用との関連",
+      "endpoint_results_ja": "回答率16.5%（278名中46名）。CATを顎顔面外科症例で使用した経験がない回答者が80%。矯正歯科医65.2%、口腔顎顔面外科医34.8%。臨床医の年齢とCAT使用の関連でR²=0.38。性別と経験年数には明確な関連なし。",
+      "sample_size_ja": "46名（278名中、回答率16.5%）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-30T01:08:42Z"
     },
     {
       "pmid": "42942590",
@@ -2127,9 +2206,22 @@
       "doi": "10.1016/j.ajodo.2026.06.016",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42627321/",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Observational Study"
       ],
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Retrospective Studies",
+        "Incisor",
+        "Maxilla",
+        "Tooth Movement Techniques",
+        "Female",
+        "Young Adult",
+        "Adolescent",
+        "Male",
+        "Orthodontic Appliance Design",
+        "Adult"
+      ],
       "matched_assets": [
         "clincheck",
         "invisalign"
@@ -2143,18 +2235,18 @@
         "treatment-planning"
       ],
       "japan_relevant": false,
-      "content_sha256": "3ad8611e718cbae5851ecd5fac21cab4aa513ce46740d980f93bc7754f4de2c4",
+      "content_sha256": "f557e34ba086380f12e14eb70c8ee6362997f7a0a6c76c0fddefea74ae32c5c4",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "永久上顎側切歯（PMLI）のスペースオープニングにおけるInvisalignの予測可能性を評価した後方視観察コホート研究。ClinCheckのデジタル治療計画データを用い、初期・予測・達成されたスペースオープニング量を比較した。混合効果モデル、等価性検定、Bland-Altman解析を適用した。",
-      "key_takeaway_ja": "PMLIのスペースオープニングにおいて、予測値の約65.2%〜69.8%しか達成されておらず、予測値と達成値の平均差は0.9±1.0 mm〜1.4±1.2 mmで統計的に有意であった（P<0.05）。ClinCheckのスペースオープニング予測は過大評価傾向にある。",
-      "why_matters_ja": "planned-vs-achievedの乖離が明確に示されており、PMLIのスペースオープニング計画においてClinCheckの予測値が実際より過大であることが定量的に確認された。これは治療計画の品質評価やリファインメント判断の根拠となる。",
-      "study_type_ja": "後方視観察コホート研究",
+      "updated_at_utc": "2026-10-30T01:07:45Z",
+      "summary_ja": "永久上顎側切歯（PMLI）のスペースオープニングにおけるInvisalign（Align Technology）の予測可能性を評価した後ろ向き観察コホート研究。ClinCheckデジタル治療計画ソフトウェアから初期・予測・達成値を取得し、Geomagic計測システムで測定値を算出。混合効果モデル、等価性検定、Bland-Altman解析を用いて予測値と達成値の差を評価した。",
+      "key_takeaway_ja": "PMLIのスペースオープニングにおいて、予測値の約65.2%〜69.8%しか達成されておらず、予測値と達成値の平均差は0.9±1.0 mm〜1.4±1.2 mm（P<0.05）で統計的に有意な乖離が認められた。",
+      "why_matters_ja": "planned-vs-achievedの観点：ClinCheckが予測するPMLIのスペースオープニング量が臨床で完全に達成されないことが定量的に示され、治療計画の精度評価およびリファインメント判断の根拠となる。",
+      "study_type_ja": "後ろ向き観察コホート研究",
       "endpoints_ja": "PMLIのスペースオープニング量（予測値 vs 達成値）、犬歯の角度変化（予測値 vs 達成値）、中切歯の角度変化（予測値 vs 達成値）",
-      "endpoint_results_ja": "PMLIスペースオープニング：予測値の65.2%〜69.8%が達成、予測値と達成値の平均差は0.9±1.0 mm〜1.4±1.2 mm（P<0.05）。18歳未満の犬歯角度変化：平均差9.4±9.1°、95%一致限界-8.4°〜+27.2°（P=0.015）。18歳以上の犬歯角度変化：平均差5.3±6.4°（有意差なし）。18歳未満の中切歯角度変化：平均差-0.1±8.0°（有意差なし）。18歳以上の中切歯角度変化：平均差-4.8±7.6°（有意差なし）。",
-      "sample_size_ja": "25例（41本のPMLI）、平均年齢21.2±13.0歳",
+      "endpoint_results_ja": "PMLIスペースオープニング：予測値の約65.2%〜69.8%が達成、予測値と達成値の平均差は0.9±1.0 mm〜1.4±1.2 mm（P<0.05）。18歳未満の犬歯角度変化：平均差9.4±9.1°、95%一致限界-8.4°〜+27.2°（P=0.015）。18歳以上の犬歯角度変化：平均差5.3±6.4°（有意差なし）。18歳未満の中切歯角度変化：平均差-0.1±8.0°（有意差なし）。18歳以上の中切歯角度変化：平均差-4.8±7.6°（有意差なし）。",
+      "sample_size_ja": "25例の患者における41本のPMLI（平均年齢21.2±13.0歳）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-16T23:42:27Z"
+      "summary_generated_at_utc": "2026-10-30T01:09:48Z"
     },
     {
       "pmid": "42652837",
@@ -2649,6 +2741,52 @@
       "summary_generated_at_utc": "2026-10-18T23:24:44Z"
     },
     {
+      "pmid": "42550109",
+      "title": "Corticotomy-assisted rapid maxillary expansion and maxillary protraction therapy in late adolescence: Evaluation of 3-dimensional stereophotogrammetric soft-tissue, cephalometric, and 2-dimensional airway changes: A prospective controlled clinical trial.",
+      "abstract": "INTRODUCTION: This study aimed to assess the short-term 3-dimensional (3D) stereophotogrammetric soft-tissue, cephalometric, and airway effects of corticotomy-assisted rapid maxillary expansion (RME) and facemask (FM) therapy in late-adolescent patients with Class III malocclusion.\nMETHODS: This prospective controlled clinical trial included 16 late-adolescent patients with Class III malocclusion (mean age, 14.90 ± 0.64 years) treated with corticotomy-assisted RME and Petit-type FM therapy and 16 untreated Class III controls (mean age, 14.03 ± 0.90 years). Lateral cephalograms and 3D stereophotogrammetric records were obtained at pretreatment and posttretment or at corresponding time points during the observation period. Paired t tests or Wilcoxon signed rank tests were used for within-group comparisons, and independent t tests or Mann-Whitney U tests were used for between-group comparisons (P <0.05).\nRESULTS: In the corticotomy group, SNA (2.36°), A-Na perp (2.67 mm), ANB (4.08°), SN-GoGn (3.41°), and overjet (5.97 mm) increased, whereas SNB (-1.71°), Pg-Na perp (-2.61 mm), and IMPA (-4.32°) decreased. A 3D soft-tissue analysis revealed increases in ANB angle (2.50°), maxillary length (1.16 mm), mandibular height (2.94 mm), and nasal ala and alar base width (1.57 and 1.97 mm), whereas mandibular corpus length (-2.58 mm), facial convexity (-4.84°), and bigonial width (-3.94 mm) decreased. After treatment, bilateral Al showed lateral displacement along the horizontal (x) axis, whereas bilateral alare curvature and subnasale showed anterior displacement along the sagittal (z) axis, with nonsignificant 2.5 mm between-group difference observed at Pg. An approximately 1-mm increase in nasopharyngeal airway length was observed, but no significant between-group differences were found.\nCONCLUSIONS: Despite reduced growth potential, corticotomy-assisted RME and FM therapy produced measurable short-term skeletal and 3D soft-tissue improvements in patients with true skeletal Class III malocclusion in late adolescence and may serve as an intermediate adjunctive option; however, long-term stability and randomized comparative data are required.",
+      "journal": "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+      "authors": "Çoban Gökhan, Kaba Yusuf Nuri, Öztürk Taner, Hashimli Nizami, Topçuoğlu Hashimli Ebru, Türker Gökhan, Cengiz Saniye Merve, Demirbaş Ahmet Emin",
+      "pub_date": "2026-08-04",
+      "doi": "10.1016/j.ajodo.2026.05.014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42550109/",
+      "publication_types": [
+        "Journal Article",
+        "Controlled Clinical Trial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cephalometry",
+        "Palatal Expansion Technique",
+        "Adolescent",
+        "Prospective Studies",
+        "Malocclusion, Angle Class III",
+        "Female",
+        "Imaging, Three-Dimensional",
+        "Male",
+        "Photogrammetry",
+        "Extraoral Traction Appliances",
+        "Maxilla",
+        "Treatment Outcome"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "f073c432e87c654974764bfae6183169b8ceef3552aa9e60aa545e11b893f742",
+      "fetched_at_utc": "2026-10-30T01:07:45Z",
+      "updated_at_utc": "2026-10-30T01:07:45Z",
+      "summary_ja": "後期思春期のClass III不正咬合患者におけるcorticotomy-assisted RMEとfacemask療法の短期的な3次元立体写真計測軟組織変化、頭部X線計測変化、および2次元気道変化を評価した前向き対照臨床試験。",
+      "key_takeaway_ja": "成長潜力が低下した後期思春期の真性骨格性Class III患者において、corticotomy-assisted RMEとFM療法は測定可能な短期的な骨格および3次元軟組織の改善を生じ、中間的な補助的治療選択肢となり得るが、長期安定性とランダム化比較データが必要である。",
+      "why_matters_ja": "治療計画の観点：後期思春期のClass III患者に対してcorticotomy-assisted RME＋FMが中間的補助的選択肢として機能し得ることを示唆しており、治療計画時の適応判断に参考となる。安全性の観点：鼻咽頭気道長が約1mm増加したが群間有意差は認められず、気道への影響について安全性のデータを提供している。",
+      "study_type_ja": "前向き対照臨床試験",
+      "endpoints_ja": "3次元立体写真計測による軟組織変化、頭部X線計測変化、2次元気道変化",
+      "endpoint_results_ja": "Corticotomy群：SNA +2.36°、A-Na perp +2.67 mm、ANB +4.08°、SN-GoGn +3.41°、overjet +5.97 mm、SNB -1.71°、Pg-Na perp -2.61 mm、IMPA -4.32°。3次元軟組織：ANB angle +2.50°、上顎長 +1.16 mm、下顎高 +2.94 mm、鼻翼幅 +1.57 mm、鼻翼基部幅 +1.97 mm、下顎体長 -2.58 mm、顔面凸度 -4.84°、bigonial幅 -3.94 mm。両側Alは水平(x)軸方向に側方変位、両側alare curvatureとsubnasaleは矢状(z)軸方向に前方変位。Pgは群間差2.5 mm（有意差なし）。鼻咽頭気道長は約1 mm増加（群間有意差なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-30T01:10:27Z"
+    },
+    {
       "pmid": "42537897",
       "title": "Bioactive orthodontic adhesive for clear-aligner attachments: antibacterial activity, ion release, and bonding performance.",
       "abstract": "OBJECTIVE: To formulate a novel dual-functional adhesive integrating dimethylaminododecyl methacrylate (DMADDM) for antibacterial activity and nano-amorphous calcium phosphate (NACP) for calcium/phosphate ion release, without compromising enamel bond strength.\nMETHODS: A low-shrinkage-stress resin of urethane dimethacrylate/triethylene glycol divinylbenzyl ether (UDMA/TEGDVBE, denoted UV) was used as the base resin. 10-methacryloyloxydecyl dihydrogen phosphate (MDP) was incorporated at 6% by weight to promote chemical bonding to enamel and stabilize the adhesive interface. DMADDM (0%, 3%, 6% by weight) and NACP (0%, 10%, 20% by weight) were incorporated. A commercial adhesive (Assure Plus) served as a control. Degree of conversion (DC), paste flowability, and enamel shear bond strength (SBS) were measured. Streptococcus mutans biofilms were analyzed for colony-forming units (CFU), lactic-acid production, and metabolic activity (MTT). Calcium and phosphate ion release were measured. Data were analyzed using ANOVA/Tukey (α = 0.05).\nRESULTS: Experimental adhesives showed SBS (n = 12) of 15.2 MPa to 18.5 MPa, statistically similar to the control (p > 0.05). DC for the experimental formulations ranged from 48.8% to 65.2% versus 72.5% for the commercial control. Flow (n = 3) decreased with increasing NACP (p < 0.05). Adhesives containing 6% DMADDM reduced S. mutans biofilm CFU by approximately 2-log compared to the control and substantially reduced lactic acid production and metabolic activity of biofilms (p < 0.05). NACP formulations released Ca and PO₄ ions up to (1.55 ± 0.06) mmol/L and (1.0 ± 0.04) mmol/L, respectively, at 35 days and pH 4.\nCONCLUSION: NACP formulations released Ca and PO₄ ions, demonstrating sustained ion release under acidic conditions. These in vitro findings support further investigation of bioactive adhesives for reducing biofilm-related risks around clear-aligner attachments. Direct enamel demineralization and remineralization testing is needed to evaluate their effect on white-spot lesion formation.\nCLINICAL SIGNIFICANCE: This in vitro study developed a bioactive orthodontic adhesive for clear-aligner attachments with antibacterial activity, calcium and phosphate ion release, and bonding performance comparable to a commercial adhesive. These findings support further investigation of bioactive adhesives for reducing biofilm-related risks around clear-aligner attachments.",
@@ -3014,26 +3152,40 @@
       "doi": "10.1016/j.ajodo.2026.05.015",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42517838/",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Comparative Study"
       ],
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Printing, Three-Dimensional",
+        "Materials Testing",
+        "Tensile Strength",
+        "Polyethylene Glycols",
+        "Dental Stress Analysis",
+        "Stress, Mechanical",
+        "Orthodontic Appliances, Removable",
+        "Polyethylene Terephthalates",
+        "In Vitro Techniques",
+        "Polymers",
+        "Humans",
+        "Orthodontic Appliance Design"
+      ],
       "matched_assets": [],
       "matched_companies": [],
       "focal_related": false,
       "matched_topics": [],
       "japan_relevant": false,
-      "content_sha256": "c4d571380dd0e9d7cb0f8bba2a85002c344a176b63602a56896d7225eb9b08b5",
+      "content_sha256": "2048718b6425c30fd265a5f751c033d22dc0e7ff87d3e1491683d0eefbf7a52d",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "形状記憶ポリマー（SMP）と熱可塑性材料の透明マウスピース用材料の機械的性質を比較検討したin vitro研究。SMPとしてTera Harz Direct Aligner Clear（TC-85）とDental Clear Aligner（DCA）、熱可塑性材料としてPET-G（Dentsply Sirona）を湿潤条件化し、降伏強度、最大引張強度（UTS）、破断時の応力・ひずみ、応力緩和、弾性率緩和を測定した。PET-Gが降伏強度・UTS・破断強度・破断ひずみで最高値を示し、TC-85が最低値であった（P<0.001）。応力緩和ではPET-Gの応力損失23%・弾性率損失38%に対し、DCAとTC-85は応力損失83%〜99%・弾性率損失89%〜99%であった。SMPはRun 2（形状回復後）でRun 1より応力・弾性率損失が有意に増加した。",
-      "key_takeaway_ja": "熱可塑性材料（PET-G）はSMP（TC-85、DCA）と比較して、降伏強度・UTS・破断強度・破断ひずみで優位に高く、応力緩和・弾性率緩和の損失も著しく低かった。SMPは形状回復後にさらに機械的性質が劣化し、マウスピースとしての力伝達持続性に課題がある。",
-      "why_matters_ja": "マウスピース材料の応力緩和・弾性率緩和特性は、計画された力伝達が治療期間中に維持されるかどうか（planned-vs-achieved）に直接影響する。PET-Gの低い応力損失（23%）と弾性率損失（38%）は、治療計画で想定した力学的挙動が臨床で実現されやすいことを示唆する一方、SMPの83%〜99%の応力損失は計画通りの力伝達が困難であることを意味し、材料選定が治療計画の精度に与える影響を定量的に示している。",
-      "study_type_ja": "in vitro研究（材料の機械的性質比較）",
-      "endpoints_ja": "降伏強度、最大引張強度（UTS）、破断時の応力、破断時のひずみ、応力緩和（応力損失）、弾性率緩和（弾性率損失）",
-      "endpoint_results_ja": "PET-G：応力損失23%、弾性率損失38%。DCA・TC-85：応力損失83%〜99%、弾性率損失89%〜99%。PET-Gが降伏強度・UTS・破断強度・破断ひずみで最高値、TC-85が最低値（P<0.001）。SMP（TC-85・DCA）はRun 2でRun 1より応力・弾性率損失が有意に増加。",
+      "updated_at_utc": "2026-10-30T01:07:45Z",
+      "summary_ja": "形状記憶ポリマー（SMP）のTera Harz Direct Aligner Clear（TC-85）とDental Clear Aligner（DCA）、および熱可塑性材料PET-Gの機械的性質（降伏強度、最大引張強度、破断時の応力・ひずみ、応力緩和、弾性率緩和）をin vitroで比較検討した研究。SMPは形状回復後に2回目の応力緩和試験も実施した。",
+      "key_takeaway_ja": "PET-Gは降伏強度・UTS・破断強度・破断ひずみで最も高い値を示し、応力損失23%・弾性率損失38%と最も低い損失であった。一方、SMP（DCA・TC-85）は応力損失83-99%・弾性率損失89-99%と著しく高い損失を示し、形状回復後のRun 2ではRun 1よりさらに損失が増大した。",
+      "why_matters_ja": "応力緩和・弾性率緩和の大きさは、アライナーが治療期間中に持続的に力を伝達できるか（planned-vs-achieved force delivery）に直接関連する。SMP材料の83-99%の応力損失は、治療計画で想定される力学的挙動と実際の力伝達に乖離が生じる可能性を示唆し、材料選定と治療計画の精度に影響しうる。",
+      "study_type_ja": "in vitro比較研究",
+      "endpoints_ja": "降伏強度、最大引張強度（UTS）、破断時の応力・ひずみ、応力緩和、弾性率緩和",
+      "endpoint_results_ja": "PET-Gが降伏強度・UTS・破断強度・破断ひずみで最高値（P<0.001）。応力損失：PET-G 23%、DCA・TC-85 83-99%（P<0.001）。弾性率損失：PET-G 38%、DCA・TC-85 89-99%（P<0.001）。TC-85・DCAともにRun 2でRun 1より総応力損失・弾性率損失が大きい。",
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-22T00:02:43Z"
+      "summary_generated_at_utc": "2026-10-30T01:10:57Z"
     },
     {
       "pmid": "42907824",
@@ -4568,7 +4720,16 @@
       "japan_relevant": false,
       "content_sha256": "e94858d695f8843a70e6f532123a9a7f40fe1ec3fb72dea020abd5e4aaac730d",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "Class II臼歯関係を持つ成人7例の上顎10象限を対象とした前向きCBCT症例シリーズ。クリアアライナーと垂直アタッチメントを用いたsequential molar distalization（Class IIエラстикや骨性アンカレッジなし）における上顎臼歯の移動パターンと、関連する矯正誘発性炎症性歯根吸収を評価した。ベースライン（T0）と臼歯遠心移動完了直後（T1）のCBCTを3D重ね合わせにより比較し、冠・歯根の線形位置変化および臼歯歯根長変化を解析した。",
+      "key_takeaway_ja": "クリアアライナー＋垂直アタッチメントによるsequential molar distalizationは、真のbodily distalizationではなく冠優位の遠心移動のみを産生し、前歯部アンカレッジの軽度喪失と1mm未満の臼歯歯根短縮を伴う。",
+      "why_matters_ja": "計画品質・planned-vs-achieved：冠優位移動が示され、計画されたbodily distalizationと達成された移動パターンに乖離があることを示唆。結論部でplanned vs. achieved movement analysisの必要性を明示。安全性：矯正誘発性炎症性歯根吸収（OIIRR）の定量評価がなされ、臨床的有意性（1mm未満）の判断材料となる。",
+      "study_type_ja": "前向きCBCT症例シリーズ（prospective case series）",
+      "endpoints_ja": "上顎第1・第2大臼歯のmesiobuccal cusp tipにおける遠心方向線形移動量、歯根先端の位置変化、上顎中切歯の切縁部唇側移動量、臼歯歯根長変化",
+      "endpoint_results_ja": "上顎第一大臼歯mesiobuccal cusp tip遠心移動：1.24 ± 0.64 mm。上顎第二大臼歯mesiobuccal cusp tip遠心移動：1.02 ± 0.82 mm。歯根先端の移動は限定的（冠優位移動）。上顎中切歯切縁部唇側移動：1.93 ± 1.27 mm。臼歯歯根長短縮：0.19 ± 0.21 mm〜0.47 ± 0.68 mm。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-30T01:11:24Z"
     },
     {
       "pmid": "42505700",
@@ -5263,43 +5424,6 @@
       "content_sha256": "39975c91c76d252039d1352d51ab20e18be262c3a6bb64873686220fb2846b06",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
       "updated_at_utc": "2026-10-10T13:15:10Z"
-    },
-    {
-      "pmid": "42920435",
-      "title": "The Use of Clear Aligner Therapy for Orthognathic Surgery Patients: A Cross-Sectional Survey Among Saudi Orthodontists and Oral and Maxillofacial Surgeons.",
-      "abstract": "BACKGROUND: Orthognathic surgery corrects severe skeletal discrepancies that cannot be addressed by orthodontics alone. With advancements in digital workflows and CAD/CAM technologies, clear aligner therapy (CAT) has emerged as a potential adjunct in surgical cases. However, its clinical application remains under-researched. This study aimed to exploratorily assess the knowledge, clinical experience, and attitudes of orthodontists and oral and maxillofacial surgeons in Saudi Arabia regarding CAT in orthognathic surgery patients.\nMETHODS: A cross-sectional survey was conducted from April 1 to May 31, 2023, using a closed-ended online questionnaire distributed to specialists across Saudi Arabia. The survey gathered demographic and clinical data. Statistical analysis included descriptive methods, chi-square testing, and univariate regression. Given the limited sample size, inferential analyses were performed for exploratory purposes and interpreted cautiously.\nRESULTS: Out of 278 invited participants, 46 complete responses (16.5%) were received, which was substantially lower than the calculated minimum sample size. Most participants were aged 31-40 years and had 6-10 years of experience. Orthodontists accounted for 65.2% of the respondents, with oral and maxillofacial surgeons at 34.8%. While most treated 1-4 orthognathic patients monthly, 80% had no experience using CAT in these cases Although CAT was commonly used in routine orthodontic practice, its application in orthognathic surgery cases was limited. Exploratory regression analysis suggested a possible association between clinician age and CAT usage (R 2 = 0.38), whereas gender and years of experience did not show clear associations.\nCONCLUSION: This exploratory survey suggests that clinical experience with CAT in orthognathic surgery remains limited among surveyed clinicians in Saudi Arabia. The findings highlight perceived challenges related to surgical workflows, including pre-surgical alignment, intraoperative fixation, and postoperative occlusal control. Given that the achieved sample size (n = 46) was substantially lower than the calculated minimum requirement (n = 302), the results should be interpreted as preliminary observations and exploratory findings rather than definitive conclusions. Findings should be interpreted cautiously due to the small sample size and exploratory design.",
-      "journal": "F1000Research",
-      "authors": "Salem Assari Ahmad, A Bin Rubaia'an Muslat, Taisir Al-Marhoun Diaa, Arafah Hayat, N Bin Saedan AlAnood, Dar Salamah Hajar, Mohammed Aljomiey Raneem",
-      "pub_date": "2026-05-07",
-      "doi": "10.12688/f1000research.170095.4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42920435/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Cross-Sectional Studies",
-        "Saudi Arabia",
-        "Male",
-        "Adult",
-        "Female",
-        "Surveys and Questionnaires",
-        "Orthodontists",
-        "Orthognathic Surgical Procedures",
-        "Oral and Maxillofacial Surgeons",
-        "Orthognathic Surgery",
-        "Middle Aged"
-      ],
-      "matched_assets": [],
-      "matched_companies": [],
-      "focal_related": false,
-      "matched_topics": [
-        "scanning-digital-workflow"
-      ],
-      "japan_relevant": false,
-      "content_sha256": "a2b7f96742c0259f32df22da07f99a103470e6c328ff5ae15af97b9b16a01c49",
-      "fetched_at_utc": "2026-10-24T23:19:08Z",
-      "updated_at_utc": "2026-10-24T23:19:08Z"
     },
     {
       "pmid": "42556894",
