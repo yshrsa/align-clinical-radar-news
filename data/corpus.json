@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-30T01:07:45Z",
+  "generated_at_utc": "2026-10-31T00:52:17Z",
   "documents": [
+    {
+      "pmid": "42958839",
+      "title": "Does interproximal reduction during clear aligner treatment increase the risk of caries? A retrospective cohort study.",
+      "abstract": "AIM: This study aimed to evaluate the potential risk of caries in patients who underwent interproximal enamel reduction (IPER) in the maxillary and mandibular teeth during clear aligner orthodontic treatment.\nMETHODS: A total of 344 patients treated with clear aligners were included. Samples were categorised into four groups based on IPER site: maxillary posterior (MxP), maxillary anterior (MxA), mandibular posterior (MdP) and mandibular anterior (MdA). The amount of IPER was classified according to the total reduction performed at each interproximal contact area involving two adjacent tooth surfaces, rather than per individual tooth surface, into four subgroups: (1) 0.1-0.3 mm, (2) 0.4-0.5 mm, (3) 0.6-0.8 mm and (4) 0.9-1.0 mm. Clinical and radiographic caries assessments were performed, and longitudinal data were analysed using Generalised Estimating Equations (GEE) models at the proximal tooth-surface level, with clustering of surfaces within patients taken into account.\nRESULTS: A total of 4800 proximal surfaces were evaluated, with caries detected on 66 surfaces in 36 patients. Overall incidence remained low across all groups. Site- and amount-related differences were observed in the GEE analysis; however, these findings should be interpreted cautiously because of the low absolute event rate and limited number of carious surfaces.\nCONCLUSION: Within this low-risk, highly compliant cohort, IPER up to 1.0 mm (0.5 mm per tooth surface) was associated with a very low observed incidence of caries when combined with proper polishing, oral hygiene and follow-up care. However, this study does not show that IPER increases caries compared with untreated teeth.",
+      "journal": "Journal of orthodontics",
+      "authors": "Chou Alex Hung Kuo, Lee You-Sun, Vaiid Nikhillesh, Shoaib Ahmed, Kook Yoon-Ah, Nicolay Olivier",
+      "pub_date": "2026-10-29",
+      "doi": "10.1177/14653125261498917",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958839/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "0eda99e5202321d8ab75c8b897d730c4c77fb4514379ebc15e86c9be7cb838d3",
+      "fetched_at_utc": "2026-10-31T00:52:17Z",
+      "updated_at_utc": "2026-10-31T00:52:17Z",
+      "summary_ja": "クリアアライナー治療中に近心・遠心エナメル質削減（IPER）を受けた患者のう蝕リスクを評価した後ろ向きコホート研究。344例をIPER部位（上顎後歯・上顎前歯・下顎後歯・下顎前歯）と削減量（0.1-0.3 mm、0.4-0.5 mm、0.6-0.8 mm、0.9-1.0 mm）で分類し、4800の近心面を臨床的・X線的にう蝕評価した。縦断データはGEEモデルで解析。",
+      "key_takeaway_ja": "適切な研磨・口腔衛生管理・フォローアップケアを組み合わせる条件下で、IPER 1.0 mm以下（歯面あたり0.5 mm以下）はう蝕の観察発生率が非常に低かった。IPERが未処置歯と比較してう蝕を増加させることを示す結果ではなかった。",
+      "why_matters_ja": "安全性：IPER 1.0 mm以下（歯面あたり0.5 mm以下）が適切なプロトコル下でう蝕リスクを有意に増加させないことを示唆し、治療計画におけるIPER量の設定根拠となる。ワークフロー：研磨・口腔衛生管理・フォローアップケアの組み合わせが安全なIPER実施の前提条件として明示されている。",
+      "study_type_ja": "後ろ向きコホート研究",
+      "endpoints_ja": "近心歯面のう蝕発生（臨床的・X線的評価）",
+      "endpoint_results_ja": "4800の近心面を評価し、36例の66面でう蝕を検出。全グループで全体的な発生率は低かった。GEE解析で部位・量に関連する差が観察されたが、絶対イベント率が低くう蝕面の数が限られているため解釈には注意が必要。",
+      "sample_size_ja": "344例（4800の近心面）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:53:16Z"
+    },
     {
       "pmid": "42914787",
       "title": "Effects of clear aligner attachment template sectioning on bonding accuracy and anterior retraction biomechanics: A finite element study.",
@@ -4754,7 +4785,16 @@
       "japan_relevant": false,
       "content_sha256": "aea6022be41a898ea720315f7790547eda7b68b3f0e7e51720374ea4428ecb79",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "本研究は、AI（U-Netモデル）を用いたオパノラミックX線写真（OPG）からの自動セグメンテーションと根吸収の定量的評価フレームワークを開発し、固定装置とクリアアライナー治療の両群で治療前後の根長変化を比較した。100枚のOPG（固定装置50例、クリアアライナー50例）を解析し、セグメンテーション性能はIoU最大89%、DSC最大95%を達成した。根長短縮は両群で有意に認められ（p<0.0001）、固定装置群でクリアアライナー群より有意に大きい根吸収が示された（p<0.0001）。",
+      "key_takeaway_ja": "AIによるOPG解析は矯正誘発性外部根吸収の定量化に信頼性・再現性のある手法となり得る。クリアアライナー治療は固定装置と比較して根長短縮が有意に小さい傾向を示した。",
+      "why_matters_ja": "安全性の観点：根吸収は長期の歯の安定性に影響し、治療選択時の安全性評価に直結する。クリアアライナーの根吸収低減傾向は、Alignの製品安全性プロファイルの裏付けとなる。ワークフローの観点：AIによる自動セグメンテーションは根吸収の定量的モニタリングを効率化し、臨床ワークフローへの組み込み可能性を示唆する。",
+      "study_type_ja": "AIモデル開発・検証を伴う比較研究（固定装置 vs クリアアライナー、治療前後OPG解析）",
+      "endpoints_ja": "根長短縮率（%）、セグメンテーション性能（IoU、DSC）、AI測定値と歯科医師測定値の一致度、群間比較（固定装置 vs クリアアライナー）",
+      "endpoint_results_ja": "IoU最大89%、DSC最大95%。固定装置群：AI測定で根長短縮8.95%、歯科医師測定で10.16%。クリアアライナー群：AI測定で2.81%、歯科医師測定で4.98%。両群で治療前後の根長短縮は有意（p<0.0001）。固定装置群の根吸収はクリアアライナー群より有意に大（p<0.0001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:53:39Z"
     },
     {
       "pmid": "42337546",
@@ -4790,7 +4830,16 @@
       "japan_relevant": false,
       "content_sha256": "5ef9643e21da9b8274eb6ccec7c7e33538265277dab9e21092e38e253a86e1b3",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "フェムト秒レーザーを用いて透明マウスピース表面に多孔性マイクロ/ナノ構造を形成し、緑色合成銀ナノ粒子（AgNPs）を充填することで、抗カリエス性マウスピースを創出する研究。物理特性、化学特性、S. mutansに対する抗菌特性、生体適合性を評価した。",
+      "key_takeaway_ja": "レーザー処理により水接触角が86.5°から38.7°に低下し（P<0.05）、唾液吸収率と曲げ弾性率は維持された。レーザー/Ag群はS. mutansに対して62.89%の阻害率を示し、全処理群はL-929細胞およびHGF細胞に対して優れた生体適合性を示した。",
+      "why_matters_ja": "安全性の観点：全処理群がマウス線維芽細胞（L-929）およびヒト歯肉線維芽細胞（HGF）に対して優れた生体適合性を示し、レーザー処理がマウスピースの物理化学的特性に悪影響を与えないことを確認。ワークフローの観点：親水性ナノ抗菌剤に対して広範な材料適合性を有する臨床転換可能な枠組みとして位置づけられている。",
+      "study_type_ja": "in vitro 材料・抗菌評価研究",
+      "endpoints_ja": "水接触角、唾液吸収率、曲げ弾性率、S. mutansに対する抗菌阻害率、生体適合性（L-929細胞、HGF細胞）",
+      "endpoint_results_ja": "水接触角：86.5°→38.7°（P<0.05）。唾液吸収率：維持（数値記載なし）。曲げ弾性率：維持（数値記載なし）。S. mutans阻害率：62.89%（レーザー/Ag群）。生体適合性：L-929細胞およびHGF細胞ともに優れた生体適合性（数値記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:54:15Z"
     },
     {
       "pmid": "42334533",
@@ -4829,7 +4878,16 @@
       "japan_relevant": false,
       "content_sha256": "5f44bf347e8559d841082c3c7d8d875c2486c005c86fa4ff44ac39ef6ac4dde0",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "上顎第一大臼歯抜歯症例における最終犬歯遠心移動時の、院内製クリアアライナー（IHCA）による上顎犬歯およびアンカレッジ歯の移動精度を、腭側パワーアーム（PA）群と対照群（C）で比較した単一施設ランダム化比較試験（スプリットマウスデザイン）。18名の成人を対象に、治療前および最終犬歯アライナー時のバーチャル・デジタルモデルと実測デジタルモデルを3D GOM-Inspect-Suiteで重ね合わせ、線形3項目（近遠心、頬舌側、圧入・脱出）と角度3項目（チッピング、ローテーション、トルク）の計6種類の歯移動を評価した。Holm-Bonferroni補正付き等価性検定（90%信頼区間）を用いてPA側と対照側を比較した。",
+      "key_takeaway_ja": "線形移動はPA群と対照群で等価であったが、犬歯の角度移動（ローテーション、遠心クラウンチッピング）は等価性を示さなかった。PAはアンカレッジ保持に有意な効果を示さなかった。",
+      "why_matters_ja": "planned-vs-achievedの観点：バーチャルモデルと実測モデルの比較により、アライナー治療計画の達成精度を定量的に評価しており、特に角度移動（ローテーション5.22°の差、遠心チッピング1.67°の差）における計画と実績の乖離が明確に示された。refinementの観点：腭側パワーアームというrefinement戦略が角度制御に有効でない可能性が示唆され、治療計画におけるrefinement手法の選択に示唆を与える。",
+      "study_type_ja": "ランダム化比較試験（スプリットマウスデザイン）",
+      "endpoints_ja": "上顎犬歯およびアンカレッジ歯の線形移動3項目（近遠心、頬舌側、圧入・脱出）と角度移動3項目（チッピング、ローテーション、トルク）。主要アウトカムは犬歯遠心移動。",
+      "endpoint_results_ja": "犬歯線形移動：平均差は-0.19〜0.09 mm、90%信頼区間はすべて±0.5 mmの等価性限界内。犬歯ローテーション：平均差5.22°、90%信頼区間(1.48, 8.95)、±1.5°の等価性限界を超過。犬歯遠心クラウンチッピング：平均差1.67°、90%信頼区間(-0.44, 3.78)、等価性を示さず。アンカレッジ線形移動：第一大臼歯近心移動と第一大臼歯頬側移動を除き等価性基準を満たした。アンカレッジ角度移動：概ね等価性を満たさず。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:54:46Z"
     },
     {
       "pmid": "42440687",
@@ -4855,7 +4913,16 @@
       "japan_relevant": false,
       "content_sha256": "df36d300e520f5270b7a9a5f6d9521ba30a73add520e05a96e31336b8802036f",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "混合歯列期に重度の片側後方シザースバイトを呈した8歳男児の症例報告。ブラケットレスのクリアアライナーと交互の顎間牽引を併用した早期介入矯正治療を行った。治療は歯弓幅の段階的拡大、重度に舌側傾斜した大臼歯の直立化、後方シザースバイトの完全矯正を含む。患者のコンプライアンス不良により治療中断と咬合再発が生じ、牽引プロトコルを修正して再開した。全期間を通じて後方垂直方向高径の制御と下顎時計回りの回転防止のため標準化された歯叩きトレーニングを適用した。体系的治療後、後方シザースバイトは完全矯正され、歯弓形態、歯列中央線、前歯部オーバージェットおよびオーバーバイトに有意な改善を認めた。",
+      "key_takeaway_ja": "厳格な適応症例において、クリアアライナーと交互の顎間牽引の併用は小児の重度片側後方シザースバイトを効果的に矯正可能であるが、複雑な小児症例では咬合再発を避けるために高い患者コンプライアンスが不可欠である。",
+      "why_matters_ja": "安全性の観点：コンプライアンス不良による治療中断が咬合再発を招き、プロトコル修正を要した事例であり、治療計画におけるリスク管理の重要性を示す。ワークフローの観点：治療中断後に牽引プロトコルを修正して再開したプロセスは、計画の柔軟性と段階的調整の必要性を示す。教育の観点：標準化された歯叩きトレーニングの適用と、コンプライアンス確保の強調は、患者・保護者への教育介入が治療成果に直結することを示す。",
+      "study_type_ja": "症例報告",
+      "endpoints_ja": "後方シザースバイトの矯正、歯弓形態、歯列中央線、前歯部オーバージェット、前歯部オーバーバイト、後方垂直方向高径の制御、下顎時計回り回転の防止",
+      "endpoint_results_ja": "後方シザースバイトは完全矯正（completely corrected）され、歯弓形態、歯列中央線、前歯部オーバージェット、オーバーバイトに有意な改善（significant improvements）を認めた。具体的な数値は抄録に報告されていない。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:55:32Z"
     },
     {
       "pmid": "42339884",
@@ -4887,7 +4954,16 @@
       "japan_relevant": false,
       "content_sha256": "eef4e408482c360427cfd4d260972f905d67fcf18d2417f09e9331fdad89ef33",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "マキシラ中切歯の2次元モデルを用い、アライナーのアクティベーション機構とアタッチメントによる力再分配の影響を解析した理論的・解析的研究。アライナーが生成する力系の理論的矛盾を分析し、アタッチメントが力の方向を調整して特定の矯正移動を可能にするメカニズムを提案した。",
+      "key_takeaway_ja": "アライナーは現状の構成では主に屈曲を介して頬側・舌側の圧縮力を生成し、牽引・トルク・せん断力を本質的に生成する能力を欠いている。アタッチメントの戦略的利用により、アライナーのデアクティベーションを遮断し、元の力の一部を再方向付けすることで、他のタイプの矯正移動が可能になる。",
+      "why_matters_ja": "計画品質：各歯の各移動に対して厳密なバイオメカニカルアプローチが必要であり、アライナーの効率を最適化するためにアタッチメント配置の根拠となる。planned-vs-achieved：アライナーが本質的に生成できない力（牽引・トルク・せん断）の存在を理論的に説明し、計画と達成の乖離のメカニズムを明らかにする。教育：アライナーの力系に関する理論的矛盾を解消し、臨床的な理解の基盤を提供する。",
+      "study_type_ja": "解析的・理論的研究（2次元バイオメカニカルモデル）",
+      "endpoints_ja": "アライナーが生成する力系の特性（力の方向・種類）、アタッチメントによる力再分配の影響",
+      "endpoint_results_ja": "抄録に数値結果の記載なし。定性的な結果のみ記載：アライナーは主に頬側・舌側の圧縮力を屈曲を介して生成し、牽引・トルク・せん断力を本質的に生成する能力を欠く。アタッチメントは力の再分配を可能にし、頬舌軸を超える変位を達成する。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:56:06Z"
     },
     {
       "pmid": "42332033",
