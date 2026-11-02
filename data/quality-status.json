@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked_at_utc": "2026-11-01T00:15:50Z",
+  "checked_at_utc": "2026-11-02T00:52:34Z",
   "overall_status": "degraded",
   "freshness": {
     "status": "current",
@@ -8,9 +8,9 @@
   },
   "counts": {
     "documents": 172,
-    "summarized": 137,
-    "pending": 35,
-    "publishable": 137,
+    "summarized": 144,
+    "pending": 28,
+    "publishable": 144,
     "validation_problems": 0
   },
   "blocking_reasons": [],
