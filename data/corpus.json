@@ -1,7 +1,49 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-02T00:48:50Z",
+  "generated_at_utc": "2026-11-03T02:58:39Z",
   "documents": [
+    {
+      "pmid": "42970542",
+      "title": "Women's experience following orthodontic treatment with conventional fixed appliances and clear aligners: A qualitative study.",
+      "abstract": "This qualitative study aimed to explore the experiences of female patients following completion of orthodontic treatment with conventional fixed appliances and clear aligners. It used a clinical qualitative design with, semi-structured interviews featuring open-ended questions. Participants were recruited from private orthodontic practices, and the sample size was determined by data saturation. The final group included six patients treated with conventional fixed appliances and nine patients treated with clear aligners. Data were transcribed verbatim and analyzed using qualitative content analysis with peer validation of the categories. Seven categories emerged among patients treated with conventional fixed appliances: pain, discomfort, and hygiene difficulties; daily adaptations and restrictions; confidence in the professional; treatment duration; insecurity or embarrassment; desire to improve appearance; and satisfaction with treatment outcomes. For patients treated with clear aligners, seven categories were identified: practicality, comfort and hygiene; pain and discomfort related to use; treatment duration; willingness to recommend aligners; desire to improve appearance and appliance discretion; recommendation by the professional; and satisfaction. The findings show that, although patients with fixed appliances faced several challenges during treatment, aesthetic improvement was the main reason for seeking care, and overall satisfaction with the results was high. Patients who chose clear aligners aimed to avoid common limitations of fixed appliances and emphasized benefits related to comfort, convenience, oral hygiene, and discretion. These results highlight the importance of qualitative methods for understanding patient perspectives and can guide clinical communication and shared decision-making in adult orthodontic treatment.",
+      "journal": "PloS one",
+      "authors": "San Nicolas Dubrull Lia Lucarelli Nicolle, Gonçalves Innocente Gabriela, Augusto Thiene Leme Pedro, Paz Sampaio Luana, Gonzaga Gandini Junior Luiz, Amélia Scudeler Vedovello Silvia, Arrais Campos Lucas, Carmo de Menezes Carolina",
+      "pub_date": "2026-11-02",
+      "doi": "10.1371/journal.pone.0359709",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970542/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Orthodontic Appliances, Fixed",
+        "Patient Satisfaction",
+        "Qualitative Research",
+        "Adult",
+        "Young Adult",
+        "Adolescent"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "safety-patient-outcomes"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "118ca59d9a6bf414d83750f2c8b96fc83ace9fbaa9c26aaf6a961f888e9fab7f",
+      "fetched_at_utc": "2026-11-03T02:58:39Z",
+      "updated_at_utc": "2026-11-03T02:58:39Z",
+      "summary_ja": "固定式矯正装置（n=6）とクリアアライナー（n=9）による矯正治療完了後の女性患者の体験を、半構造化インタビューと質的内容分析により検討した質的研究。固定式装置群では疼痛・不快感・衛生管理の困難、日常の制限、治療期間、不安や恥ずかしさ、外見改善の欲求、治療結果への満足度など7カテゴリが、クリアアライナー群では実用性・快適性・衛生管理、使用に伴う疼痛・不快感、治療期間、アライナーを推奨する意向、外見改善と装置の目立たなさ、専門職からの推奨、満足度など7カテゴリが抽出された。両群とも治療結果への満足度は高く、クリアアライナー選択者は快適性・利便性・口腔衛生・目立たなさを重視した。",
+      "key_takeaway_ja": "固定式装置では治療中の課題（疼痛・衛生・制限）が顕著であったが、両群とも最終的な治療結果への満足度は高かった。クリアアライナー選択者は固定式装置の制約を回避することを目的としており、快適性・利便性・口腔衛生・目立たなさを主な利点として評価し、他者への推奨意向も示した。",
+      "why_matters_ja": "教育：成人矯正治療における臨床コミュニケーションと共同意思決定（shared decision-making）を支援する知見を提供する。ワークフロー：患者がクリアアライナーを選択する動機（快適性・利便性・衛生・目立たなさ）が明確に示されており、治療計画段階での説明や装置選択の根拠として活用可能。",
+      "study_type_ja": "質的研究（半構造化インタビュー、質的内容分析、ピアバリデーション）",
+      "endpoints_ja": "質的カテゴリ（固定式装置群：疼痛・不快感・衛生管理の困難、日常の適応と制限、専門職への信頼、治療期間、不安や恥ずかしさ、外見改善の欲求、治療結果への満足度。クリアアライナー群：実用性・快適性・衛生管理、使用に伴う疼痛・不快感、治療期間、アライナーを推奨する意向、外見改善と装置の目立たなさ、専門職からの推奨、満足度）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:59:16Z"
+    },
     {
       "pmid": "42958839",
       "title": "Does interproximal reduction during clear aligner treatment increase the risk of caries? A retrospective cohort study.",
@@ -5460,7 +5502,16 @@
       "japan_relevant": false,
       "content_sha256": "b1666b76c8bbf9e49f791007f25b74ffe01fbf15b9c37fa05545e1b5a378ad33",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "Angle I不正咬合患者における透明マウスピース（CA）と固定式矯正装置（FA）の口腔健康関連QOL（OHRQoL）への影響を比較したシステマティックレビューおよびメタアナリシス。PRISMAガイドラインに従い、PubMed、Scopus、Web of Science、Embase、Cochrane CENTRALを検索し、CAとFAを比較してOHIP-14を報告したRCTのみを包含した。2件のRCT（n=74）が定量統合に包含された。両治療群ともに装置装着後にOHRQoLの一時的悪化が認められた。メタアナリシスでは、心理的不快感（p=0.007）と心理的障害（p<0.001）においてCAが統計的に有意に優位であったが、その他のドメインおよびOHRQoL全体では有意差は認められなかった。TSAでは心理的アウトカムに早期シグナルが示されたが、包含試験数が極めて少なく、仮説生成段階の知見にとどまる。",
+      "key_takeaway_ja": "透明マウスピースは固定式矯正装置に対し、OHRQoLの心理的側面で modest な短期的優位性を示唆するが、証拠は極めて限定的（2件のRCT、n=74）であり、確認的結論は得られていない。",
+      "why_matters_ja": "安全性（患者の快適性・心理的負担）の観点から、透明マウスピースが心理的不快感・心理的障害において固定式装置より優位である可能性が示唆される。ただし証拠が極めて限定的であり、患者への説明や期待値の管理（教育）において、現時点では確定的な優位性を主張できる段階ではない点に留意が必要。",
+      "study_type_ja": "システマティックレビューおよびメタアナリシス",
+      "endpoints_ja": "OHRQoL（OHIP-14）：心理的不快感、心理的障害、その他のドメイン、OHRQoL全体",
+      "endpoint_results_ja": "両治療群ともに装置装着後にOHRQoLの一時的悪化。CAがFAより統計的に有意に優位：心理的不快感（p=0.007）、心理的障害（p<0.001）。その他のドメインおよびOHRQoL全体では有意差なし。TSA：心理的アウトカムで累積Z曲線がモニタリング境界を交差（早期シグナル）。その他の大部分のアウトカムでは必要情報サイズに達せず不確定。handicapについてはTSAが臨床的に有意な差はunlikelyと示唆。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:59:43Z"
     },
     {
       "pmid": "42352289",
@@ -5491,7 +5542,16 @@
       "japan_relevant": false,
       "content_sha256": "f2dc27e5c5019293787ceff57b82d34a91c1527d564af7e4753a189b1dcc2eae",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "クリアアライナー治療で使用するコンポジットレジンアタッチメントの材料特性を評価したシステマティックレビュー。PubMed、Scopus、Cochraneデータベースから2015〜2025年間の文献をPRISMAガイドラインに従い検索し、15研究（11件のin vitro研究、4件の臨床研究）が対象となった。評価項目はせん断接着強度、耐摩耗性、表面粗さ、マイクロ硬さ、色安定性、アタッチメント再現精度であった。",
+      "key_takeaway_ja": "ナノハイブリッドおよび高粘度コンポジットレジンが機械的強度の向上、摩耗の低減、寸法安定性の向上と関連し、フローアブルレジンが適応性と操作性に優れる一方、表面劣化と変色への感受性が高い。材料の組成と粘度がアタッチメントの機械的・光学的挙動に有意に影響する。",
+      "why_matters_ja": "planned-vs-achieved: アタッチメントの耐久性と寸法安定性が歯移動の予測可能性に直接影響し、計画通りの歯移動の達成率に関わる。refinement: アタッチメントの劣化・脱落が治療期間中のリファインメント回数を増加させる可能性があり、材料選択の最適化がリファインメント頻度の低減に寄与しうる。",
+      "study_type_ja": "システマティックレビュー",
+      "endpoints_ja": "せん断接着強度（SBS）、耐摩耗性、表面粗さ、マイクロ硬さ、色安定性、アタッチメント再現精度",
+      "endpoint_results_ja": "抄録には具体的な数値は記載されていない。記載されているのは「すべての評価対象コンポジットレジンが臨床的に許容範囲のせん断接着強度を示した」および「レジン組成と粘度に応じて材料性能に有意な差が観察された」のみ。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T03:00:20Z"
     },
     {
       "pmid": "42345929",
@@ -5519,7 +5579,16 @@
       "japan_relevant": false,
       "content_sha256": "da84e36b42807cbfdf9a7b5d6fcf6e9c97906e9fdde6bf0e3989fe4d7b5de039",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "2019年から2025年にInvisalign Firstで治療された初期混合歯列期小児55例のレコードを後ろ向きに分析した縦断研究。PAR Indexを用いてベースライン（T0）、治療後（T1）、18ヶ月以上のフォローアップ（T2）で咬合評価を実施。さらに、T0-T1のセファロメトリック記録が揃った47例のネスト型サブサンプルについて、Align臨床推奨事項に準拠した混合歯列期複雑度フレームワークで評価した。PARスコアはT0の22.0からT1の6.0、T2の7.0に低下し、T1とT2間に有意差はなかった（p=0.546）。セファロメトリックサブサンプルでは全体的複雑度が79.49±22.43%低下し、歯槽骨目標の修正率は85%を超え、後方交叉咬合とオープンバイトでは100%に達した。骨格成分と矢状方向臼歯成分は改善が限定的であった。",
+      "key_takeaway_ja": "Invisalign Firstによる遮断的治療は、混合歯列期から永久歯列期への移行过程中に咬合結果を維持しつつ、咬合複雑度の縦断的低下と高い歯槽骨修正率を示した。",
+      "why_matters_ja": "planned-vs-achievedの観点：歯槽骨目標の修正率が85%を超え、後方交叉咬合とオープンバイトでは100%の修正率を示し、治療計画目標の達成度が高いことを示唆。refinementの観点：T1とT2でPARスコアに有意差がなかった（p=0.546）ことは、治療計画がフォローアップ期間中に追加のrefinementを要さず結果を維持したことを示唆。case complexityの観点：Align臨床推奨事項に準拠した複雑度フレームワークを用いて、治療前後の複雑度変化を定量化し、治療計画の複雑度評価に直接関連する。",
+      "study_type_ja": "後ろ向き縦断研究（非対照デザイン）",
+      "endpoints_ja": "PAR Indexスコア（T0, T1, T2）、全体的複雑度の変化率、歯槽骨目標の修正率、後方交叉咬合の修正率、オープンバイトの修正率、骨格成分および矢状方向臼歯成分の改善",
+      "endpoint_results_ja": "PARスコア：T0=22.0（IQR 17.0-30.0）、T1=6.0（IQR 1.0-8.0）、T2=7.0（IQR 2.0-10.0）、T1 vs T2 p=0.546。全体的複雑度：79.49±22.43%低下。歯槽骨目標の修正率：85%超。後方交叉咬合の修正率：100%。オープンバイトの修正率：100%。骨格成分および矢状方向臼歯成分：改善が限定的（具体的な数値は記載なし）。",
+      "sample_size_ja": "全サンプル55例、ネスト型サブサンプル（T0-T1セファロメトリック記録完全）47例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T03:01:35Z"
     },
     {
       "pmid": "42345925",
@@ -5544,7 +5613,16 @@
       "japan_relevant": false,
       "content_sha256": "1530db9bbcc14fc4a9a1fc34c3203ec6fa6f68c44e8335eaf43dc9096ef55a55",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "骨格成長末期の思春期患者3例を対象に、Distalizing Bar Appliance（DBA）と下顎アクティブクリアアライナーおよびClass IIエラスティックを併用したClass II歯顎性不正咬合の治療法を提示した症例シリーズ。標準化された3フェーズのワークフロー（1: DBA＋Class IIエラスティックによる遠心移動、下顎アライナーによるアンカレッジ確保と並行した叢生解決、2: クリアアライナーによる整列とアーチ調整、3: 咬合安定のためのフィニッシング）を提案した。",
+      "key_takeaway_ja": "3例すべてでClass I臼歯・犬歯関係が達成され、頭影計測変化は歯顎性機構と一致し、下顎骨格変化は臨床的に認められなかった。ただしClass IIエラスティックによる下顎前歯・臼歯の不要な近心チッピングを抑制するため、傾斜の慎重なモニタリングが必要であった。",
+      "why_matters_ja": "ワークフロー：標準化された3フェーズのワークフローが提案されており、治療計画の構造化に参考となる。planned-vs-achieved：3例すべてでClass I臼歯・犬歯関係が達成され、頭影計測変化が歯顎性機構と一致した。安全性：下顎骨格変化は臨床的に認められなかったが、Class IIエラスティックによる下顎前歯・臼歯の不要な近心チッピングのモニタリングが必須とされ、アライナー治療中のアンカレッジ管理の注意点として示唆される。",
+      "study_type_ja": "症例シリーズ（3例）",
+      "endpoints_ja": "臼歯・犬歯関係（Class I達成）、頭影計測変化（歯顎性機構）、下顎骨格変化、下顎前歯・臼歯の傾斜（近心チッピング）、叢生解決",
+      "endpoint_results_ja": "3例すべてでClass I臼歯・犬歯関係が達成。頭影計測変化は類似装置で報告された歯顎性機構と一致。下顎骨格変化は臨床的に認められなかった。下顎アクティブアライナーの併用により早期の叢生解決が可能であった。下顎前歯・臼歯の傾斜の慎重なモニタリングが必要であった。",
+      "sample_size_ja": "3例（骨格成長末期の思春期患者）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T03:02:06Z"
     },
     {
       "pmid": "42662335",
@@ -5568,7 +5646,16 @@
       "japan_relevant": false,
       "content_sha256": "f4a0774cab27dc7cd4afd0d99d20cfae85e648b85a66ed0c0040e0973c3062d2",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "CBCTを用いて、クリアアライナーと固定式矯正装置（MBT）の両群における歯根吸収の発生率と重症度を比較した研究。100例（各群50例）を治療開始時、3ヶ月、6ヶ月の時点で評価した。",
+      "key_takeaway_ja": "固定式矯正装置（MBT）群はクリアアライナー群と比較して、歯根吸収の発生率と重症度が有意に高かった。",
+      "why_matters_ja": "安全性の観点：歯根吸収は長期的な歯の損傷につながる重要な合併症であり、アプライアンス選択時の安全性評価に寄与する。抄録は「より安全な治療オプションの選択」への示唆を述べている。",
+      "study_type_ja": "比較研究（2群比較）",
+      "endpoints_ja": "CBCTによる歯根吸収の発生率および重症度（治療開始時、3ヶ月、6ヶ月の時点で評価）",
+      "endpoint_results_ja": "固定式矯正装置（MBT）群でクリアアライナー群と比較して高い発生率と重症度が示された（具体的な数値は抄録に記載なし）",
+      "sample_size_ja": "100例（クリアアライナー群50例、固定式矯正装置MBT群50例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T03:02:26Z"
     },
     {
       "pmid": "42434035",
