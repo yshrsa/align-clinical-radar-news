@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-03T03:02:27Z",
+  "generated_at_utc": "2026-11-04T01:32:52Z",
   "items": [
     {
       "pmid": "42970542",
@@ -5658,16 +5658,17 @@
       "summary_generated_at_utc": "2026-11-03T03:02:26Z"
     },
     {
-      "pmid": "42498769",
-      "title": "Correction to: Orthodontic clear aligner treatment in a 12-year-old with complex Class II malocclusion: a non-extraction approach.",
-      "abstract": "",
-      "journal": "British dental journal",
-      "authors": "",
-      "pub_date": "2026-01-01",
-      "doi": "10.1038/s41415-026-0062-4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498769/",
+      "pmid": "42434035",
+      "title": "Biocompatibility of Direct 3D-Printed Clear Aligner Resins: A Comparative In Vitro Cytotoxicity Analysis.",
+      "abstract": "BACKGROUND: This study comparatively evaluated the mechanical properties of four commercially available, directly three-dimensional (3D) printed clear aligner materials by analyzing tensile behavior, flexural properties, and surface hardness.\nMATERIALS AND METHODS: Four direct-print clear aligner resins were included: CRS, LuxCreo, Rayform 4D clear aliner resin, and PowerResins clear smile resin. Specimens were fabricated according to the manufacturers' protocols with a standardized thickness of 0.70 mm and 50 m layer thickness in vertical orientation. Tensile (n = 5), three-point bending (n = 5), and Shore D hardness (n = 10) tests were performed at room temperature (23°C) at the accredited laboratories of TÜBTAK Marmara Research Center. Statistical analysis was performed using one-way analysis of variance followed by Sidak's multiple comparisons test (p &lt; 0.05).\nRESULTS: Significant differences were found among all materials for all tested parameters (p &lt; 0.0001). PowerResins showed the highest elastic modulus (2187.7 ± 315.8 megapascals [MPa]), tensile strength (51.5 ± 2.9 MPa), flexural modulus (1609.7 ± 95.6 MPa), flexural strength (71.9 ± 2.9 MPa), and Shore D hardness (87.3 ± 0.9), indicating superior rigidity. LuxCreo demonstrated the highest elongation at break (118.4 ± 10.7%), suggesting greater flexibility and ductility. Rayform 4D showed intermediate mechanical behavior, whereas CRS generally exhibited lower flexural resistance.\nCONCLUSIONS: Directly printed clear aligner materials exhibit significant variability in mechanical properties. PowerResins may be more suitable for cases requiring greater rigidity and force delivery, whereas LuxCreo may be preferable when flexibility and patient comfort are prioritized. Material selection should be based on specific orthodontic treatment objectives and clinical biomechanical requirements.",
+      "journal": "Journal of clinical and experimental dentistry",
+      "authors": "Tutka Nida, Çakir Betül Gülhan, Artuç Ahmet Murat",
+      "pub_date": "2026-05-29",
+      "doi": "10.4317/jced.64159",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42434035/",
       "publication_types": [
-        "Published Erratum"
+        "Journal Article",
+        "Review"
       ],
       "mesh_terms": [],
       "matched_assets": [],
@@ -5675,59 +5676,52 @@
       "focal_related": false,
       "matched_topics": [],
       "japan_relevant": false,
-      "content_sha256": "c576fcf670fc3f5299726a7c04267de40297ffe79c3dab66b5304cf2127b3c4d",
+      "content_sha256": "ebd095cf0c339fcbfa36e8103dc7f730d8fb54d00cd180615d74d45712cb15f0",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
       "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-10-10T13:21:50Z"
+      "summary_ja": "4種類の市販直接3Dプリント透明マウスピース用レジン（CRS、LuxCreo、Rayform 4D clear aligner resin、PowerResins clear smile resin）の機械的特性（引張特性、曲げ特性、表面硬さ）を比較評価したin vitro研究。試料は厚さ0.70 mm、層厚50 μm、垂直方向で製造され、室温（23°C）で引張試験（n=5）、三点曲げ試験（n=5）、Shore D硬さ試験（n=10）を実施。なお、タイトルには「Biocompatibility」「Cytotoxicity」とあるが、抄録の内容は機械的特性の比較のみであり、生体適合性や細胞毒性に関する記述はない。",
+      "key_takeaway_ja": "直接3Dプリント透明マウスピース用材料は機械的特性に有意なばらつきがある。PowerResinsは剛性・力伝達に優れ、LuxCreoは柔軟性・患者快適性に優れる。材料選択は矯正治療目標と臨床的生物力学的要件に基づいて行うべきである。",
+      "why_matters_ja": "治療計画における材料選択の観点：抄録は「材料選択は特定の矯正治療目標と臨床的生物力学的要件に基づいて行うべき」と述べており、治療計画時に剛性重視か柔軟性重視かの材料選定が治療目標に依存することを示唆している。",
+      "study_type_ja": "比較in vitro研究（機械的特性評価）",
+      "endpoints_ja": "弾性率、引張強さ、破断時伸び、曲げ弾性率、曲げ強さ、Shore D硬さ",
+      "endpoint_results_ja": "全材料間で全パラメータに有意差（p < 0.0001）。PowerResins：弾性率 2187.7 ± 315.8 MPa、引張強さ 51.5 ± 2.9 MPa、曲げ弾性率 1609.7 ± 95.6 MPa、曲げ強さ 71.9 ± 2.9 MPa、Shore D硬さ 87.3 ± 0.9。LuxCreo：破断時伸び 118.4 ± 10.7%。Rayform 4Dは中間的な機械的挙動、CRSは曲げ抵抗が全体的に低かった。",
+      "sample_size_ja": "4材料 × 引張試験 n=5、三点曲げ試験 n=5、Shore D硬さ試験 n=10",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:28:02Z"
     },
     {
-      "pmid": "40394411",
-      "title": "Effectiveness and accuracy of clear aligners in treatment of deep bite: a systematic review.",
-      "abstract": "OBJECTIVES: This systematic review evaluated the effectiveness and accuracy of clear aligners (CA) for dental and skeletal deep bite correction.\nMETHODS: Searches in PubMed, Embase, Cochrane, and grey literature were conducted from inception to May 2024. Studies included all age groups with dental and/or skeletal deep bite treated with CA, with or without control groups, using prospective or retrospective designs. Risk of bias was assessed through Risk Of Bias In Non-randomised Studies-of Interventions (\"ROBIN-I\").\nRESULTS: Out of 829 studies screened, 18 were included. Eight studies assessed CA's effectiveness, eight evaluated CA accuracy, and two examined both. The effectiveness in bite opening ranged from 0.4 mm to 3.8 mm, while the accuracy in deep bite correction varied between 33% and 48.88% across all studies. According to GRADE, the evidence for both CA accuracy and effectiveness in deep bite treatment was rated as low quality due to high risk of bias, indirectness, and imprecision, despite consistent findings across studies.\nCONCLUSION: CA can effectively correct mild to moderate dentoalveolar deep bites; however, its efficacy in skeletal cases compared to full-fixed appliance (FFA) remains uncertain. Planned correction of deep bites with CA often falls short of the actual achieved correction, making overcorrection or refinements necessary for achieving the desired treatment outcomes. Due to the limited quality and methodological variability among the studies, recommending CA as a superior modality for deep bite correction remains premature.\nCLINICAL RELEVANCE: CA may be effective for dentoalveolar deep bites but often needs adjustments for accuracy and is less effective than FFA for skeletal cases.\nREGISTRATION: The review protocol was registered in PROSPERO (#CRD42022334078).",
-      "journal": "Clinical oral investigations",
-      "authors": "Husain Fatemah, Riccardi Joseph, Alletto Lia, Stellrecht Elizabeth, Bejehmir Arash Poursattar, Al-Jewair Thikriat",
-      "pub_date": "2025-05-21",
-      "doi": "10.1007/s00784-025-06381-7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40394411/",
+      "pmid": "42434488",
+      "title": "Do treatment outcomes of clear aligners remain stable over time? A systematic review.",
+      "abstract": "OBJECTIVE: This review systematically evaluated the evidence on clear aligner therapy, focusing on its dentoskeletal, periodontal, and patient-related advantages over traditional appliances.\nMATERIALS AND METHODS: A comprehensive literature search was conducted in PubMed, Scopus, and Web of Science for relevant studies published between January 2015 and March 2025. The two authors independently assessed the titles and abstracts of conceivably eligible papers. Disputes between the two examiners were settled by discussion, and a third party was consulted for a conclusive decision. The review question was formulated using the population, intervention, comparison, and outcome (PICO) framework. The risk of bias instrument RoB-2 was used to assess the risk of bias in randomized controlled trials (RCTs). The Risk of Bias in Non-randomized Studies of Interventions (ROBINS-I) method was used in assessing non-randomized studies.\nRESULTS: The search identified 196 studies, of which 55 underwent full-text review, and 15 met the inclusion criteria. Thirteen were non-randomized studies and two randomized. Six examined long-term aligner outcomes without comparison, three compared aligners with twin block appliances, one with an untreated group, and six with fixed appliances. According to the ROBINS-I tool, three studies showed low, three moderate, and seven high risk of bias (RoB), while both RCTs had low risk according to RoB-2.\nCONCLUSION: Clear aligners enhance dental aesthetics and periodontal health relative to conventional fixed appliances, offering potential benefits in treatment length and patient comfort.",
+      "journal": "Journal of orthodontic science",
+      "authors": "Aljehani Dareen Khaled, Pullishery Fawaz",
+      "pub_date": "2026-05-27",
+      "doi": "10.4103/jos.jos_188_25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42434488/",
       "publication_types": [
         "Journal Article",
-        "Systematic Review"
+        "Review"
       ],
-      "mesh_terms": [
-        "Humans",
-        "Overbite",
-        "Treatment Outcome",
-        "Orthodontic Appliance Design",
-        "Orthodontic Appliances, Removable"
-      ],
+      "mesh_terms": [],
       "matched_assets": [],
       "matched_companies": [],
       "focal_related": false,
       "matched_topics": [
-        "predictability",
-        "refinement"
+        "safety-patient-outcomes"
       ],
       "japan_relevant": false,
-      "content_sha256": "53a7df1d238e6e31d612279820198efb58ae0f070fe3890cd0d5a96acf77a12d",
-      "fetched_at_utc": "2026-10-10T08:48:35Z",
-      "updated_at_utc": "2026-10-10T08:48:35Z",
-      "summary_ja": "本レビューは、clear aligners（CA）による歯性・骨性deep bite矯正の有効性と精度を評価した。829件中18研究が採用され、bite openingは0.4 mm〜3.8 mm、deep bite correctionの精度は33%〜48.88%と報告された。CAは軽〜中等度の歯性deep biteに有効だが、骨性症例ではFFAとの優劣は不確実で、計画矯正の達成不足によりovercorrectionやrefinementが必要になりうる。",
-      "key_takeaway_ja": "CAは軽〜中等度の歯性deep biteに有効だが、骨性症例ではFFAとの優劣は不確実で、planned correctionの達成不足によりovercorrection/refinementが必要になりうる。",
-      "why_matters_ja": "planned-vs-achievedとrefinementの観点で、CAによるdeep biteの計画矯正は実際の達成値が計画に届きやすく、overcorrectionやrefinementが必要とされるため、計画品質とリファインメント設計が重要。",
-      "study_type_ja": "Systematic review",
-      "endpoints_ja": "主要・副次は明示なし。CAによるdeep bite correctionの有効性（bite opening）と精度（accuracy）",
-      "endpoint_results_ja": "bite opening: 0.4 mm to 3.8 mm; accuracy: 33% to 48.88%",
+      "content_sha256": "39975c91c76d252039d1352d51ab20e18be262c3a6bb64873686220fb2846b06",
+      "fetched_at_utc": "2026-10-10T13:15:10Z",
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "2015年1月から2025年3月までにPubMed、Scopus、Web of Scienceで公開された文献を対象に、クリアアライナー治療の歯顎骨格・歯周・患者関連の利点を従来の固定装置と比較して体系的に評価したシステマティックレビュー。196件の文献を特定し、55件を全文レビューし、15件（非ランダム化13件、ランダム化2件）が包含基準を満たした。",
+      "key_takeaway_ja": "クリアアライナーは従来の固定装置と比較して歯の審美性と歯周健康を向上させ、治療期間の短縮と患者の快適性において潜在的な利点を提供する。",
+      "why_matters_ja": "計画品質：治療アウトカムの長期安定性（planned-vs-achieved）が評価の焦点。安全性：歯周健康の利点が言及。ワークフロー：治療期間の短縮が言及。",
+      "study_type_ja": "システマティックレビュー",
+      "endpoints_ja": "歯顎骨格、歯周、患者関連のアウトカム（審美性、歯周健康、治療期間、患者の快適性）",
+      "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
-      "summary_model": "ollama/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-10-10T13:03:01Z"
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:28:50Z"
     }
   ]
 }
