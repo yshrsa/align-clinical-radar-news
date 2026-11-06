@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-05T01:29:54Z",
+  "generated_at_utc": "2026-11-06T01:36:54Z",
   "documents": [
     {
       "pmid": "42970542",
@@ -463,6 +463,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-23T00:02:21Z"
+    },
+    {
+      "pmid": "42984746",
+      "title": "Occlusal Improvement, Treatment Duration, and Stability With Clear Aligners: A Systematic Review and Meta-Analysis of Peer Assessment Rating (PAR)-Based Evidence.",
+      "abstract": "Clear aligner therapy is widely used as an aesthetic alternative to fixed appliances, but its ability to achieve and maintain high-quality occlusion relative to conventional braces remains uncertain when judged using comprehensive occlusal indices such as the Peer Assessment Rating (PAR) index. In this review, PAR‑based occlusal outcomes and short‑term post‑treatment stability after comprehensive clear aligner treatment are systematically reviewed and quantitatively synthesised; outcomes are compared with those of conventional fixed appliances and aligner‑only cohorts. A systematic search was conducted in PubMed/MEDLINE, Embase, Cochrane CENTRAL, and Scopus, supplemented by Google Scholar and reference screening. Eligible studies comprised randomised controlled trials (RCTs), controlled clinical studies, and prospective cohorts that reported pre‑ and post‑treatment PAR scores (original or UK‑weighted) of adolescents or adults with permanent dentition undergoing comprehensive clear aligner therapy. Primary outcomes were total PAR reduction (absolute and percentage) and the proportion of patients classified as \"improved\" (≥30% PAR reduction) or \"greatly improved\" (≥22‑point reduction and/or final PAR = 0). Secondary outcomes included changes in individual PAR components, treatment duration, and PAR‑based stability at follow‑up. Risk of bias was evaluated using RoB 2 for RCTs and ROBINS‑I for non‑randomised studies, and the certainty of evidence was assessed with GRADE. Seven studies (four RCTs, two retrospective comparative studies, and one prospective aligner cohort) met the inclusion criteria. Five studies contributed to the comparative meta‑analyses. Clear aligners produced large improvements in weighted PAR scores, and pooled estimates showed no statistically significant difference in overall PAR reduction compared with fixed appliances (MD -2.17 percentage points in favour of fixed appliances; 95% CI -6.74 to 2.41; I² = 73%). The proportion of patients with the outcome \"great improvement\" differed across the studies, with a pooled risk ratio of 0.86 (95% CI 0.69 to 1.06). In addition, nearly all participants in studies reporting this outcome achieved at least a 30% PAR reduction. Treatment duration showed no consistent difference between modalities (MD -1.48 months; 95% CI -5.45 to 2.49; I² = 96%), although heterogeneity was very high. Two non-randomised studies with follow-up PAR data reported broadly stable and low PAR scores over short- to medium-term retention; however, certainty of evidence for stability was very low due to small sample sizes, non-randomised designs, and limited comparator data. When judged by PAR‑based global occlusal outcomes, clear aligner therapy achieves substantial occlusal improvement that appears broadly comparable to fixed appliances across selected malocclusions, without a consistent difference in the treatment duration. High‑quality RCTs with standardised PAR reporting and long‑term follow‑up are needed to define the indications for which clear aligners are considered equivalent or inferior to fixed appliances from an occlusal and stability perspective.",
+      "journal": "Cureus",
+      "authors": "Alrefai Noor Y, Alhazmi Mohammed A, Alraithi Noufah M, Alshahrani Anwar A, Suqati Leen A, Alshubaili Deema I, Alsalhi Raghad H, Almutairi Randa A",
+      "pub_date": "2026-10-04",
+      "doi": "10.7759/cureus.117453",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984746/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "retention-relapse"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "02df7322f52a60acd75f524f34e5d88ef4387b0f7e7e085ae7f15ca3a58f5cc5",
+      "fetched_at_utc": "2026-11-06T01:36:54Z",
+      "updated_at_utc": "2026-11-06T01:36:54Z",
+      "summary_ja": "PAR（Peer Assessment Rating）インデックスに基づくクリアアライナーの咬合アウトカムと短期安定性を系統的レビュー・メタ分析で評価した研究。PubMed/MEDLINE、Embase、Cochrane CENTRAL、Scopus等を検索し、RCT、対照臨床研究、前向きコホートを対象に、治療前後のPARスコア（原版またはUK加重版）を報告した恒久歯列の青少年・成人を対象とする包括的クリアアライナー治療の研究を抽出した。7研究（RCT 4件、後向き対照研究2件、前向きアライナーコホート1件）が基準を満たし、うち5研究が比較メタ分析に寄与した。",
+      "key_takeaway_ja": "PARに基づく全体的咬合アウトカムにおいて、クリアアライナーは選択された不正咬合に対して固定装置とほぼ同等の咬合改善を達成し、治療期間に一貫した差は認められなかった。",
+      "why_matters_ja": "計画品質：PARに基づく全体的咬合アウトカムでクリアアライナーが固定装置と同等の改善を示すことは、治療計画の品質評価指標としてPARを用いる際の根拠となる。planned-vs-achieved：「great improvement」の達成率（pooled RR 0.86）や30%以上PAR減少の達成率（ほぼ全患者）は、計画目標に対する達成度の評価に直接関連する。ワークフロー：治療期間に一貫した差がない（MD -1.48ヶ月、95% CI -5.45〜2.49）ことは、治療計画における期間予測の観点で参考となる。",
+      "study_type_ja": "系統的レビュー・メタ分析",
+      "endpoints_ja": "主アウトカム：PAR総得点の減少量（絶対値およびパーセンテージ）、PAR減少率30%以上の「improved」または22点以上減少かつ/または最終PAR=0の「greatly improved」に分類された患者の割合。副次アウトカム：PAR各コンポーネントの変化、治療期間、フォローアップ時のPARに基づく安定性。",
+      "endpoint_results_ja": "PAR総得点減少量：固定装置優位にMD -2.17ポイント（95% CI -6.74〜2.41、I²=73%）、統計的に有意な差なし。「great improvement」のpooled risk ratio：0.86（95% CI 0.69〜1.06）。PAR減少率30%以上を達成した患者：ほぼ全患者。治療期間：MD -1.48ヶ月（95% CI -5.45〜2.49、I²=96%）、一貫した差なし。安定性：2件の非ランダム化研究で短期〜中期保定中に概ね安定した低PARスコアを報告（確実性：非常に低）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-06T01:37:25Z"
     },
     {
       "pmid": "42834390",
@@ -2781,6 +2815,56 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-18T23:23:53Z"
+    },
+    {
+      "pmid": "42983358",
+      "title": "Three-dimensional orientation changes of unerupted maxillary canines and second premolars treated with facemask therapy: a retrospective study.",
+      "abstract": "BACKGROUND: Tooth-borne facemask therapy for skeletal Class III malocclusion is often performed during the mixed dentition, when the maxillary canines and second premolars are still developing. Although the appliance advances the maxilla, it also produces dentoalveolar side effects that could theoretically reorient these developing germs into potentially less favourable positions. This study therefore quantified, in three dimensions, the short-term changes in the orientation of unerupted maxillary canines and second premolars following maxillary protraction.\nMETHODS: In this retrospective study, baseline and follow-up cone-beam computed tomography records from 30 patients who received tooth-borne maxillary protraction and 30 untreated controls were analysed. A maxilla-specific coordinate system was used to quantify three-dimensional changes in the long-axis orientation of unerupted maxillary permanent canines and second premolars. Between-group differences were assessed using linear mixed-effects models with a participant-level random intercept to account for bilateral observations. Sensitivity analyses adjusted for observation interval, baseline age, Nolla stage, initial tooth-germ orientation and available baseline cusp coordinates.\nRESULTS: Compared with controls, canine tooth germs in the facemask group showed greater labial inclination (between-group β = 8.5°, 95% CI 5.0 to 12.0; P < 0.001), without a significant mesiodistal component (P = 0.231). Second premolar tooth germs showed greater mesial inclination (β = 8.0°; P < 0.001), palatal inclination (β = -2.7°; P < 0.001) and anterior rotation of the buccal cusp (β = -6.0°; P < 0.001). These between-group differences remained significant in sensitivity analyses; canine mesiodistal angulation showed no significant between-group difference in either the primary or the sensitivity analyses. Greater angular changes were associated with lower baseline cusp height for both canines (P = 0.001) and second premolars (P = 0.007).\nCONCLUSIONS: Tooth-borne maxillary protraction was associated with short-term changes in the orientation of unerupted maxillary tooth germs-labial inclination of canines and mesial, palatal and rotational components in second premolars. Because the link between these orientation changes and eruption outcome remains to be established, monitoring of unerupted germs during treatment may be prudent. Longitudinal follow-up is needed to determine whether these changes affect eventual eruption, impaction or arch-space conditions.",
+      "journal": "BMC oral health",
+      "authors": "Sun Yidan, Chen Qingqing, Wu Jianyong, Yang Xin",
+      "pub_date": "2026-08-04",
+      "doi": "10.1186/s12903-026-09513-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983358/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Retrospective Studies",
+        "Cuspid",
+        "Bicuspid",
+        "Cone-Beam Computed Tomography",
+        "Maxilla",
+        "Malocclusion, Angle Class III",
+        "Tooth, Unerupted",
+        "Extraoral Traction Appliances",
+        "Imaging, Three-Dimensional",
+        "Female",
+        "Male",
+        "Child",
+        "Dentition, Mixed",
+        "Tooth Germ",
+        "Follow-Up Studies",
+        "Cephalometry",
+        "Tooth Movement Techniques"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "296993a73e2c1e3643f171a838bbd417ceb6703738cbef9cbd7e3f1bb22d64b9",
+      "fetched_at_utc": "2026-11-06T01:36:54Z",
+      "updated_at_utc": "2026-11-06T01:36:54Z",
+      "summary_ja": "歯性上顎前方牵引（facemask therapy）を受けた混合歯列期患者の未萌出上顎犬歯および第二小臼歯の歯胚の三次元方向変化を、CBCTを用いてprospectiveに定量化した後ろ向き研究。30例のfacemask群と30例の非治療対照群を比較し、上顎固有座標系で長軸方向の変化を線形混合効果モデルで解析した。",
+      "key_takeaway_ja": "歯性上顎前方牵引は、未萌出上顎犬歯の唇側傾斜（β=8.5°）および第二小臼歯の近心傾斜（β=8.0°）、口蓋側傾斜（β=-2.7°）、頬側尖の前方回転（β=-6.0°）を対照群に比べて有意に誘発する。これらの方向変化が最終的な萌出結果に与える影響は未確定であり、治療中の未萌出歯胚のモニタリングが推奨される。",
+      "why_matters_ja": "安全性の観点：上顎前方牵引の計画された骨格効果に対し、未萌出歯胚の方向変化という非意図的な歯槽側効果が存在し、将来的な埋伏・萌出障害リスクに寄与し得る。治療計画品質の観点：混合歯列期の治療計画において、未萌出歯胚の初期方向を考慮したリスク評価が計画段階で必要となる可能性を示唆する。",
+      "study_type_ja": "後ろ向きコホート研究（対照群あり）",
+      "endpoints_ja": "未萌出上顎犬歯および第二小臼歯の長軸方向の三次元変化（唇側傾斜、近遠心傾斜、近心傾斜、口蓋側傾斜、頬側尖回転）",
+      "endpoint_results_ja": "犬歯：唇側傾斜 β=8.5°（95% CI 5.0〜12.0; P<0.001）、近遠心傾斜 P=0.231（有意差なし）。第二小臼歯：近心傾斜 β=8.0°（P<0.001）、口蓋側傾斜 β=-2.7°（P<0.001）、頬側尖前方回転 β=-6.0°（P<0.001）。ベースライン尖高が低いほど角度変化が大きい（犬歯 P=0.001、第二小臼歯 P=0.007）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-06T01:38:21Z"
     },
     {
       "pmid": "42589838",
@@ -6273,7 +6357,16 @@
       "japan_relevant": false,
       "content_sha256": "52c9b078bffc0020e9b627ad2970dccf29672940a4b307b77e1ab1b7543a5c14",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "古代から21世紀までの矯正歯科の進化を包括的に追跡した歴史レビュー。古典文明における歯列整列の初期の関心、16〜17世紀の革新、18世紀の不正咬合矯正への意図的な試み、19世紀の固定装置の登場、20世紀の矯正歯科の制度化（顎骨手術、セファロメトリー、Invisalignによるアライナー療法の導入）、そして21世紀のデジタル技術・学際的ケア・個別化治療計画による現代矯正歯科の定義を概観する。",
+      "key_takeaway_ja": "矯正歯科は古代の歯列整列への関心から始まり、固定装置・顎骨手術・セファロメトリー・アライナー療法を経て、21世紀にはデジタル技術と個別化治療計画が定義する段階に至った。",
+      "why_matters_ja": "21世紀の矯正歯科がデジタル技術・学際的ケア・個別化治療計画によって定義されると述べられており、治療計画の個別化・デジタル化という現在の方向性の歴史的経緯を文脈化する点で参考になる。ただし、計画品質・planned-vs-achieved・refinement・安全性・ワークフローに関する具体的な根拠は抄録にない。",
+      "study_type_ja": "歴史レビュー（Historical Review）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-06T01:39:10Z"
     },
     {
       "pmid": "42566646",
@@ -6317,7 +6410,16 @@
       "japan_relevant": false,
       "content_sha256": "2a2121b1ea6e58a24e1178986148f0c1ac394d11087a4607babc207474f1f368",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "小臼歯抜歯後の上顎前歯後退をクリアアライナー治療（CAT）で管理した症例において、異なるTADパターン（Non-TAD、後方TADのみ、前後方TAD併用）の治療成績を比較した後方視コホート研究。治療前後のCBCTを用いてU1の舌側移動、圧入、後方傾斜、および側面効果（根尖部吸収、歯髄腔縮小、口蓋側骨板欠損）を定量化した。",
+      "key_takeaway_ja": "AP-TADsはU1圧入（1.07 ± 1.64 mm）を達成した一方、P-TADsおよびNon-TADはU1突出を示した。AP-TADs群ではARR（1.31 ± 0.91 mm）が最も大きく、Grade III ARRの割合も高かった。回帰分析では、達成された圧入量がARRの最も強い独立予測因子であった。",
+      "why_matters_ja": "planned-vs-achieved: 異なるアンカリング戦略（TADパターン）がU1の圧入・突出・舌側移動・後方傾斜に与える影響を定量的に比較しており、治療計画時のアンカリング選択と達成度の乖離を評価する根拠となる。安全性: 圧入量がARRの最も強い独立予測因子であるという知見は、治療計画時に圧入量と根尖部吸収リスクのトレードオフを考慮する上で重要である。",
+      "study_type_ja": "後方視コホート研究",
+      "endpoints_ja": "U1舌側移動量、U1圧入/突出量、U1後方傾斜角、根尖部吸収（ARR）、歯髄腔縮小、口蓋側骨板欠損発生率",
+      "endpoint_results_ja": "P-TADsおよびAP-TADsはNon-TADよりU1舌側移動が大きい。AP-TADs: U1圧入 1.07 ± 1.64 mm。P-TADs: U1突出 -0.46 ± 1.12 mm。Non-TAD: U1突出 -1.51 ± 1.29 mm。U1後方傾斜は全群で10°超。AP-TADs: ARR 1.31 ± 0.91 mm、Grade III ARRの割合が他群より高い。歯髄腔縮小および口蓋側骨板欠損発生率は群間で差なし。回帰分析で圧入達成量がARRの最も強い独立予測因子。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-06T01:40:17Z"
     },
     {
       "pmid": "42515965",
@@ -6342,7 +6444,16 @@
       "japan_relevant": false,
       "content_sha256": "7c5e12ea28c86fb4ab25e9904f501f4930328177e99738846925802b41c599f9",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "熱成形アライナー（TFA）から直接印刷アライナー（DPA）への移行に関するナラティブレビュー。形状記憶ポリマー（SMP）を用いたDPAが、材料科学・デジタル設計・生体力学的性能・臨床応用の観点でTFAの限界（材料薄化、幾何学的歪み、力の伝達の一貫性の欠如、複雑な歯移動における予測性の限界）をどのように克服し得るかを統合的に概観する。",
+      "key_takeaway_ja": "DPAはSMPの有利な粘弾性挙動により生理的範囲内の軽快で連続的な力を最小限の力減衰で伝達でき、トルク表現・回転制御・抜歯効率・後方拡大・アンカレッジ管理の改善およびボンディングアタッチメントへの依存と必要アライナー枚数の削減が期待されるが、設計プロトコルの精緻化と長期細胞毒性・口腔内老化挙動・環境影響の評価がさらに必要である。",
+      "why_matters_ja": "計画品質：トルク表現・回転制御・抜歯効率・後方拡大・アンカレッジ管理の改善が示唆される。planned-vs-achieved：複雑な歯移動における予測性の向上がTFAの限界として言及され、DPAがこれを改善し得るとされる。ワークフロー：ボンディングアタッチメントへの依存と必要アライナー枚数の削減が臨床的利点として挙げられる。安全性：長期細胞毒性・口腔内老化挙動が今後の評価課題として明示されている。",
+      "study_type_ja": "ナラティブレビュー",
+      "endpoints_ja": "材料厚さ減少、機械的物性の劣化、初期力、力減衰、トルク表現、回転制御、抜歯効率、後方拡大、アンカレッジ管理、ボンディングアタッチメント使用量、必要アライナー枚数",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-06T01:41:40Z"
     },
     {
       "pmid": "42498769",
@@ -6406,7 +6517,16 @@
       "japan_relevant": false,
       "content_sha256": "0b1430fa7bd54fd2940051729bb4fee16d0bfec0d692f68ef24c520e3ef49cab",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "Angle Class II不正咬合の患者80例（PASS群40例、クリアアライナー群40例）を対象に、PASS装置とクリアアライナーの矯正効果を比較した無作為化比較試験。6ヶ月後の評価において、PASS群はPARスコア、U1-NA角、L1-NB角、上下唇突出度（ULP、LLP）、Z角、咬合力、咀嚼効率、OHIP-5スコアの改善においてクリアアライナー群より有意に優れていた。SNA・SNBには両群間で有意差なし。歯周指標（PD、BI、GI）は両群とも治療後に有意に悪化したが、群間差は有意でなかった。",
+      "key_takeaway_ja": "6ヶ月時点ではPASS装置がクリアアライナーより硬組織・軟組織指標および咀嚼機能の改善で優位であったが、クリアアライナーは歯周組織への副作用が少なく口腔健康状態が良好であった。",
+      "why_matters_ja": "planned-vs-achievedの観点：6ヶ月時点でクリアアライナー群はPASS群よりU1-NA角・L1-NB角・軟組織指標の改善が劣っており、Class II症例におけるクリアアライナーの達成度の限界を示唆する。安全性の観点：両群とも歯周指標（PD、BI、GI）が治療後に悪化しており、クリアアライナーでも歯周リスクが排除されないことを示す。",
+      "study_type_ja": "無作為化比較試験（RCT）",
+      "endpoints_ja": "PARスコア、U1-NA角、L1-NB角、SNA、SNB、ULP、LLP、Z角、PD、BI、GI、咬合力、咀嚼効率、OHIP-5",
+      "endpoint_results_ja": "抄録には具体的な数値（平均値・標準偏差等）は記載されておらず、有意差（P＜0.05 / P＞0.05）と方向性のみが報告されている。",
+      "sample_size_ja": "80例（PASS群40例、クリアアライナー群40例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-06T01:42:41Z"
     },
     {
       "pmid": "42359852",
