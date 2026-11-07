@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "checked_at_utc": "2026-11-06T01:42:42Z",
-  "overall_status": "degraded",
+  "checked_at_utc": "2026-11-07T01:00:39Z",
+  "overall_status": "healthy",
   "freshness": {
     "status": "current",
-    "age_hours": 0.1
+    "age_hours": 0.0
   },
   "counts": {
-    "documents": 175,
-    "summarized": 170,
-    "pending": 5,
+    "documents": 176,
+    "summarized": 176,
+    "pending": 0,
     "publishable": 150,
     "validation_problems": 0
   },

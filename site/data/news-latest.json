@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-06T01:42:42Z",
+  "generated_at_utc": "2026-11-07T01:00:39Z",
   "items": [
     {
       "pmid": "42970542",
@@ -1263,6 +1263,37 @@
       "sample_size_ja": "705例",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-12T00:37:37Z"
+    },
+    {
+      "pmid": "42992287",
+      "title": "Water sorption, solubility, and relative deformation of thermoplastic materials used for clear aligners: An in vitro study.",
+      "abstract": "BACKGROUND: Thermoplastic materials used in the fabrication of clear aligners are continuously exposed to the oral environment; therefore, properties such as water sorption, solubility, and dimensional stability may influence their clinical performance. The objective is to compare, through an in vitro study, the physical properties of thermoplastic materials used for the fabrication of orthodontic aligners, under non-thermoformed and thermoformed conditions, after immersion in distilled water.\nMATERIALS AND METHODS: A total of 104 specimens obtained from four commercial thermoplastic materials: Claris, Pro Aligner X, Taglus Premium, and Essix ACE® were evaluated under non-thermoformed and thermoformed conditions (n=13 per group). Water sorption and solubility were determined according to ISO 20795-2 after immersion in distilled water at 37°C for seven days. Relative deformation was calculated from changes in thickness before and after immersion. Data were analyzed using one-way ANOVA or the Kruskal-Wallis test, according to data distribution (α=0.05).\nRESULTS: Significant differences in water sorption were observed among commercial brands in both non-thermoformed (p=0.008) and thermoformed samples (p<0.001). Thermoformed Claris showed the highest water sorption value (22.48 ± 3.20 μg/mm3). Solubility showed no significant differences among materials under any experimental condition (p>0.05). Relative deformation differed significantly among brands in both non-thermoformed and thermoformed samples (p<0.001), with the highest value recorded for thermoformed Claris (1.70 ± 0.79%).\nCONCLUSIONS: The evaluated thermoplastic materials showed different behaviors in water sorption and relative deformation after immersion in distilled water. Thermoformed Claris showed the highest water sorption and relative deformation values, suggesting greater dimensional susceptibility under the evaluated experimental conditions.",
+      "journal": "Journal of clinical and experimental dentistry",
+      "authors": "Lopez-Beraun Pablo, Liñan-Duran Carlos, Achachao-Almerco Kelly",
+      "pub_date": "2026-09-15",
+      "doi": "10.4317/jced.64490",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992287/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "b477156806e83a94ea8d94d4ba86bf947454faa5c3f02f734c259264f49a93ca",
+      "fetched_at_utc": "2026-11-07T00:57:54Z",
+      "updated_at_utc": "2026-11-07T00:57:54Z",
+      "summary_ja": "透明アライナー用熱可塑性材料4種（Claris、Pro Aligner X、Taglus Premium、Essix ACE）の吸水率、溶解性、相対変形を、非熱成形および熱成形条件下で蒸留水37°Cに7日間浸漬後に比較したin vitro研究。",
+      "key_takeaway_ja": "熱成形Clarisが最も高い吸水率（22.48 ± 3.20 μg/mm³）と相対変形（1.70 ± 0.79%）を示し、評価条件下で最も寸法安定性に劣る傾向があった。溶解性には材料間で有意差を認めなかった。",
+      "why_matters_ja": "planned-vs-achieved: 材料の相対変形が大きいほど、計画された歯の移動量と実際の達成量との乖離が生じる可能性があり、治療計画の精度に影響しうる。refinement: 寸法安定性の低い材料では、計画通りの力伝達が妨げられ、リファインメント回数の増加につながる可能性がある。",
+      "study_type_ja": "in vitro研究（材料試験）",
+      "endpoints_ja": "吸水率、溶解性、相対変形",
+      "endpoint_results_ja": "吸水率：非熱成形群（p=0.008）および熱成形群（p<0.001）で材料間に有意差。熱成形Clarisが最高値（22.48 ± 3.20 μg/mm³）。溶解性：いずれの条件でも有意差なし（p>0.05）。相対変形：非熱成形群および熱成形群で有意差（p<0.001）。熱成形Clarisが最高値（1.70 ± 0.79%）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:58:22Z"
     },
     {
       "pmid": "42751289",
@@ -5707,39 +5738,6 @@
       "sample_size_ja": "3例（骨格成長末期の思春期患者）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-11-03T03:02:06Z"
-    },
-    {
-      "pmid": "42662335",
-      "title": "Assessing root resorption incidence in clear aligner versus fixed orthodontic appliance using CBCT.",
-      "abstract": "Root resorption is a significant complication in orthodontic treatment that can lead to long-term tooth damage and affects treatment outcomes. Therefore, it is of interest to assess the incidence and severity of root resorption in patients treated with clear aligners versus fixed orthodontic appliance MBT (McLaughlin, Bennett, and Trevisi) using CBCT. Hence, a total of 100 patients (50 per group) were evaluated at baseline, 3 months and 6 months of treatment. The results showed high incidence and severity of root resorption in the fixed orthodontic appliance (MBT) group compared to the clear aligner group. Thus, data offers insights into the selection of safer treatment options.",
-      "journal": "Bioinformation",
-      "authors": "P Narayana Prasad, Sharma Tarun, Rawat Anupa, Bhatt Luv, Joshi Sumit, Bhatt Sonali",
-      "pub_date": "2026-05-31",
-      "doi": "10.6026/973206300222933",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42662335/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "focal_related": false,
-      "matched_topics": [
-        "safety-patient-outcomes"
-      ],
-      "japan_relevant": false,
-      "content_sha256": "f4a0774cab27dc7cd4afd0d99d20cfae85e648b85a66ed0c0040e0973c3062d2",
-      "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "CBCTを用いて、クリアアライナーと固定式矯正装置（MBT）の両群における歯根吸収の発生率と重症度を比較した研究。100例（各群50例）を治療開始時、3ヶ月、6ヶ月の時点で評価した。",
-      "key_takeaway_ja": "固定式矯正装置（MBT）群はクリアアライナー群と比較して、歯根吸収の発生率と重症度が有意に高かった。",
-      "why_matters_ja": "安全性の観点：歯根吸収は長期的な歯の損傷につながる重要な合併症であり、アプライアンス選択時の安全性評価に寄与する。抄録は「より安全な治療オプションの選択」への示唆を述べている。",
-      "study_type_ja": "比較研究（2群比較）",
-      "endpoints_ja": "CBCTによる歯根吸収の発生率および重症度（治療開始時、3ヶ月、6ヶ月の時点で評価）",
-      "endpoint_results_ja": "固定式矯正装置（MBT）群でクリアアライナー群と比較して高い発生率と重症度が示された（具体的な数値は抄録に記載なし）",
-      "sample_size_ja": "100例（クリアアライナー群50例、固定式矯正装置MBT群50例）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-03T03:02:26Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-06T01:36:54Z",
+  "generated_at_utc": "2026-11-07T00:57:54Z",
   "documents": [
     {
       "pmid": "42970542",
@@ -1263,6 +1263,37 @@
       "sample_size_ja": "705例",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-12T00:37:37Z"
+    },
+    {
+      "pmid": "42992287",
+      "title": "Water sorption, solubility, and relative deformation of thermoplastic materials used for clear aligners: An in vitro study.",
+      "abstract": "BACKGROUND: Thermoplastic materials used in the fabrication of clear aligners are continuously exposed to the oral environment; therefore, properties such as water sorption, solubility, and dimensional stability may influence their clinical performance. The objective is to compare, through an in vitro study, the physical properties of thermoplastic materials used for the fabrication of orthodontic aligners, under non-thermoformed and thermoformed conditions, after immersion in distilled water.\nMATERIALS AND METHODS: A total of 104 specimens obtained from four commercial thermoplastic materials: Claris, Pro Aligner X, Taglus Premium, and Essix ACE® were evaluated under non-thermoformed and thermoformed conditions (n=13 per group). Water sorption and solubility were determined according to ISO 20795-2 after immersion in distilled water at 37°C for seven days. Relative deformation was calculated from changes in thickness before and after immersion. Data were analyzed using one-way ANOVA or the Kruskal-Wallis test, according to data distribution (α=0.05).\nRESULTS: Significant differences in water sorption were observed among commercial brands in both non-thermoformed (p=0.008) and thermoformed samples (p<0.001). Thermoformed Claris showed the highest water sorption value (22.48 ± 3.20 μg/mm3). Solubility showed no significant differences among materials under any experimental condition (p>0.05). Relative deformation differed significantly among brands in both non-thermoformed and thermoformed samples (p<0.001), with the highest value recorded for thermoformed Claris (1.70 ± 0.79%).\nCONCLUSIONS: The evaluated thermoplastic materials showed different behaviors in water sorption and relative deformation after immersion in distilled water. Thermoformed Claris showed the highest water sorption and relative deformation values, suggesting greater dimensional susceptibility under the evaluated experimental conditions.",
+      "journal": "Journal of clinical and experimental dentistry",
+      "authors": "Lopez-Beraun Pablo, Liñan-Duran Carlos, Achachao-Almerco Kelly",
+      "pub_date": "2026-09-15",
+      "doi": "10.4317/jced.64490",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992287/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "b477156806e83a94ea8d94d4ba86bf947454faa5c3f02f734c259264f49a93ca",
+      "fetched_at_utc": "2026-11-07T00:57:54Z",
+      "updated_at_utc": "2026-11-07T00:57:54Z",
+      "summary_ja": "透明アライナー用熱可塑性材料4種（Claris、Pro Aligner X、Taglus Premium、Essix ACE）の吸水率、溶解性、相対変形を、非熱成形および熱成形条件下で蒸留水37°Cに7日間浸漬後に比較したin vitro研究。",
+      "key_takeaway_ja": "熱成形Clarisが最も高い吸水率（22.48 ± 3.20 μg/mm³）と相対変形（1.70 ± 0.79%）を示し、評価条件下で最も寸法安定性に劣る傾向があった。溶解性には材料間で有意差を認めなかった。",
+      "why_matters_ja": "planned-vs-achieved: 材料の相対変形が大きいほど、計画された歯の移動量と実際の達成量との乖離が生じる可能性があり、治療計画の精度に影響しうる。refinement: 寸法安定性の低い材料では、計画通りの力伝達が妨げられ、リファインメント回数の増加につながる可能性がある。",
+      "study_type_ja": "in vitro研究（材料試験）",
+      "endpoints_ja": "吸水率、溶解性、相対変形",
+      "endpoint_results_ja": "吸水率：非熱成形群（p=0.008）および熱成形群（p<0.001）で材料間に有意差。熱成形Clarisが最高値（22.48 ± 3.20 μg/mm³）。溶解性：いずれの条件でも有意差なし（p>0.05）。相対変形：非熱成形群および熱成形群で有意差（p<0.001）。熱成形Clarisが最高値（1.70 ± 0.79%）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:58:22Z"
     },
     {
       "pmid": "42751289",
@@ -6558,7 +6589,16 @@
       "japan_relevant": false,
       "content_sha256": "a15fed5edbbcdb152e38856a75d3fade9d02ffcd00521573870c41a3c19cc3fd",
       "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z"
+      "updated_at_utc": "2026-10-10T13:15:10Z",
+      "summary_ja": "18〜25歳の若年成人を対象に、アライナー矯正治療中の混合唾液の結晶化パターンにおける形態学的変化を調査した比較研究。対照群、アライナー治療（予防処置なし）群、アライナー治療（予防処置あり：Decasan溶液）群の3群で比較し、治療開始後3ヶ月および6ヶ月時の乾燥唾液の結晶構造を定性的・定量的に評価した。",
+      "key_takeaway_ja": "アライナー治療は混合唾液の結晶化に破壊的な形態学的変化を誘発するが、Decasan溶液の予防的応用により明確な保護効果が認められた。",
+      "why_matters_ja": "安全性の観点：アライナー治療が口腔内環境（唾液の結晶構造）に与える影響を定性的に示しており、予防的ケア（Decasan溶液）の併用が保護効果を持つことが示唆される。治療プロトコルにおける口腔衛生管理の重要性を裏付ける根拠となる。",
+      "study_type_ja": "比較研究（対照群と2つの介入群を含む観察研究）",
+      "endpoints_ja": "乾燥唾液の結晶化パターンの定性的・定量的指標、外周（タンパク質）領域のアモルファス構造のサイズと数",
+      "endpoint_results_ja": "抄録に具体的な数値は記載されていない。定性的な記述のみ：アライナー治療群では唾液結晶化の乱れが定性的・定量的指標から認められた。予防剤併用群では透明な結晶構造の破壊が少なく、外周（タンパク質）領域のアモルファス構造のサイズと数が減少した。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:58:48Z"
     },
     {
       "pmid": "40394411",
@@ -6637,7 +6677,16 @@
       "japan_relevant": false,
       "content_sha256": "946044d0e4603688d9d467b1571dac9f23474cba18dca7d6a4c614bb750cb73c",
       "fetched_at_utc": "2026-10-10T08:48:35Z",
-      "updated_at_utc": "2026-10-10T08:48:35Z"
+      "updated_at_utc": "2026-10-10T08:48:35Z",
+      "summary_ja": "Invisalignシステムの歯移動における有効性、デジタルプランニング、人工知能による管理に関する文献を体系的にレビューした。MEDLINE、Embase、Cochrane Oral Health Group's Trials Register、CENTRAL、ClinicalTrials.gov、National Research Register、Pro-Quest Dissertation Abstracts and Thesis databaseを検索し、24研究（後ろ向き15、前向き5、パイロット2、ケースコントロール2）を含む。Invisalignシステムは非抜歯症例において従来の矯正治療の有効な代替手段として認識されているが、SmartForceおよびSmartTrack材料の導入以降、治療の有効性が向上した。高品質なエビデンスは依然として不足している。",
+      "key_takeaway_ja": "Invisalignシステムは非抜歯症例において従来の矯正治療の有効な代替手段であるが、高品質なエビデンスは依然不足しており、ClinCheckソフトウェアの適切な管理とバイオメカニクスの正しい使用が治療効率の向上に不可欠である。",
+      "why_matters_ja": "計画品質：ClinCheckソフトウェアの適切な管理とバイオメカニクスの正しい使用が治療効率に必要とされ、デジタルプランニング開発時に力駆動システムを考慮すべきと指摘されている。planned-vs-achieved：技術の有効性評価方法が結果に影響を与えることが示唆されており、デジタルプランニングによる歯移動の管理が評価対象となっている。",
+      "study_type_ja": "Systematic Review",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:59:10Z"
     },
     {
       "pmid": "36989750",
@@ -6675,7 +6724,16 @@
       "japan_relevant": false,
       "content_sha256": "6d17d9d3e747a84e3c0350a4be0f7a1a6f2ef1279a6badc4e022edd508d37e8f",
       "fetched_at_utc": "2026-10-10T08:48:35Z",
-      "updated_at_utc": "2026-10-10T08:48:35Z"
+      "updated_at_utc": "2026-10-10T08:48:35Z",
+      "summary_ja": "Invisalign®による上顎横方向拡大の有効性と予測可能性を評価した系統的レビュー。PubMedから12本の論文を含む。有効性については、ほとんどの研究で測定された歯間距離の増加が示され、拡大の最大値は小臼歯部であった。予測可能性については、治療後モデルとClinCheck®モデルの間に有意な差が認められ、全体的に弱いとされた。拡大の性質と部位については、歯弓幅の増加は前歯部から後歯部へ減少する勾配を伴う冠の頬側チッピングに起因するとされた。",
+      "key_takeaway_ja": "Invisalign®は上顎横方向拡大に有効であるが、ClinCheck®ソフトウェアは臨床結果と比較して拡大移動を過大評価する傾向があり、移動の予測可能性は低い。",
+      "why_matters_ja": "planned-vs-achieved: 治療後モデルとClinCheck®モデルの間に有意な差が認められ、計画された拡大と達成された拡大の乖離が示唆される。refinement: ClinCheck®が拡大移動を過大評価する傾向があるため、治療計画段階での補正（refinement）の必要性が示唆される。",
+      "study_type_ja": "系統的レビュー",
+      "endpoints_ja": "有効性（歯間距離の増加、歯弓幅の増加）、予測可能性（治療後モデルとClinCheck®モデルの差）、拡大の性質（歯槽骨性 vs 骨性）、拡大の部位（歯弓上の位置）",
+      "endpoint_results_ja": "抄録には具体的な数値が記載されていない。定性的な記述のみ：「ほとんどの研究で測定された歯間距離の増加が示され、最大拡大は小臼歯部であった」「治療後モデルとClinCheck®モデルの間に有意な差が認められた」「歯弓幅の増加は前歯部から後歯部へ減少する勾配を伴う冠の頬側チッピングに起因した」",
+      "sample_size_ja": "12本の論文",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:59:40Z"
     },
     {
       "pmid": "34993617",
@@ -6709,7 +6767,16 @@
       "japan_relevant": false,
       "content_sha256": "f533209b9c9c949345ab90b73d7eee3b872bcae176ae792fc1db11c7f80be14e",
       "fetched_at_utc": "2026-10-10T08:48:35Z",
-      "updated_at_utc": "2026-10-10T08:48:35Z"
+      "updated_at_utc": "2026-10-10T08:48:35Z",
+      "summary_ja": "クリアアライナー治療（CAT）の臨床的有効性を評価するシステマティックレビューのオーバービュー（アンブレラレビュー）。2021年7月15日までに公開されたCATの有効性を調査したシステマティックレビューを包括的に検索し、361件の候補から18件を包含した。CATは軽度〜中等度の不正咬合に有効である一方、重度症例や特定の歯移動の達成では劣った結果が示された。治療期間については結果が矛盾するが、軽度〜中等度症例では短縮の可能性が示唆された。後戻りはCATで大きく、歯周健康は良好、根吸収リスクはCATで低い傾向であった。疼痛については結果が不明確だが、CATはより快適で食事・咀嚼への影響が小さいとされた。CATに関するエビデンスレベルは中等度であり、さらなる高品質なランダム化比較試験が必要と結論された。",
+      "key_takeaway_ja": "軽度〜中等度の不正咬合患者において、CATは固定装置の代替として使用できるが、重度症例には推奨されない。技術の進歩により、CATが計画されたアウトカムを達成する精度が向上する可能性がある。",
+      "why_matters_ja": "planned-vs-achieved: 重度症例や特定の歯移動ではCATが劣った結果を示し、技術の進歩が計画されたアウトカムの達成精度を向上させる可能性が示唆されている。安全性: 根吸収リスクはCATで低い傾向、歯周健康はCATで良好であった。",
+      "study_type_ja": "システマティックレビューのオーバービュー（アンブレラレビュー）",
+      "endpoints_ja": "軽度〜中等度不正咬合に対する有効性、重度症例に対する有効性、特定の歯移動の達成、治療期間、後戻り、歯周健康、根吸収リスク、疼痛・快適性、食事・咀嚼への影響",
+      "endpoint_results_ja": "361件の候補レビューが特定され、18件のシステマティックレビューが包含された。CATは軽度〜中等度の不正咬合に有効、重度症例や特定の歯移動では劣った結果。治療期間は結果が矛盾、軽度〜中等度では短縮の可能性。後戻りはCATで大きい、歯周健康は良好、根吸収リスクはCATで低い傾向。疼痛は不明確、CATはより快適で食事・咀嚼への影響が小さい。",
+      "sample_size_ja": "包含されたシステマティックレビュー18件（候補361件から選定）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T01:00:20Z"
     },
     {
       "pmid": "29957318",
@@ -6754,7 +6821,16 @@
       "japan_relevant": false,
       "content_sha256": "dde2203909fba87eef84655d14cee774640450c577646fb5e4b9b126cc35f5a7",
       "fetched_at_utc": "2026-10-10T08:48:35Z",
-      "updated_at_utc": "2026-10-10T08:48:35Z"
+      "updated_at_utc": "2026-10-10T08:48:35Z",
+      "summary_ja": "Invisalign治療を受けたClass I成人患者20名を対象とした後方視的研究。初回シリーズ完了後にリファインメントが必要となった患者について、ClinCheckの予測モデルとリファインメント開始時の達成モデルを後方歯で3D重ね合わせ（Slicer CMF）し、398歯の垂直・水平・回転移動量および横径を比較した。",
+      "key_takeaway_ja": "切歯の水平移動は予測と達成の差が0.20〜0.25 mmと高精度であった一方、上顎中切歯の圧入は中央値1.5 mmの差（P<0.001）、上顎犬歯の回転は3.05°の差（P<0.001）と、圧入と回転が最も不正確な移動であった。",
+      "why_matters_ja": "planned-vs-achievedの観点から、ClinCheckの予測精度が移動の種類によって大きく異なることを示しており、特に切歯の圧入と犬歯の回転ではリファインメントの必要性が高いことを裏付けている。治療計画段階での予測精度の認識が、リファインメント頻度の予測や患者説明に直結する。",
+      "study_type_ja": "後方視的研究（retrospective study）",
+      "endpoints_ja": "ClinCheck予測モデルとリファインメント開始時の達成モデルとの差（垂直移動、水平移動、回転移動、横径）",
+      "endpoint_results_ja": "切歯の水平移動：予測と達成の差は0.20〜0.25 mm（有意差なしまたは微小）。上顎中切歯の圧入：中央値差1.5 mm（P<0.001）。全歯の回転：達成値は予測値より有意に小さく、上顎犬歯で最大差3.05°（P<0.001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T01:00:39Z"
     }
   ]
 }
