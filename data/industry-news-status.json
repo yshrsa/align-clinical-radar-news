@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "checked_at_utc": "2026-11-07T00:57:29Z",
+  "checked_at_utc": "2026-11-08T00:42:39Z",
   "overall_status": "healthy",
   "counts": {
     "sources": 6,
     "healthy_sources": 6,
     "items": 40,
-    "new": 2
+    "new": 0
   },
   "sources": [
     {
