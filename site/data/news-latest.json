@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-08T00:42:43Z",
+  "generated_at_utc": "2026-11-09T00:57:11Z",
   "items": [
     {
       "pmid": "42970542",
@@ -43,6 +43,42 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-11-03T02:59:16Z"
+    },
+    {
+      "pmid": "42999713",
+      "title": "Improving the predictability of rotational correction with clear aligners: Evidence gaps, biomechanical principles, and clinical strategies.",
+      "abstract": "Clear aligner therapy (CAT) has evolved from an aesthetic modality into a widely used orthodontic treatment system capable of addressing increasingly complex malocclusions. Improvements in thermoplastic materials, digital planning, staging protocols, and attachment design have broadened the scope of treatment; however, rotational correction remains one of the least predictable tooth movements. The expression of derotation is influenced by tooth morphology, rotational direction, magnitude of correction, available space, staging velocity, attachment geometry, wear compliance, and unintended three-dimensional side effects. Yet much of the available evidence continues to evaluate rotation as a single endpoint, thereby limiting the clinical utility of reported predictability estimates. This narrative review synthesises clinical, systematic-review, and biomechanical evidence on rotational correction with clear aligners, emphasising movement-specific determinants, evidence limitations, and practical management strategies. The available literature suggests that derotation may be more predictable when treatment planning accounts for tooth-specific anatomy, movement magnitude and direction, space availability, staging strategy, attachment design, and treatment compliance. For severe or resistant rotations, adjunctive or hybrid mechanics may be considered when adequate expression cannot be achieved with aligner-only mechanics. Overall, a movement-specific and biomechanics-informed approach may help improve the clinical management of rotational correction, although further prospective evidence is needed to establish the relative contribution of individual treatment variables.",
+      "journal": "Journal of oral biology and craniofacial research",
+      "authors": "Kulkarni Preeti, Batra Puneet, Vaiid Nikhillesh",
+      "pub_date": "2026-10-30",
+      "doi": "10.1016/j.jobcr.2026.101567",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999713/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability",
+        "safety-patient-outcomes",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "749a9a755ef0f94647e6f76f18a89df1f573db3d237c1e2ac3fe09b54ba137e9",
+      "fetched_at_utc": "2026-11-09T00:56:48Z",
+      "updated_at_utc": "2026-11-09T00:56:48Z",
+      "summary_ja": "透明マウスピース矯正（CAT）における回転補正（derotation）の予測可能性を向上させるための叙述的レビュー。臨床、系統的レビュー、バイオメカニクスの証拠を統合し、歯形態・回転方向・補正量・可用スペース・ステージング速度・アタッチメント幾何学・装着遵守性・意図しない三次元的副作用など、運動特異的な決定因子と証拠の限界、実践的な管理戦略を論じる。",
+      "key_takeaway_ja": "治療計画が歯特異的解剖、運動量と方向、スペース可用性、ステージング戦略、アタッチメント設計、治療遵守性を考慮した場合、derotationの予測可能性は向上する可能性がある。重度・抵抗性回転に対しては、アライナー単独力学で十分な発現が得られない場合、補助的またはハイブリッド力学の検討が考慮される。",
+      "why_matters_ja": "planned-vs-achieved：回転補正は最も予測可能性が低い歯移動の一つであり、計画時の運動特異的変数（歯形態、方向、量、スペース、ステージング、アタッチメント、遵守性）の考慮が計画と達成の乖離を縮小する可能性を示唆。planning quality：運動特異的かつバイオメカニクスに基づくアプローチが臨床管理の改善に寄与し得ると指摘。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "回転補正（derotation）の予測可能性",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-09T00:57:11Z"
     },
     {
       "pmid": "42958839",
@@ -5704,40 +5740,6 @@
       "sample_size_ja": "全サンプル55例、ネスト型サブサンプル（T0-T1セファロメトリック記録完全）47例",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-11-03T03:01:35Z"
-    },
-    {
-      "pmid": "42345925",
-      "title": "Class II Malocclusion Correction Using \"Distalizing Bar Appliances\" and Clear Aligners: A Case Series and Clinical Technique.",
-      "abstract": "Background/Objectives: Class II malocclusion treatment in patients at the end of skeletal growth represents a significant clinical challenge. Traditional sequential distalization with clear aligners often requires prolonged treatment duration, carrying the risk of patient compliance burnout. This article describes a clinical technique combining a \"Distalizing Bar Appliance\" (DBA) with active lower clear aligners and Class II elastics for the management of dentoalveolar Class II malocclusion, and illustrates its application through a case series of three end-of-growth adolescent patients. Methods: Proposed inclusion criteria and a standardized three-phase workflow are presented: (1) distalization using a DBA supported by Class II elastics, with active lower clear aligners providing anchorage and concurrent crowding resolution; (2) alignment and arch coordination with clear aligners; and (3) finishing for occlusal settling. Results: In all three cases, a Class I molar and canine relationship was achieved, with cephalometric changes consistent with the dentoalveolar mechanisms previously reported for similar appliances and no clinically apparent mandibular skeletal changes. The concurrent use of active lower aligners allowed early crowding resolution, although careful monitoring of lower incisor and molar inclination was required to limit unwanted mesial tipping induced by Class II elastics. Conclusions: Within the limits of a case series, the technique appears clinically feasible and reproducible in carefully selected patients; comparative, controlled studies are needed before any claim of superior efficiency or effectiveness over established Class II treatment modalities can be made.",
-      "journal": "Dentistry journal",
-      "authors": "Bignotti Denis, Fracchia David, Lai Stefano, Curreli Fabio, Verdecchia Alessio, Spinas Enrico",
-      "pub_date": "2026-06-01",
-      "doi": "10.3390/dj14060334",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345925/",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "focal_related": false,
-      "matched_topics": [
-        "safety-patient-outcomes"
-      ],
-      "japan_relevant": false,
-      "content_sha256": "1530db9bbcc14fc4a9a1fc34c3203ec6fa6f68c44e8335eaf43dc9096ef55a55",
-      "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "骨格成長末期の思春期患者3例を対象に、Distalizing Bar Appliance（DBA）と下顎アクティブクリアアライナーおよびClass IIエラスティックを併用したClass II歯顎性不正咬合の治療法を提示した症例シリーズ。標準化された3フェーズのワークフロー（1: DBA＋Class IIエラスティックによる遠心移動、下顎アライナーによるアンカレッジ確保と並行した叢生解決、2: クリアアライナーによる整列とアーチ調整、3: 咬合安定のためのフィニッシング）を提案した。",
-      "key_takeaway_ja": "3例すべてでClass I臼歯・犬歯関係が達成され、頭影計測変化は歯顎性機構と一致し、下顎骨格変化は臨床的に認められなかった。ただしClass IIエラスティックによる下顎前歯・臼歯の不要な近心チッピングを抑制するため、傾斜の慎重なモニタリングが必要であった。",
-      "why_matters_ja": "ワークフロー：標準化された3フェーズのワークフローが提案されており、治療計画の構造化に参考となる。planned-vs-achieved：3例すべてでClass I臼歯・犬歯関係が達成され、頭影計測変化が歯顎性機構と一致した。安全性：下顎骨格変化は臨床的に認められなかったが、Class IIエラスティックによる下顎前歯・臼歯の不要な近心チッピングのモニタリングが必須とされ、アライナー治療中のアンカレッジ管理の注意点として示唆される。",
-      "study_type_ja": "症例シリーズ（3例）",
-      "endpoints_ja": "臼歯・犬歯関係（Class I達成）、頭影計測変化（歯顎性機構）、下顎骨格変化、下顎前歯・臼歯の傾斜（近心チッピング）、叢生解決",
-      "endpoint_results_ja": "3例すべてでClass I臼歯・犬歯関係が達成。頭影計測変化は類似装置で報告された歯顎性機構と一致。下顎骨格変化は臨床的に認められなかった。下顎アクティブアライナーの併用により早期の叢生解決が可能であった。下顎前歯・臼歯の傾斜の慎重なモニタリングが必要であった。",
-      "sample_size_ja": "3例（骨格成長末期の思春期患者）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-03T03:02:06Z"
     }
   ]
 }

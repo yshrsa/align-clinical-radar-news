@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-08T00:42:43Z",
+  "generated_at_utc": "2026-11-09T00:56:48Z",
   "documents": [
     {
       "pmid": "42970542",
@@ -43,6 +43,42 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-11-03T02:59:16Z"
+    },
+    {
+      "pmid": "42999713",
+      "title": "Improving the predictability of rotational correction with clear aligners: Evidence gaps, biomechanical principles, and clinical strategies.",
+      "abstract": "Clear aligner therapy (CAT) has evolved from an aesthetic modality into a widely used orthodontic treatment system capable of addressing increasingly complex malocclusions. Improvements in thermoplastic materials, digital planning, staging protocols, and attachment design have broadened the scope of treatment; however, rotational correction remains one of the least predictable tooth movements. The expression of derotation is influenced by tooth morphology, rotational direction, magnitude of correction, available space, staging velocity, attachment geometry, wear compliance, and unintended three-dimensional side effects. Yet much of the available evidence continues to evaluate rotation as a single endpoint, thereby limiting the clinical utility of reported predictability estimates. This narrative review synthesises clinical, systematic-review, and biomechanical evidence on rotational correction with clear aligners, emphasising movement-specific determinants, evidence limitations, and practical management strategies. The available literature suggests that derotation may be more predictable when treatment planning accounts for tooth-specific anatomy, movement magnitude and direction, space availability, staging strategy, attachment design, and treatment compliance. For severe or resistant rotations, adjunctive or hybrid mechanics may be considered when adequate expression cannot be achieved with aligner-only mechanics. Overall, a movement-specific and biomechanics-informed approach may help improve the clinical management of rotational correction, although further prospective evidence is needed to establish the relative contribution of individual treatment variables.",
+      "journal": "Journal of oral biology and craniofacial research",
+      "authors": "Kulkarni Preeti, Batra Puneet, Vaiid Nikhillesh",
+      "pub_date": "2026-10-30",
+      "doi": "10.1016/j.jobcr.2026.101567",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999713/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability",
+        "safety-patient-outcomes",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "749a9a755ef0f94647e6f76f18a89df1f573db3d237c1e2ac3fe09b54ba137e9",
+      "fetched_at_utc": "2026-11-09T00:56:48Z",
+      "updated_at_utc": "2026-11-09T00:56:48Z",
+      "summary_ja": "透明マウスピース矯正（CAT）における回転補正（derotation）の予測可能性を向上させるための叙述的レビュー。臨床、系統的レビュー、バイオメカニクスの証拠を統合し、歯形態・回転方向・補正量・可用スペース・ステージング速度・アタッチメント幾何学・装着遵守性・意図しない三次元的副作用など、運動特異的な決定因子と証拠の限界、実践的な管理戦略を論じる。",
+      "key_takeaway_ja": "治療計画が歯特異的解剖、運動量と方向、スペース可用性、ステージング戦略、アタッチメント設計、治療遵守性を考慮した場合、derotationの予測可能性は向上する可能性がある。重度・抵抗性回転に対しては、アライナー単独力学で十分な発現が得られない場合、補助的またはハイブリッド力学の検討が考慮される。",
+      "why_matters_ja": "planned-vs-achieved：回転補正は最も予測可能性が低い歯移動の一つであり、計画時の運動特異的変数（歯形態、方向、量、スペース、ステージング、アタッチメント、遵守性）の考慮が計画と達成の乖離を縮小する可能性を示唆。planning quality：運動特異的かつバイオメカニクスに基づくアプローチが臨床管理の改善に寄与し得ると指摘。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "回転補正（derotation）の予測可能性",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-09T00:57:11Z"
     },
     {
       "pmid": "42958839",
