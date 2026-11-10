@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "checked_at_utc": "2026-11-09T00:56:44Z",
+  "checked_at_utc": "2026-11-10T03:36:54Z",
   "overall_status": "healthy",
   "counts": {
     "sources": 6,
     "healthy_sources": 6,
-    "items": 40,
-    "new": 0
+    "items": 43,
+    "new": 3
   },
   "sources": [
     {
@@ -15,8 +15,8 @@
       "source_url": "https://www.aligntech.com/newsroom",
       "feed_url": "https://www.aligntech.com/newsroom",
       "status": "ok",
-      "fetched": 3,
-      "accepted": 3
+      "fetched": 0,
+      "accepted": 0
     },
     {
       "id": "orthodontic-products",

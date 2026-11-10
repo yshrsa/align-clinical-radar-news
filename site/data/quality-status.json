@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "checked_at_utc": "2026-11-09T00:57:11Z",
+  "checked_at_utc": "2026-11-10T03:39:27Z",
   "overall_status": "healthy",
   "freshness": {
     "status": "current",
     "age_hours": 0.0
   },
   "counts": {
-    "documents": 177,
-    "summarized": 177,
+    "documents": 182,
+    "summarized": 182,
     "pending": 0,
     "publishable": 150,
     "validation_problems": 0

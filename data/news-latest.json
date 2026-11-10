@@ -1,7 +1,101 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-09T00:57:11Z",
+  "generated_at_utc": "2026-11-10T03:39:27Z",
   "items": [
+    {
+      "pmid": "43000846",
+      "title": "[Rapid maxillary expansion and non-extraction clear aligner therapy for a growing patient with Angle class Ⅱ malocclusion: a case report].",
+      "abstract": "",
+      "journal": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
+      "authors": "Feng Y, Wang M Y, Tumaer Sailihan, Xue H X, Ma J J, Ma L X, Lin J",
+      "pub_date": "2026-11-05",
+      "doi": "10.3760/cma.j.cn112144-20260831-00473",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000846/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "4eeb763a46c3b37f0fc834757adda6d83ac8add3515add1bbf9fb95d017bc16d",
+      "fetched_at_utc": "2026-11-10T03:37:55Z",
+      "updated_at_utc": "2026-11-10T03:37:55Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-10T03:37:55Z"
+    },
+    {
+      "pmid": "43000845",
+      "title": "[Staged clear aligner treatment of Angle class Ⅱ malocclusion with a mandibular positional discrepancy: a case report].",
+      "abstract": "",
+      "journal": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
+      "authors": "Kuang W Y, Wang X Y, Nong J W, Xiong H",
+      "pub_date": "2026-11-05",
+      "doi": "10.3760/cma.j.cn112144-20260809-00431",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000845/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "aa17937681d2812296ccefd8405b11f450c17a1d89c694ea6acacf87549d4a15",
+      "fetched_at_utc": "2026-11-10T03:37:55Z",
+      "updated_at_utc": "2026-11-10T03:37:55Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-10T03:37:55Z"
+    },
+    {
+      "pmid": "43000831",
+      "title": "[Orthodontic treatment for patients with class Ⅱ malocclusion in the late mixed dentition stage].",
+      "abstract": "The essence of early intervention for class Ⅱ malocclusion lies in capitalizing on the \"golden window\" for growth modification. However, clinical decision-making has long centered on three key questions: \" when to treat, how to treat, and whether the treatment will be effective.\" This article proposes a \"clinical decision matrix based on growth potential and risk stratification\" within a four-dimensional diagnostic framework incorporating dental, skeletal, facial, and functional parameters. Cervical vertebral maturation determine growth potential (with cervical stage 2-3 representing the golden window), while the four-dimensional profile defines risk levels: their interaction dictates timing, technique selection, and therapeutic boundaries. The late mixed dentition stage (approximately 10-12 years) coincides with cervical stages 2-3 in most children, when the jaws exhibit active remodeling capacity and favorable responses to orthodontic forces. This article systematically addresses clinical characteristics, technical systems, and risk management strategies for class Ⅱ malocclusion in this age group, with emphasis on indication boundaries and synergistic pathways among functional appliances, clear aligner mandibular advancement, and maxillary expansion, alongside risk and clinician-patient communication protocols, aiming to provide a theoretically grounded and practically operable decision-making framework.",
+      "journal": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
+      "authors": "Jing D, Zhou L X, Fang B",
+      "pub_date": "2026-11-05",
+      "doi": "10.3760/cma.j.cn112144-20260809-00432",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000831/",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [],
+      "japan_relevant": false,
+      "content_sha256": "ea198d711951b0af9acc272c87184dd71c5ac297cb50cfd9e320d5c9e45c549f",
+      "fetched_at_utc": "2026-11-10T03:37:55Z",
+      "updated_at_utc": "2026-11-10T03:37:55Z",
+      "summary_ja": "Class II不正咬合の晩期混合歯列期（約10〜12歳、頚椎ステージ2〜3）における治療について、歯・骨格・顔面・機能の4次元診断枠組みと成長潜在力・リスク層別化に基づく臨床意思決定マトリックスを提案したレビュー論文。機能的装置、クリアアライナーによる下顎前方移動、上顎拡大の相乗的経路、リスク管理戦略、および臨床医-患者コミュニケーションプロトコルを体系的に論じた。",
+      "key_takeaway_ja": "頚椎成熟度（ステージ2〜3がゴールデンウィンドウ）と4次元プロファイルによるリスクレベルの相互作用が、治療タイミング・技術選択・治療境界を決定する臨床意思決定マトリックスを提示し、晩期混合歯列期のClass II治療に理論的かつ実用的な枠組みを提供する。",
+      "why_matters_ja": "治療計画品質：4次元診断枠組みとリスク層別化に基づく構造化された意思決定マトリックスが、治療計画の質的向上に寄与する可能性を示唆。ワークフロー：リスク管理戦略と臨床医-患者コミュニケーションプロトコルの体系化が、臨床ワークフローの標準化に寄与。また、クリアアライナーによる下顎前方移動が機能的装置・上顎拡大との相乗的経路の一つとして位置づけられており、Align製品の臨床的ポジションに関する文脈を提供する。",
+      "study_type_ja": "レビュー（臨床意思決定枠組みの提案）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-10T03:38:23Z"
+    },
     {
       "pmid": "42970542",
       "title": "Women's experience following orthodontic treatment with conventional fixed appliances and clear aligners: A qualitative study.",
@@ -2800,6 +2894,103 @@
       "summary_generated_at_utc": "2026-10-20T00:26:06Z"
     },
     {
+      "pmid": "43000352",
+      "title": "Effects of root length on maxillary canine bodily movement in clear aligner treatment: a finite element analysis.",
+      "abstract": "BACKGROUND: Clear aligner (CA) therapy has become a widely used treatment option; however, the ability to predict tooth movement remains limited, particularly in extraction cases. Root length is a critical anatomical factor that determines the centre of resistance and the tendency for rotation under orthodontic loading. However, its influence on CA biomechanics has not been thoroughly investigated. This study evaluated the effects of variations in maxillary canine root length on tooth movement patterns and periodontal ligament (PDL) stress distribution during CA treatment using finite element analysis (FEA).\nMETHODS: Three experimental models were established according to maxillary canine root length: normal root length (Model 1), short root length (Model 2), and long root length (Model 3). Each model was analysed under both attachment and non-attachment conditions. The CA was designed to translate the canine distally by 0.25 mm in bodily movement. Crown displacement, root displacement, moment-to-force ratio (M/F), torque loss-to-crown displacement ratio (TL/CD), rotational movements, and PDL von Mises stress were evaluated.\nRESULTS: Root length substantially influenced tooth movement patterns. Compared with Models 1 and 2, Model 3 exhibited reduced crown-root displacement differences, higher M/F ratios, and lower TL/CD values. Model 2 exhibited the greatest inclination tendency from the initial stage, with the maximum torque loss and rotation angle. The application of attachments improved rotational control and stress distribution across all models, with the most pronounced effect observed in Model 2. The maximum PDL stress under non-attachment conditions was approximately 6.1-fold higher than that observed under attachment conditions.\nCONCLUSIONS: This FEA suggests that maxillary canine root length influences tooth movement patterns and rotational control in CA therapy. Shorter roots demonstrated increased inclination tendencies, suggesting potential benefits from attachment-based rotational control and conservative movement protocols. These findings may inform root length-specific treatment planning considerations in CA therapy, although clinical validation is warranted.",
+      "journal": "BMC oral health",
+      "authors": "Lee Kyuyun, Kim Yong-Il, Park Heetae, Hikita Yu, Itamiya Tomoki, Yamaguchi Tetsutaro",
+      "pub_date": "2026-08-12",
+      "doi": "10.1186/s12903-026-09592-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000352/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Finite Element Analysis",
+        "Tooth Root",
+        "Cuspid",
+        "Tooth Movement Techniques",
+        "Periodontal Ligament",
+        "Maxilla",
+        "Biomechanical Phenomena",
+        "Humans",
+        "Dental Stress Analysis",
+        "Torque",
+        "Stress, Mechanical"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "focal_related": false,
+      "matched_topics": [
+        "safety-patient-outcomes",
+        "treatment-planning"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "b18acb25a9d6d9d6f8df4cfa311d10a4c2ade960b55384e34d552e56c5b142e6",
+      "fetched_at_utc": "2026-11-10T03:37:55Z",
+      "updated_at_utc": "2026-11-10T03:37:55Z",
+      "summary_ja": "上顎犬歯の根長がクリアアライナー治療中の歯移動パターンと歯槽骨膜(PDL)応力分布に与える影響を有限要素解析(FEA)で評価した研究。正常根長・短根長・長根長の3モデルをアタッチメント有/無の条件下で解析し、犬歯を0.25mm遠心方向にbodily movementさせるアライナーを設計した。",
+      "key_takeaway_ja": "根長は歯移動パターンに大きく影響し、短根では初期段階から最大の傾斜傾向・トルク損失・回転角を示し、長根では冠-根変位の差が小さくM/F比が高い。アタッチメントは全モデルで回転制御と応力分布を改善し、短根モデルで最も顕著な効果を示した。",
+      "why_matters_ja": "planned-vs-achievedの観点で、根長がbodily movementの予測可能性に大きく影響することを示唆し、短根では傾斜が生じやすくrefinement回数の増加や保守的なmovement protocolの必要性が示唆される。治療計画における根長別考慮の根拠となる。",
+      "study_type_ja": "有限要素解析(FEA)",
+      "endpoints_ja": "冠変位、根変位、M/F比、TL/CD比、回転運動、PDL von Mises応力",
+      "endpoint_results_ja": "非アタッチメント条件での最大PDL応力はアタッチメント条件の約6.1倍であった。",
+      "sample_size_ja": "3モデル（正常根長・短根長・長根長）× アタッチメント有/無の2条件",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-10T03:39:03Z"
+    },
+    {
+      "pmid": "43000322",
+      "title": "Efficiency of clearcorrect clear aligners in achieving anterior tooth movements.",
+      "abstract": "BACKGROUND: The aim of this study was to evaluate the efficiency and predictability of anterior tooth movements achieved using ClearCorrect aligners.\nMETHODS: Pre- and post-treatment digital orthodontic models of 20 patients treated with ClearCorrect aligners were retrospectively analyzed. Three angular (angulation, inclination, and rotation) and four linear (intrusion, extrusion, mesiodistal, and buccolingual translation) tooth movements were assessed for the maxillary and mandibular central and lateral incisors, as well as the canines. Achieved tooth movements were quantified for each tooth following superimposition of the pre- and post-treatment digital models using GOM Inspect Professional software, while predicted tooth movement values were obtained from ClearCorrect Doctor Portal. As the data were not normally distributed, comparisons between achieved and predicted movements were performed using the Mann-Whitney U test.\nRESULTS: Comparison of planned and achieved tooth movements revealed accuracy values ranging from 47.27% to 90.02% for most movements in both maxillary and mandibular arches. In maxillary teeth, planned and achieved values were generally comparable across central incisors, lateral incisors, and canines; however, mesiodistal translation of maxillary lateral incisors showed a significantly lower accuracy at 55.71% (p = 0.005). In mandibular teeth, most movement parameters showed no significant differences between planned and achieved values, except for the intrusion of mandibular incisors, which showed significantly lower accuracy at 56% (p = 0.002).\nCONCLUSIONS: ClearCorrect aligners showed moderate to high accuracy for most angular and translational movements of anterior teeth, while vertical movements, particularly intrusion and extrusion, were less predictable. Canines exhibited the greatest biomechanical stability, whereas incisors were more susceptible to variability.",
+      "journal": "BMC oral health",
+      "authors": "Altunsayar Hatice Günnur, Kaya Yeşim, Alkan Özer",
+      "pub_date": "2026-08-12",
+      "doi": "10.1186/s12903-026-08284-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000322/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tooth Movement Techniques",
+        "Incisor",
+        "Cuspid",
+        "Retrospective Studies",
+        "Orthodontic Appliance Design",
+        "Models, Dental",
+        "Maxilla",
+        "Orthodontic Appliances, Removable",
+        "Mandible",
+        "Female",
+        "Male",
+        "Treatment Outcome"
+      ],
+      "matched_assets": [
+        "clearcorrect"
+      ],
+      "matched_companies": [
+        "Straumann Group"
+      ],
+      "focal_related": false,
+      "matched_topics": [
+        "predictability"
+      ],
+      "japan_relevant": false,
+      "content_sha256": "6777dafce420c4a43c649d86e2b5b3781e71f95e551620a5b47313320f5e81ae",
+      "fetched_at_utc": "2026-11-10T03:37:55Z",
+      "updated_at_utc": "2026-11-10T03:37:55Z",
+      "summary_ja": "ClearCorrectアライナーによる前歯部歯移動の効率性と予測可能性を評価した後ろ向き研究。20症例の治療前後デジタルモデルをGOM Inspect Professionalで重ね合わせ、ClearCorrect Doctor Portalの計画値と達成値を比較した。上顎・下顎の切歯（中切歯・側切歯）および犬歯について、3種の角度移動（angulation, inclination, rotation）と4種の直線移動（intrusion, extrusion, mesiodistal, buccolingual translation）を評価した。",
+      "key_takeaway_ja": "ClearCorrectアライナーは前歯部の大部分の角度移動・直線移動で中程度から高い精度（47.27%〜90.02%）を示したが、垂直方向移動（特にintrusion/extrusion）は予測可能性が低かった。犬歯が最も生体力学的に安定し、切歯は変動に脆弱であった。",
+      "why_matters_ja": "planned-vs-achievedの精度評価において、上顎側切歯のmesiodistal translation（55.71%）と下顎切歯のintrusion（56%）で有意に低い精度が示され、これらの移動計画ではrefinementの必要性が高いことを示唆する。垂直方向移動の予測可能性の低さは、治療計画の品質管理において重要な留意点となる。",
+      "study_type_ja": "後ろ向き研究（retrospective analysis）",
+      "endpoints_ja": "計画値と達成値の歯移動精度（上顎・下顎の中切歯・側切歯・犬歯における3種の角度移動：angulation, inclination, rotation、4種の直線移動：intrusion, extrusion, mesiodistal, buccolingual translation）",
+      "endpoint_results_ja": "大部分の移動で精度は47.27%〜90.02%の範囲。上顎側切歯のmesiodistal translationは55.71%（p=0.005）で有意に低かった。下顎切歯のintrusionは56%（p=0.002）で有意に低かった。",
+      "sample_size_ja": "20症例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-10T03:39:27Z"
+    },
+    {
       "pmid": "42608683",
       "title": "Pediatric mainstream clear-aligner early orthodontic orders in Guangdong public tertiary hospitals: service patterns, service-duration tiers and order conversion.",
       "abstract": "BACKGROUND: Early orthodontic assessment is increasingly recognized as part of child oral-health and dentofacial developmental care. Clear-aligner therapy has expanded from adult permanent-dentition treatment to selected mixed-dentition and adolescent indications, but real-world evidence on pediatric clear-aligner service delivery in public hospital settings remains limited. This study examined pediatric mainstream clear-aligner orders in Guangdong, China, focusing on annual service patterns, city-level distribution, service-duration tiers, clinician participation and manufacturer-observed order conversion.\nMETHODS: This retrospective observational real-world service study used de-identified operational order records from public tertiary hospital settings in Guangdong. Eligible records were restricted to commercially manufactured pediatric mainstream clear-aligner orders with one-year, two-year or six-year service-duration categories; no in-house aligners were included. These categories mainly target children approximately 6-13 years of age in late primary, mixed and early permanent dentitions and were treated as administrative service tiers rather than validated clinical severity grades. Order conversion was defined as a non-missing production-scheduling date. Descriptive analyses summarized service-duration tier, year, city, public hospital institution type and anonymized clinician-account participation. A multivariable logistic regression model with city-clustered robust standard errors estimated exploratory associations with conversion.\nRESULTS: A total of 4,531 pediatric mainstream clear-aligner orders were submitted, and 3,994 progressed to production scheduling, yielding a crude conversion rate of 88.1%. The one-year, two-year and six-year categories accounted for 2,202, 2,048 and 281 orders, respectively, with conversion rates of 91.9%, 85.2% and 80.1%. By manufacturer-defined service-function positioning, the one-year and two-year categories were not positioned for extraction-including or molar-distalization pediatric workflows and accounted for most submitted and converted orders. A total of 362 anonymized clinician accounts submitted pediatric orders, and 346 had at least one converted pediatric order. Guangzhou and Shenzhen contributed the largest order volumes. Public stomatological hospitals had a higher crude conversion rate than Departments of Stomatology of public general hospitals (91.7% vs. 81.3%). Exploratory adjusted modeling suggested associations with service-duration category and institution type, but these findings were interpreted as service-process signals rather than clinical efficacy or treatment success.\nCONCLUSIONS: Pediatric mainstream clear-aligner early orthodontic orders showed heterogeneity by year, service-duration tier, city, institution type and clinician-account participation. The findings describe administrative ordering and production-scheduling patterns within a defined public-hospital manufacturer channel and should not be interpreted as evidence of clinical effectiveness, patient benefit, population-level treatment coverage or unmet need. Future research should link verified patient-residence data, official child-population denominators and clinical diagnostic records to estimate population-adjusted utilization and need-service alignment.",
@@ -5554,192 +5745,6 @@
       "sample_size_ja": "スコーピングレビューで41件の研究を特定（患者サンプルサイズは抄録に記載なし）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-11-02T00:51:32Z"
-    },
-    {
-      "pmid": "42351737",
-      "title": "Orthodontic Treatment-Induced Periodontal, Microbiological, and Local Inflammatory Changes: A Systematic Review and Meta-Analysis.",
-      "abstract": "Background/Objectives: Orthodontic treatment induces controlled mechanical forces that alter the periodontal environment, including changes in oral microbiota composition and activation of local inflammatory pathways. Despite the widespread and growing use of orthodontic appliances across all age groups, the magnitude, timing, and multi-domain biological impact of these changes have not been comprehensively quantified in a single systematic synthesis. This systematic review and meta-analysis aimed to synthesize the available evidence on periodontal clinical parameters, oral microbiota composition, and local inflammatory biomarkers associated with orthodontic treatment using fixed appliances and clear aligners, and to provide a structured, GRADE-rated evidence base for clinical practice. Methods: A systematic review and meta-analysis was conducted in accordance with PRISMA 2020 guidelines. PubMed/MEDLINE, Scopus, and Web of Science were searched from inception to March 2026. Prospective cohort studies, longitudinal clinical studies, and randomized controlled trials evaluating periodontal parameters, oral microbiota, and inflammatory biomarkers during orthodontic treatment were included. Quantitative synthesis was performed using mean differences or standardized mean differences with 95% confidence intervals, primarily assessing within-group (pre-post) changes. Results: Eighteen studies (n = 812 patients; follow-up 3-12 months) met inclusion criteria. Fixed orthodontic appliances were consistently associated with transient increases in plaque index (MD 0.45, 95% CI 0.32-0.58; I2 = 62%), gingival index (MD 0.38, 95% CI 0.25-0.51; I2 = 55%), and bleeding on probing (MD 15.2%, 95% CI 10.1-20.3%; I2 = 48%), particularly during early treatment phases. Microbiological analyses demonstrated within-group shifts toward increased prevalence of periodontopathogenic species (Streptococcus mutans OR 2.45, 95% CI 1.89-3.18; Porphyromonas spp. OR 2.14, 95% CI 1.67-2.75) in patients treated with fixed appliances. Local inflammatory responses were characterized by elevated IL-1β (MD 1.2, 95% CI 0.8-1.6) and IL-6 (MD 0.9, 95% CI 0.6-1.2) in gingival crevicular fluid. Certainty of evidence was rated moderate for plaque and gingival indices and low for microbiological and inflammatory outcomes (GRADE). Conclusions: Orthodontic treatment-particularly with fixed appliances-is associated with transient, reversible deterioration of periodontal indices, shifts toward a more dysbiotic oral microbiome, and elevation of local inflammatory mediators in gingival crevicular fluid during active treatment phases. These changes are manageable through structured preventive protocols and regular periodontal monitoring. Future prospective studies with concurrent control groups and standardized multi-domain outcome measures are needed to better define the magnitude and reversibility of these biological responses. PROSPERO: CRD420261336117.",
-      "journal": "Biomedicines",
-      "authors": "Gavrilescu Dragos-Mihai, Mateescu Diana-Maria, Marginean Andrei, Tudoran Cristina, Ilie Adrian-Cosmin, Badalica-Petrescu Marius, Surducan Dan Alexandru, Florescu Eduard",
-      "pub_date": "2026-06-09",
-      "doi": "10.3390/biomedicines14061308",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42351737/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "focal_related": false,
-      "matched_topics": [
-        "safety-patient-outcomes"
-      ],
-      "japan_relevant": false,
-      "content_sha256": "229886dd15a1f8eb928b1b94438aa1659cd450ebdb4e9ebadd3e754d7176a683",
-      "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "固定式矯正装置とクリアアライナーによる矯正治療に伴う歯周臨床パラメータ、口腔内マイクロバイオーム組成、局所炎症性バイオマーカーに関する証拠を統合したシステマティックレビューおよびメタアナリシス。18研究（n=812、フォローアップ3〜12ヶ月）が対象となり、GRADE評価付きの構造化エビデンスベースを提供することを目的とした。",
-      "key_takeaway_ja": "固定式矯正装置は、治療初期段階において歯周指数の一時的・可逆的な悪化、口腔内マイクロバイオームのディスバイオーシス方向へのシフト、歯肉溝液中の局所炎症性メディエーターの上昇と関連する。これらの変化は構造化された予防プロトコルと定期的な歯周モニタリングにより管理可能である。",
-      "why_matters_ja": "安全性：矯正治療に伴う歯周・微生物・炎症性変化の定量評価が提供され、治療中の生物学的リスクのmagnitudeとtimingを把握する根拠となる。ワークフロー：構造化予防プロトコルと定期的歯周モニタリングの必要性が示唆され、治療計画におけるモニタリング頻度や予防介入の設計に参考となる。",
-      "study_type_ja": "システマティックレビューおよびメタアナリシス",
-      "endpoints_ja": "歯周臨床パラメータ（プラーク指数、歯肉指数、プロービング時出血）、口腔内マイクロバイオーム組成（Streptococcus mutans、Porphyromonas spp.）、局所炎症性バイオマーカー（歯肉溝液中IL-1β、IL-6）",
-      "endpoint_results_ja": "プラーク指数：MD 0.45（95% CI 0.32-0.58；I²=62%）。歯肉指数：MD 0.38（95% CI 0.25-0.51；I²=55%）。プロービング時出血：MD 15.2%（95% CI 10.1-20.3%；I²=48%）。Streptococcus mutans：OR 2.45（95% CI 1.89-3.18）。Porphyromonas spp.：OR 2.14（95% CI 1.67-2.75）。IL-1β：MD 1.2（95% CI 0.8-1.6）。IL-6：MD 0.9（95% CI 0.6-1.2）。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-02T00:52:12Z"
-    },
-    {
-      "pmid": "42344551",
-      "title": "Clear aligner therapy beyond esthetics: oral health, polymer materials, and the environmental cost of digital orthodontics.",
-      "abstract": "Clear aligner therapy (CAT) has become a popular orthodontic option, driven by advances in digital workflows, increasing aesthetic demands, and perceived benefits in comfort and oral hygiene. Although its clinical effectiveness has been well documented, a thorough review of its biological and environmental effects remains incomplete. This narrative review consolidates current evidence on CAT, exploring their history, material makeup, impact on oral health, and emerging environmental concerns. Recent clinical and microbiological research indicates that CAT may improve plaque control and periodontal health compared with fixed appliances; however, these benefits are heavily influenced by patient behavior, baseline caries risk, treatment duration, and adherence to hygiene and dietary guidelines. Evidence shows that aligner materials can support bacterial and fungal biofilm growth and, under certain conditions, may lead to enamel demineralization or erosion, emphasizing the need for personalized risk assessments and proper aligner maintenance. From a materials standpoint, modern aligners are primarily made from thermoplastic and polyurethane polymers, designed to exert controlled orthodontic forces and ensure durability. While beneficial clinically, these materials are poorly degradable and have limited recyclability. Life cycle analyses reveal that the environmental impact of CAT extends beyond disposal to include polymer production, energy-intensive manufacturing, packaging, and distribution. Additionally, emerging research suggests that aligners may release microplastics during use, adding to concerns about plastic pollution beyond solid waste. Given the rapid growth of the global clear aligner market, even small amounts of material per patient can result in a significant environmental impact. Overall, the evidence indicates that clear aligner therapy involves a complex interplay among biomechanics, patient care, materials science, and environmental sustainability. An integrated, life-cycle-based strategy is crucial to guiding clinicians, researchers, and manufacturers toward treatments that are both effective and environmentally responsible.",
-      "journal": "Frontiers in dental medicine",
-      "authors": "Martínez-Hernández Javier Iván, Villegas-Mercado Carlos Esteban, Santana-Delgado Sandra Aidé, Orozco-Molina Grissel Guadalupe, Arreguín-Cano Juan Antonio, Ordóñez-Torres Karina, Luján-Aguilar Manuel Antonio, Duarte-Chávez Laura Isabel",
-      "pub_date": "2026-06-09",
-      "doi": "10.3389/fdmed.2026.1810940",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42344551/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "focal_related": false,
-      "matched_topics": [
-        "safety-patient-outcomes",
-        "scanning-digital-workflow"
-      ],
-      "japan_relevant": false,
-      "content_sha256": "8bfce945c78d71daf1b70639cf30d3f18aca10a39e76fc8da8cf7749796cf4a8",
-      "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "本論文は、クリアアライナー治療（CAT）の歴史、材料構成、口腔健康への影響、および環境への影響に関するナラティブレビューである。CATは固定装置と比較してプラークコントロールや歯周健康の改善を示す可能性があるが、患者の行動、初期う蝕リスク、治療期間、衛生・食事ガイドラインの遵守に大きく依存する。アライナー材料は細菌・真菌バイオフィルムの増殖を支持し、特定の条件下でエナメル質の脱灰や侵食を引き起こす可能性がある。材料面では、現代のアライナーは主に熱可塑性ポリマーとポリウレタンポリマーから構成され、制御された矯正力を発揮するよう設計されているが、分解性が低くリサイクル可能性が限定的である。ライフサイクル分析により、CATの環境影響は廃棄物処理だけでなく、ポリマー生産、エネルギー集約的な製造、包装、配送にまで及ぶことが示されている。また、アライナーが使用中にマイクロプラスチックを放出する可能性が示唆されている。",
-      "key_takeaway_ja": "クリアアライナー治療は生体力学、患者ケア、材料科学、環境持続可能性の複雑な相互作用を含み、統合的なライフサイクルベースの戦略が臨床医、研究者、製造業者を効果的かつ環境責任ある治療へ導くために不可欠である。",
-      "why_matters_ja": "安全性の観点：アライナー材料が細菌・真菌バイオフィルムの増殖を支持し、特定の条件下でエナメル質の脱灰や侵食を引き起こす可能性が示されており、個別化されたリスクアセスメントと適切なアライナーメンテナンスの必要性が強調されている。教育の観点：患者の行動、初期う蝕リスク、治療期間、衛生・食事ガイドラインの遵守がCATの口腔健康上の利益に大きく影響することが示されており、患者教育の重要性が示唆されている。",
-      "study_type_ja": "ナラティブレビュー",
-      "endpoints_ja": "プラークコントロール、歯周健康、細菌・真菌バイオフィルム増殖、エナメル質脱灰・侵食、環境影響（ライフサイクル分析）、マイクロプラスチック放出",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-02T00:52:33Z"
-    },
-    {
-      "pmid": "42356103",
-      "title": "Comparative Impact of Clear Aligners and Traditional Fixed Appliances on Oral Health-Related Quality of Life: A Systematic Review and Meta-Analysis.",
-      "abstract": "Background and Objectives: The impact of orthodontic appliances on oral health-related quality of life (OHRQoL) has gained increasing attention, particularly in relation to patient-centered outcomes. Clear aligners (CAs) are often perceived as more comfortable than fixed appliances (FAs), although evidence remains limited and heterogeneous. This systematic review and meta-analysis aimed to compare the effects of CAs and FAs on OHRQoL in patients with Angle class I malocclusion and to further evaluate the reliability of the findings using trial sequential analysis (TSA). Materials and Methods: This review followed PRISMA guidelines and was registered in PROSPERO (CRD420251051003). A comprehensive search of PubMed, Scopus, Web of Science, Embase, and Cochrane CENTRAL was conducted. Only randomized controlled trials comparing CAs and FAs and reporting OHRQoL outcomes (OHIP-14) were included. Random-effects meta-analyses were performed on early changes in OHRQoL. TSA was applied to control for type I and II errors and to evaluate the sufficiency of the cumulative evidence. Results: Two randomized controlled trials (n = 74) were included in the quantitative synthesis. Both treatments were associated with a transient deterioration in OHRQoL after appliance placement. Meta-analysis showed statistically significant improvements favoring CAs in psychological discomfort (p = 0.007) and psychological disability (p < 0.001), while no significant differences were observed for other domains or for overall OHRQoL. Exploratory TSA suggested an early signal in favor of psychological outcomes, with the cumulative Z-curve crossing the monitoring boundary; however, given the very small number of included trials, these findings should be regarded as preliminary and hypothesis-generating rather than confirmatory. In contrast, for most other outcomes, the required information size was not reached and results remained inconclusive. For handicap, TSA suggested that a clinically relevant difference is unlikely. Conclusions: Clear aligners may provide a modest short-term advantage over fixed appliances in psychological aspects of OHRQoL, while no consistent differences are observed in physical or overall domains, based on very limited evidence. TSA suggests a preliminary signal in psychological outcomes but highlights insufficient evidence for most other domains. These results should be interpreted with caution, and further high-quality randomized trials are needed.",
-      "journal": "Medicina (Kaunas, Lithuania)",
-      "authors": "Lalli Elisabetta, Caramaschi Elena, Nieri Agnese, Vitale Sara, Ledda Maurizio, Porcu Giulia, Delogu Pier Luigi, Verdecchia Alessio",
-      "pub_date": "2026-06-04",
-      "doi": "10.3390/medicina62061090",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42356103/",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Quality of Life",
-        "Oral Health",
-        "Orthodontic Appliances, Fixed"
-      ],
-      "matched_assets": [],
-      "matched_companies": [],
-      "focal_related": false,
-      "matched_topics": [
-        "safety-patient-outcomes"
-      ],
-      "japan_relevant": false,
-      "content_sha256": "b1666b76c8bbf9e49f791007f25b74ffe01fbf15b9c37fa05545e1b5a378ad33",
-      "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "Angle I不正咬合患者における透明マウスピース（CA）と固定式矯正装置（FA）の口腔健康関連QOL（OHRQoL）への影響を比較したシステマティックレビューおよびメタアナリシス。PRISMAガイドラインに従い、PubMed、Scopus、Web of Science、Embase、Cochrane CENTRALを検索し、CAとFAを比較してOHIP-14を報告したRCTのみを包含した。2件のRCT（n=74）が定量統合に包含された。両治療群ともに装置装着後にOHRQoLの一時的悪化が認められた。メタアナリシスでは、心理的不快感（p=0.007）と心理的障害（p<0.001）においてCAが統計的に有意に優位であったが、その他のドメインおよびOHRQoL全体では有意差は認められなかった。TSAでは心理的アウトカムに早期シグナルが示されたが、包含試験数が極めて少なく、仮説生成段階の知見にとどまる。",
-      "key_takeaway_ja": "透明マウスピースは固定式矯正装置に対し、OHRQoLの心理的側面で modest な短期的優位性を示唆するが、証拠は極めて限定的（2件のRCT、n=74）であり、確認的結論は得られていない。",
-      "why_matters_ja": "安全性（患者の快適性・心理的負担）の観点から、透明マウスピースが心理的不快感・心理的障害において固定式装置より優位である可能性が示唆される。ただし証拠が極めて限定的であり、患者への説明や期待値の管理（教育）において、現時点では確定的な優位性を主張できる段階ではない点に留意が必要。",
-      "study_type_ja": "システマティックレビューおよびメタアナリシス",
-      "endpoints_ja": "OHRQoL（OHIP-14）：心理的不快感、心理的障害、その他のドメイン、OHRQoL全体",
-      "endpoint_results_ja": "両治療群ともに装置装着後にOHRQoLの一時的悪化。CAがFAより統計的に有意に優位：心理的不快感（p=0.007）、心理的障害（p<0.001）。その他のドメインおよびOHRQoL全体では有意差なし。TSA：心理的アウトカムで累積Z曲線がモニタリング境界を交差（早期シグナル）。その他の大部分のアウトカムでは必要情報サイズに達せず不確定。handicapについてはTSAが臨床的に有意な差はunlikelyと示唆。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-03T02:59:43Z"
-    },
-    {
-      "pmid": "42352289",
-      "title": "Material Properties of Composite Resins Used for Orthodontic Attachments in Clear Aligner Therapy: A Systematic Review.",
-      "abstract": "Clear aligner therapy has become increasingly widespread in contemporary orthodontics, relying on composite resin attachments to enhance force transmission and improve the predictability of tooth movement. The physicochemical and mechanical properties of these biomaterials play a crucial role in attachment durability, dimensional stability, and esthetic performance during treatment. This systematic review aimed to evaluate how different composite resin types influence the mechanical, optical, and functional performances of orthodontic attachments used in clear aligner therapy. A systematic literature search was conducted in the PubMed, Scopus, and Cochrane databases for studies published between 2015 and 2025, following PRISMA guidelines. In vitro studies and clinical trials evaluating composite resins used for attachment fabrication were included. Fifteen studies met the eligibility criteria, including eleven laboratory investigations and four clinical studies. The evaluated outcomes comprised shear bond strength, wear resistance, surface roughness, microhardness, color stability, and accuracy of attachment reproduction. Overall, all evaluated composite resins demonstrated shear bond strength values within clinically acceptable ranges. However, significant differences were observed in the material performances depending on the resin composition and viscosity. Nanohybrid and high-viscosity composite resins were generally associated with improved mechanical resistance, reduced wear, and greater dimensional stability, although SBS outcomes should be interpreted in light of the bonding protocols used. In contrast, flowable composite resins showed improved handling and adaptation to attachment molds but presented higher susceptibility to surface degradation and discoloration. The findings suggest that the composition and properties of composite resins significantly influence the mechanical and optical behavior of orthodontic attachments. Optimizing material selection according to biomechanical demands and esthetic requirements may improve attachment longevity and treatment predictability in clear aligner therapy. Clinicians should prioritize nanohybrid or high-viscosity composite resins for high-load attachments and use flowable composite resins materials when adaptation and esthetics are critical.",
-      "journal": "Biomolecules",
-      "authors": "Frias Lara, Fidalgo-Pereira Rita, Noites Rita, Correia Maria J, Gomes Ana T P C, Lopes Pedro C",
-      "pub_date": "2026-06-02",
-      "doi": "10.3390/biom16060822",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42352289/",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "mesh_terms": [
-        "Composite Resins",
-        "Humans",
-        "Shear Strength",
-        "Surface Properties",
-        "Orthodontics"
-      ],
-      "matched_assets": [],
-      "matched_companies": [],
-      "focal_related": false,
-      "matched_topics": [
-        "predictability"
-      ],
-      "japan_relevant": false,
-      "content_sha256": "f2dc27e5c5019293787ceff57b82d34a91c1527d564af7e4753a189b1dcc2eae",
-      "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "クリアアライナー治療で使用するコンポジットレジンアタッチメントの材料特性を評価したシステマティックレビュー。PubMed、Scopus、Cochraneデータベースから2015〜2025年間の文献をPRISMAガイドラインに従い検索し、15研究（11件のin vitro研究、4件の臨床研究）が対象となった。評価項目はせん断接着強度、耐摩耗性、表面粗さ、マイクロ硬さ、色安定性、アタッチメント再現精度であった。",
-      "key_takeaway_ja": "ナノハイブリッドおよび高粘度コンポジットレジンが機械的強度の向上、摩耗の低減、寸法安定性の向上と関連し、フローアブルレジンが適応性と操作性に優れる一方、表面劣化と変色への感受性が高い。材料の組成と粘度がアタッチメントの機械的・光学的挙動に有意に影響する。",
-      "why_matters_ja": "planned-vs-achieved: アタッチメントの耐久性と寸法安定性が歯移動の予測可能性に直接影響し、計画通りの歯移動の達成率に関わる。refinement: アタッチメントの劣化・脱落が治療期間中のリファインメント回数を増加させる可能性があり、材料選択の最適化がリファインメント頻度の低減に寄与しうる。",
-      "study_type_ja": "システマティックレビュー",
-      "endpoints_ja": "せん断接着強度（SBS）、耐摩耗性、表面粗さ、マイクロ硬さ、色安定性、アタッチメント再現精度",
-      "endpoint_results_ja": "抄録には具体的な数値は記載されていない。記載されているのは「すべての評価対象コンポジットレジンが臨床的に許容範囲のせん断接着強度を示した」および「レジン組成と粘度に応じて材料性能に有意な差が観察された」のみ。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-03T03:00:20Z"
-    },
-    {
-      "pmid": "42345929",
-      "title": "Longitudinal Changes in Occlusal Outcomes and Case Complexity with Invisalign® First in Early Mixed Dentition.",
-      "abstract": "Background: Interceptive orthodontic treatment during mixed dentition aims to reduce malocclusion complexity and improve occlusal development. Although Invisalign® First was introduced for Phase I therapy in growing patients, evidence regarding longitudinal occlusal outcomes and maintenance during dental development remains limited. This study described longitudinal changes in occlusal outcomes and case complexity using standardized indices in moderate-to-severe malocclusions. Methods: Records of children in early mixed dentition treated with Invisalign® First between 2019 and 2025 were retrospectively analyzed. The full sample comprised 55 patients with complete digital occlusal records at baseline (T0), post-treatment (T1), and after a minimum 18-month follow-up period (T2), enabling longitudinal assessment using the Peer Assessment Rating (PAR) Index. All patients underwent baseline cephalometric assessment for diagnosis and treatment planning. A nested subsample of 47 patients with complete paired T0-T1 cephalometric records was additionally evaluated using a literature-based mixed dentition complexity framework adapted from Align® clinical recommendations. Nonparametric tests (Wilcoxon and Friedman) were applied (α = 0.05). Results: Median PAR scores decreased from 22.0 (IQR 17.0-30.0) at T0 to 6.0 (IQR 1.0-8.0) at T1 and 7.0 (IQR 2.0-10.0) at T2, with no significant difference between T1 and T2 (p = 0.546). In the cephalometric subsample, global complexity decreased by 79.49 ± 22.43%, with correction rates exceeding 85% for dentoalveolar objectives and reaching 100% for posterior crossbite and open bite. Skeletal and sagittal molar components showed more limited improvement. Conclusions: Interceptive treatment with Invisalign® First showed longitudinal reductions in occlusal complexity and high dentoalveolar correction rates, with maintenance of occlusal outcomes during follow-up as patients transitioned from mixed to permanent dentition. These findings should be interpreted as descriptive longitudinal observations within a non-controlled design.",
-      "journal": "Dentistry journal",
-      "authors": "Pinho Teresa, Novais Martim, Gonçalves Maria Dos Prazeres",
-      "pub_date": "2026-06-02",
-      "doi": "10.3390/dj14060338",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345929/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "invisalign"
-      ],
-      "matched_companies": [
-        "Align Technology"
-      ],
-      "focal_related": true,
-      "matched_topics": [
-        "treatment-planning"
-      ],
-      "japan_relevant": false,
-      "content_sha256": "da84e36b42807cbfdf9a7b5d6fcf6e9c97906e9fdde6bf0e3989fe4d7b5de039",
-      "fetched_at_utc": "2026-10-10T13:15:10Z",
-      "updated_at_utc": "2026-10-10T13:15:10Z",
-      "summary_ja": "2019年から2025年にInvisalign Firstで治療された初期混合歯列期小児55例のレコードを後ろ向きに分析した縦断研究。PAR Indexを用いてベースライン（T0）、治療後（T1）、18ヶ月以上のフォローアップ（T2）で咬合評価を実施。さらに、T0-T1のセファロメトリック記録が揃った47例のネスト型サブサンプルについて、Align臨床推奨事項に準拠した混合歯列期複雑度フレームワークで評価した。PARスコアはT0の22.0からT1の6.0、T2の7.0に低下し、T1とT2間に有意差はなかった（p=0.546）。セファロメトリックサブサンプルでは全体的複雑度が79.49±22.43%低下し、歯槽骨目標の修正率は85%を超え、後方交叉咬合とオープンバイトでは100%に達した。骨格成分と矢状方向臼歯成分は改善が限定的であった。",
-      "key_takeaway_ja": "Invisalign Firstによる遮断的治療は、混合歯列期から永久歯列期への移行过程中に咬合結果を維持しつつ、咬合複雑度の縦断的低下と高い歯槽骨修正率を示した。",
-      "why_matters_ja": "planned-vs-achievedの観点：歯槽骨目標の修正率が85%を超え、後方交叉咬合とオープンバイトでは100%の修正率を示し、治療計画目標の達成度が高いことを示唆。refinementの観点：T1とT2でPARスコアに有意差がなかった（p=0.546）ことは、治療計画がフォローアップ期間中に追加のrefinementを要さず結果を維持したことを示唆。case complexityの観点：Align臨床推奨事項に準拠した複雑度フレームワークを用いて、治療前後の複雑度変化を定量化し、治療計画の複雑度評価に直接関連する。",
-      "study_type_ja": "後ろ向き縦断研究（非対照デザイン）",
-      "endpoints_ja": "PAR Indexスコア（T0, T1, T2）、全体的複雑度の変化率、歯槽骨目標の修正率、後方交叉咬合の修正率、オープンバイトの修正率、骨格成分および矢状方向臼歯成分の改善",
-      "endpoint_results_ja": "PARスコア：T0=22.0（IQR 17.0-30.0）、T1=6.0（IQR 1.0-8.0）、T2=7.0（IQR 2.0-10.0）、T1 vs T2 p=0.546。全体的複雑度：79.49±22.43%低下。歯槽骨目標の修正率：85%超。後方交叉咬合の修正率：100%。オープンバイトの修正率：100%。骨格成分および矢状方向臼歯成分：改善が限定的（具体的な数値は記載なし）。",
-      "sample_size_ja": "全サンプル55例、ネスト型サブサンプル（T0-T1セファロメトリック記録完全）47例",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-03T03:01:35Z"
     }
   ]
 }
